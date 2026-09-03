@@ -18,6 +18,7 @@
     "pass5": "tsx scripts/assign-ids.ts && tsx scripts/build-index.ts && tsx scripts/residual-budget.ts && tsx scripts/check-distribution.ts",
     "checkpoint:cp1": "tsx scripts/checkpoint-report.ts"
     ,"pass6": "tsx scripts/propose-edges.ts"
+    ,"pass7": "tsx scripts/adjudicate-edges.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",
