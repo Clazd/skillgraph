@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://skillgraph.local/schemas/domain.schema.json",
+  "title": "SkillGraph domain catalogue",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["domains"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "domains": {
+      "type": "array",
+      "minItems": 12,
+      "maxItems": 12,
+      "items": { "$ref": "#/$defs/domain" }
+    }
+  },
+  "$defs": {
+    "cluster": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "skill_budget"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "name": { "type": "string", "minLength": 1, "maxLength": 60 },
+        "skill_budget": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "domain": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name", "colour", "skill_budget", "clusters"],
+      "properties": {
+        "id": {
+          "enum": ["body", "care", "food", "home", "lang", "social", "reason", "learn", "digital", "eng", "art", "world"]
+        },
+        "name": { "type": "string", "minLength": 1, "maxLength": 60 },
+        "colour": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+        "skill_budget": { "type": "integer", "minimum": 1 },
+        "clusters": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 8,
+          "items": { "$ref": "#/$defs/cluster" }
+        }
+      }
+    }
+  }
+}

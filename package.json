@@ -1,0 +1,20 @@
+{
+  "name": "skillgraph",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.33.1",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "validate:skills": "tsx scripts/validate-skills.ts",
+    "validate": "pnpm run typecheck && pnpm run test && pnpm run validate:skills"
+  },
+  "devDependencies": {
+    "@types/node": "26.4.1",
+    "ajv": "8.20.0",
+    "tsx": "4.23.13",
+    "typescript": "7.0.2",
+    "vitest": "5.0.0"
+  }
+}
