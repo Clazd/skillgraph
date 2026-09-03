@@ -14,7 +14,9 @@
     "check-distribution": "tsx scripts/check-distribution.ts",
     "pass2": "tsx scripts/generate-pass2.ts"
     ,"pass3": "tsx scripts/normalise-granularity.ts",
-    "pass4": "tsx scripts/detect-duplicates.ts"
+    "pass4": "tsx scripts/detect-duplicates.ts",
+    "pass5": "tsx scripts/assign-ids.ts && tsx scripts/build-index.ts && tsx scripts/residual-budget.ts && tsx scripts/check-distribution.ts",
+    "checkpoint:cp1": "tsx scripts/checkpoint-report.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",

@@ -1,0 +1,86 @@
+{
+  "checkpoint": "CP1",
+  "active_skills": 1000,
+  "domain_histogram": {
+    "art": 90,
+    "body": 110,
+    "care": 70,
+    "digital": 80,
+    "eng": 110,
+    "food": 80,
+    "home": 70,
+    "lang": 90,
+    "learn": 50,
+    "reason": 80,
+    "social": 90,
+    "world": 80
+  },
+  "level_histogram": {
+    "L0": 60,
+    "L1": 120,
+    "L2": 200,
+    "L3": 230,
+    "L4": 200,
+    "L5": 130,
+    "L6": 50,
+    "L7": 10
+  },
+  "first_three_batches": {
+    "batches": [
+      1,
+      2,
+      3
+    ],
+    "sample": [
+      "Walk through a crowded space",
+      "Walk for twenty minutes",
+      "Walk heel to toe for five metres",
+      "Catch a slowly tossed ball",
+      "Turn toward a nearby sound",
+      "Take ten supported steps",
+      "Match another person's walking pace",
+      "Sit upright for one minute",
+      "Reach across the body",
+      "Lower from standing to sitting",
+      "Bring both hands together",
+      "Walk ten metres unaided",
+      "Throw a ball to a target",
+      "Move efficiently over mixed terrain",
+      "Step over a low obstacle",
+      "Transfer an object between hands",
+      "Change direction while walking",
+      "Walk while carrying a light object",
+      "Perform a mirrored movement sequence",
+      "Alternate hands in a simple pattern"
+    ]
+  },
+  "last_three_batches": {
+    "batches": [
+      76,
+      77,
+      78
+    ],
+    "sample": [
+      "Compare two code revisions",
+      "Engineer a resilient distributed platform",
+      "Create a branch for isolated work",
+      "Model threats for a small service",
+      "Automate a repeatable service deployment",
+      "Combine non-conflicting branches",
+      "Review an access-control rule set",
+      "Restore one file from an earlier revision",
+      "Trace name resolution for a host",
+      "Configure a service health check",
+      "Verify audit logs capture critical events",
+      "Harden a service against common misuse",
+      "Test an owned service for injection defensively",
+      "Store credentials outside source code",
+      "Test connectivity across one network hop",
+      "Rotate a compromised secret",
+      "Rewrite a local change into clear commits",
+      "Validate untrusted input at a boundary",
+      "Coordinate parallel changes across contributors",
+      "Locate the revision that introduced a defect"
+    ]
+  }
+}
