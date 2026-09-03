@@ -1,0 +1,28 @@
+{
+  "active_skills": 1000,
+  "hard_edges": 2533,
+  "soft_edges": 3794,
+  "hard_edges_per_node": 2.533,
+  "cross_domain_hard_edges": 613,
+  "cross_domain_ratio": 0.242006,
+  "roots": 120,
+  "roots_by_domain": {
+    "art": 8,
+    "body": 48,
+    "care": 8,
+    "digital": 6,
+    "eng": 5,
+    "food": 5,
+    "home": 7,
+    "lang": 9,
+    "learn": 4,
+    "reason": 5,
+    "social": 9,
+    "world": 6
+  },
+  "connected_components": 1,
+  "longest_root_to_node_chain": 7,
+  "max_in_degree": 4,
+  "max_out_degree": 18,
+  "errors": []
+}

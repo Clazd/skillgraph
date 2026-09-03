@@ -8,7 +8,8 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "validate:skills": "tsx scripts/validate-skills.ts",
-    "validate": "pnpm run typecheck && pnpm run test && pnpm run validate:skills",
+    "validate:stage": "tsx scripts/validate-stage-graph.ts",
+    "validate": "pnpm run typecheck && pnpm run test && pnpm run validate:skills && pnpm run validate:stage",
     "build:index": "tsx scripts/build-index.ts",
     "residual-budget": "tsx scripts/residual-budget.ts",
     "check-distribution": "tsx scripts/check-distribution.ts",
@@ -22,6 +23,7 @@
     ,"pass8": "tsx scripts/assemble-groups.ts && tsx scripts/transitive-reduce.ts"
     ,"pass9": "tsx scripts/apply-alternative-routes.ts"
     ,"pass10": "tsx scripts/cross-domain-enrich.ts"
+    ,"pass11": "tsx scripts/detect-cycles.ts && tsx scripts/validate-stage-graph.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",
