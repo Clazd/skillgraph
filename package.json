@@ -19,6 +19,7 @@
     "checkpoint:cp1": "tsx scripts/checkpoint-report.ts"
     ,"pass6": "tsx scripts/propose-edges.ts"
     ,"pass7": "tsx scripts/adjudicate-edges.ts"
+    ,"pass8": "tsx scripts/assemble-groups.ts && tsx scripts/transitive-reduce.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",

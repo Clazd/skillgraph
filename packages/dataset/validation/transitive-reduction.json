@@ -1,0 +1,1060 @@
+{
+  "removed_count": 211,
+  "removed": [
+    {
+      "from": "art.craft-making.build-a-stable-three-dimensional-form",
+      "to": "art.craft-making.develop-a-prototype-through-three-iterations",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.craft-making.combine-rigid-and-flexible-materials",
+      "to": "art.craft-making.produce-a-matched-set-of-handmade-objects",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.craft-making.repair-a-damaged-handmade-object",
+      "to": "art.craft-making.produce-a-matched-set-of-handmade-objects",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.drawing.compose-three-objects-within-a-frame",
+      "to": "art.drawing.create-a-sustained-observational-drawing",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.music.arrange-a-piece-for-three-parts",
+      "to": "art.music.direct-a-small-ensemble",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.music.compose-a-complete-short-piece",
+      "to": "art.music.compose-and-realise-a-large-ensemble-work",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.music.improvise-over-a-repeating-harmonic-pattern",
+      "to": "art.music.orchestrate-a-multi-section-composition",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.music.rehearse-an-ensemble-section-efficiently",
+      "to": "art.music.compose-and-realise-a-large-ensemble-work",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.performance.hold-a-character-objective-through-a-scene",
+      "to": "art.performance.use-pauses-to-shape-a-performance",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.performance.memorise-a-one-minute-performance-text",
+      "to": "art.performance.use-pauses-to-shape-a-performance",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.performance.perform-rehearsed-piece",
+      "to": "art.performance.sustain-a-thirty-minute-live-performance",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.performance.project-the-voice-across-a-small-room",
+      "to": "art.performance.respond-to-a-scene-partner-in-the-moment",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.performance.respond-to-a-scene-partner-in-the-moment",
+      "to": "art.performance.adapt-blocking-to-a-changed-space",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.performance.use-pauses-to-shape-a-performance",
+      "to": "art.performance.sustain-a-thirty-minute-live-performance",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.photography.balance-foreground-and-background",
+      "to": "art.photography.plan-a-documentary-photo-sequence",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.photography.capture-consistent-images-across-a-series",
+      "to": "art.photography.photograph-a-high-contrast-scene-reliably",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.photography.light-a-portrait-with-one-source",
+      "to": "art.photography.photograph-a-high-contrast-scene-reliably",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.video-motion.frame-a-continuous-thirty-second-shot",
+      "to": "art.video-motion.build-a-title-sequence",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "art.video-motion.record-clear-speech-with-ambient-sound",
+      "to": "art.video-motion.create-a-smooth-animated-transition",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.balance-one-leg-20s",
+      "to": "body.balance-coordination.change-rhythm-without-losing-the-pattern",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.balance-one-leg-20s",
+      "to": "body.balance-coordination.coordinate-hands-and-feet-in-sequence",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.endurance.climb-stairs-for-five-minutes",
+      "to": "body.endurance.jog-continuously-for-ten-minutes",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.endurance.hike-for-three-hours-with-breaks",
+      "to": "body.endurance.plan-and-pace-an-all-day-endurance-effort",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.endurance.sustain-self-propelled-30m",
+      "to": "body.endurance.sustain-a-two-hour-endurance-effort",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.endurance.walk-continuously-for-ten-minutes",
+      "to": "body.endurance.cycle-continuously-for-one-hour",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.endurance.walk-continuously-for-ten-minutes",
+      "to": "body.endurance.walk-briskly-for-thirty-minutes",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.strength-carry.carry-five-kilograms-for-twenty-metres",
+      "to": "body.strength-carry.carry-fifteen-kilograms-over-stairs",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.strength-carry.hold-a-light-object-overhead",
+      "to": "body.strength-carry.move-a-bulky-object-with-a-partner",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.strength-carry.lift-a-ten-kilogram-object-safely",
+      "to": "body.strength-carry.lift-repeated-loads-with-stable-form",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.water-and-wheels.control-bicycle-15m",
+      "to": "body.water-and-wheels.control-a-bicycle-on-varied-surfaces",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.water-and-wheels.enter-shallow-water-safely",
+      "to": "body.water-and-wheels.mount-and-dismount-a-bicycle",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.water-and-wheels.enter-shallow-water-safely",
+      "to": "body.water-and-wheels.tread-water-for-one-minute",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.water-and-wheels.float-with-support-for-thirty-seconds",
+      "to": "body.water-and-wheels.swim-ten-metres-to-an-exit",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "body.water-and-wheels.swim-ten-metres-to-an-exit",
+      "to": "body.water-and-wheels.signal-while-cycling",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.emergency-response.alert-nearby-people-to-danger",
+      "to": "care.emergency-response.guide-another-person-to-an-exit",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.emergency-response.call-emergency-help",
+      "to": "care.emergency-response.use-a-fire-blanket-on-a-training-setup",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.emergency-response.choose-a-safe-assembly-point",
+      "to": "care.emergency-response.account-for-people-after-evacuation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.emergency-response.give-responders-a-concise-situation-report",
+      "to": "care.emergency-response.coordinate-a-small-area-evacuation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.first-aid.monitor-a-casualty-until-help-arrives",
+      "to": "care.first-aid.prioritise-care-for-two-casualties",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.injury-prevention.adjust-a-work-surface-to-neutral-posture",
+      "to": "care.injury-prevention.choose-footwear-for-the-activity-surface",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.injury-prevention.adjust-a-work-surface-to-neutral-posture",
+      "to": "care.injury-prevention.set-up-lighting-for-a-manual-task",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.injury-prevention.choose-footwear-for-the-activity-surface",
+      "to": "care.injury-prevention.design-an-injury-prevention-checklist",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.injury-prevention.clear-a-walking-path-of-trip-hazards",
+      "to": "care.injury-prevention.plan-rest-breaks-for-repetitive-work",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.injury-prevention.set-up-lighting-for-a-manual-task",
+      "to": "care.injury-prevention.audit-a-repeated-task-for-strain-risks",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.risk-assessment.choose-one-control-for-a-simple-hazard",
+      "to": "care.risk-assessment.document-a-five-hazard-assessment",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.risk-assessment.compare-two-risk-control-options",
+      "to": "care.risk-assessment.prioritise-controls-by-effectiveness",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.risk-assessment.create-activity-risk-plan",
+      "to": "care.risk-assessment.prioritise-controls-by-effectiveness",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.risk-assessment.distinguish-a-hazard-from-its-consequence",
+      "to": "care.risk-assessment.reassess-risk-after-a-condition-changes",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.risk-assessment.estimate-likelihood-using-three-categories",
+      "to": "care.risk-assessment.compare-two-risk-control-options",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.risk-assessment.identify-immediate-hazard",
+      "to": "care.risk-assessment.choose-one-control-for-a-simple-hazard",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.sleep-rest.plan-a-consistent-sleep-opportunity",
+      "to": "care.sleep-rest.adjust-a-rest-plan-after-poor-sleep",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.sleep-rest.plan-a-consistent-sleep-opportunity",
+      "to": "care.sleep-rest.protect-a-rest-period-from-interruptions",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.sleep-rest.prepare-a-low-stimulation-rest-space",
+      "to": "care.sleep-rest.adjust-a-rest-plan-after-poor-sleep",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "care.sleep-rest.prepare-a-low-stimulation-rest-space",
+      "to": "care.sleep-rest.protect-a-rest-period-from-interruptions",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.adjust-device-setting",
+      "to": "digital.devices-os.free-storage-without-deleting-needed-files",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.back-up-a-device-to-removable-storage",
+      "to": "digital.devices-os.resolve-an-application-conflict",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.choose-an-accessible-input-setting",
+      "to": "digital.devices-os.back-up-a-device-to-removable-storage",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.choose-an-accessible-input-setting",
+      "to": "digital.devices-os.create-a-local-user-account",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.connect-a-device-to-a-wireless-network",
+      "to": "digital.devices-os.manage-application-permissions",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.diagnose-a-failing-peripheral",
+      "to": "digital.devices-os.restore-a-distributed-digital-archive",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.free-storage-without-deleting-needed-files",
+      "to": "digital.devices-os.diagnose-a-failing-peripheral",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.manage-application-permissions",
+      "to": "digital.devices-os.restore-a-device-from-a-backup",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.devices-os.restore-a-device-from-a-backup",
+      "to": "digital.devices-os.restore-a-distributed-digital-archive",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.digital-safety.create-a-unique-account-password",
+      "to": "digital.digital-safety.remove-hidden-location-data-from-a-photo",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.digital-safety.enable-an-additional-sign-in-factor",
+      "to": "digital.digital-safety.share-a-file-with-limited-access",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.digital-safety.remove-hidden-location-data-from-a-photo",
+      "to": "digital.digital-safety.configure-encrypted-device-storage",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.digital-safety.secure-account-access",
+      "to": "digital.digital-safety.verify-a-software-download-source",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.media-handling.adjust-image-brightness-without-clipping",
+      "to": "digital.media-handling.convert-media-while-preserving-quality",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.media-handling.crop-export-image",
+      "to": "digital.media-handling.balance-speech-and-music-levels",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.media-handling.resize-an-image-to-stated-dimensions",
+      "to": "digital.media-handling.remove-background-noise-from-speech",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "digital.media-handling.rotate-an-image-without-distortion",
+      "to": "digital.media-handling.adjust-image-brightness-without-clipping",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.data-structures-algorithms.find-a-shortest-unweighted-path",
+      "to": "eng.data-structures-algorithms.prove-termination-for-an-iterative-algorithm",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.debugging.analyse-a-memory-growth-problem",
+      "to": "eng.debugging.lead-a-structured-incident-investigation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.debugging.bisect-a-behavioural-regression",
+      "to": "eng.debugging.debug-a-failure-across-service-boundaries",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.debugging.separate-symptoms-from-root-cause",
+      "to": "eng.debugging.design-instrumentation-for-an-intermittent-fault",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.security.apply-least-privilege-to-a-service-account",
+      "to": "eng.security.model-threats-for-a-small-service",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.security.harden-a-service-against-common-misuse",
+      "to": "eng.security.lead-defensive-security-architecture-review",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.security.review-authorised-service",
+      "to": "eng.security.lead-defensive-security-architecture-review",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.security.rotate-a-compromised-secret",
+      "to": "eng.security.harden-a-service-against-common-misuse",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.security.store-credentials-outside-source-code",
+      "to": "eng.security.verify-audit-logs-capture-critical-events",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.security.validate-untrusted-input-at-a-boundary",
+      "to": "eng.security.review-an-access-control-rule-set",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.security.verify-audit-logs-capture-critical-events",
+      "to": "eng.security.lead-defensive-security-architecture-review",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.systems-networking.automate-a-repeatable-service-deployment",
+      "to": "eng.systems-networking.engineer-a-resilient-distributed-platform",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.systems-networking.configure-a-service-health-check",
+      "to": "eng.systems-networking.trace-latency-across-service-boundaries",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.systems-networking.design-graceful-shutdown-behaviour",
+      "to": "eng.systems-networking.engineer-a-resilient-distributed-platform",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.systems-networking.inspect-a-process-listening-on-a-port",
+      "to": "eng.systems-networking.configure-a-service-health-check",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.systems-networking.trace-name-resolution-for-a-host",
+      "to": "eng.systems-networking.diagnose-resource-exhaustion",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.version-control.combine-non-conflicting-branches",
+      "to": "eng.version-control.locate-the-revision-that-introduced-a-defect",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.version-control.combine-non-conflicting-branches",
+      "to": "eng.version-control.rewrite-a-local-change-into-clear-commits",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.version-control.create-a-branch-for-isolated-work",
+      "to": "eng.version-control.locate-the-revision-that-introduced-a-defect",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.version-control.create-a-branch-for-isolated-work",
+      "to": "eng.version-control.rewrite-a-local-change-into-clear-commits",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.version-control.record-coherent-change",
+      "to": "eng.version-control.resolve-a-textual-merge-conflict",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.version-control.resolve-a-textual-merge-conflict",
+      "to": "eng.version-control.coordinate-parallel-changes-across-contributors",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.version-control.resolve-a-textual-merge-conflict",
+      "to": "eng.version-control.review-a-proposed-change-systematically",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "eng.web-frontend.persist-interface-state-locally",
+      "to": "eng.web-frontend.implement-an-offline-interface-fallback",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.baking.adjust-baking-time-for-portion-size",
+      "to": "food.baking.scale-a-baking-formula-to-a-new-yield",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.hosting.serve-food-at-safe-temperatures",
+      "to": "food.hosting.adapt-service-for-stated-dietary-needs",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.hosting.set-a-table-for-a-shared-meal",
+      "to": "food.hosting.coordinate-seating-and-serving-for-six",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.hosting.time-one-hot-and-one-cold-dish",
+      "to": "food.hosting.adapt-service-for-stated-dietary-needs",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.kitchen-safety.check-food-temperature-safely",
+      "to": "food.kitchen-safety.reheat-food-evenly",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.kitchen-safety.prevent-cross-contamination",
+      "to": "food.kitchen-safety.extinguish-a-small-pan-fire-safely",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.kitchen-safety.store-chilled-food-promptly",
+      "to": "food.kitchen-safety.sanitise-a-food-contact-surface",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.meal-planning.create-a-shopping-list-from-a-menu",
+      "to": "food.meal-planning.batch-overlapping-preparation-tasks",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.meal-planning.create-a-shopping-list-from-a-menu",
+      "to": "food.meal-planning.estimate-portions-for-four-people",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.seasoning-tasting.adjust-seasoning-in-small-increments",
+      "to": "food.seasoning-tasting.correct-an-oversalted-mixture",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.seasoning-tasting.identify-salt-intensity-in-a-sample",
+      "to": "food.seasoning-tasting.use-aroma-to-compare-freshness",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "food.seasoning-tasting.recognise-excessive-bitterness",
+      "to": "food.seasoning-tasting.match-seasoning-intensity-to-a-main-ingredient",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.electrical-plumbing-basics.diagnose-a-continuously-running-toilet",
+      "to": "home.electrical-plumbing-basics.trace-the-source-of-a-minor-leak",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.electrical-plumbing-basics.isolate-water-leak",
+      "to": "home.electrical-plumbing-basics.seal-a-small-threaded-plumbing-joint",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.electrical-plumbing-basics.replace-a-low-voltage-fitting",
+      "to": "home.electrical-plumbing-basics.trace-the-source-of-a-minor-leak",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.gardening.sow-seeds-at-a-stated-depth",
+      "to": "home.gardening.prune-a-dead-stem-cleanly",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.gardening.sow-seeds-at-a-stated-depth",
+      "to": "home.gardening.repot-a-plant-without-damaging-roots",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.gardening.water-a-container-without-runoff",
+      "to": "home.gardening.diagnose-under-watering-from-plant-signs",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.hand-tools.clamp-a-workpiece-securely",
+      "to": "home.hand-tools.maintain-and-store-hand-tools-safely",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.hand-tools.mark-a-straight-cutting-line",
+      "to": "home.hand-tools.clamp-a-workpiece-securely",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.hand-tools.tighten-a-fastener-without-stripping-it",
+      "to": "home.hand-tools.drill-a-straight-pilot-hole",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.hand-tools.use-pliers-to-grip-a-small-part",
+      "to": "home.hand-tools.level-a-mounted-object",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.repair-assembly.complete-multi-trade-repair",
+      "to": "home.repair-assembly.plan-a-repair-from-observed-symptoms",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.repair-assembly.diagnose-a-sticking-hinge",
+      "to": "home.repair-assembly.plan-a-repair-from-observed-symptoms",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.repair-assembly.follow-a-six-step-assembly-diagram",
+      "to": "home.repair-assembly.repair-a-small-surface-crack",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.repair-assembly.identify-matching-assembly-parts",
+      "to": "home.repair-assembly.align-two-parts-before-fastening",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.repair-assembly.identify-matching-assembly-parts",
+      "to": "home.repair-assembly.replace-a-simple-mechanical-fitting",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.textiles-sewing.repair-a-small-fabric-tear",
+      "to": "home.textiles-sewing.adjust-a-pattern-for-length",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.textiles-sewing.sew-secure-button",
+      "to": "home.textiles-sewing.take-body-measurements-for-a-garment",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "home.vehicle-basics.check-tyre-pressure-against-a-label",
+      "to": "home.vehicle-basics.identify-a-dashboard-warning-that-requires-stopping",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.comprehension-summary.condense-a-page-into-five-points",
+      "to": "lang.comprehension-summary.produce-an-executive-summary",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.comprehension-summary.extract-an-argument-s-supporting-reasons",
+      "to": "lang.comprehension-summary.separate-stated-facts-from-implications",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.comprehension-summary.reconcile-details-across-three-sources",
+      "to": "lang.comprehension-summary.synthesize-a-long-technical-document",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.comprehension-summary.trace-references-across-a-document",
+      "to": "lang.comprehension-summary.synthesize-a-long-technical-document",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.reading.analyse-structure-across-several-chapters",
+      "to": "lang.reading.interpret-a-dense-specialised-text",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.reading.follow-cross-references-in-a-document",
+      "to": "lang.reading.compare-rhetorical-choices-in-two-texts",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.reading.interpret-a-writer-s-qualified-claim",
+      "to": "lang.reading.interpret-a-dense-specialised-text",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.reading.read-a-twenty-page-text-for-detail",
+      "to": "lang.reading.read-a-long-argument-critically",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.ask-for-a-location-in-another-language",
+      "to": "lang.second-language.describe-a-routine-in-another-language",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.ask-for-a-location-in-another-language",
+      "to": "lang.second-language.follow-a-simple-transaction-in-another-language",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.exchange-greetings-in-another-language",
+      "to": "lang.second-language.describe-a-routine-in-another-language",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.exchange-greetings-in-another-language",
+      "to": "lang.second-language.follow-a-simple-transaction-in-another-language",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.exchange-practical-information",
+      "to": "lang.second-language.interpret-a-practical-conversation-between-languages",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.follow-a-simple-transaction-in-another-language",
+      "to": "lang.second-language.write-a-concise-message-in-another-language",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.give-personal-details-in-another-language",
+      "to": "lang.second-language.handle-an-unexpected-travel-question-bilingually",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.give-personal-details-in-another-language",
+      "to": "lang.second-language.read-a-short-practical-notice-in-another-language",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.handle-an-unexpected-travel-question-bilingually",
+      "to": "lang.second-language.sustain-a-twenty-minute-bilingual-conversation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.read-a-short-practical-notice-in-another-language",
+      "to": "lang.second-language.interpret-a-practical-conversation-between-languages",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.second-language.read-a-short-practical-notice-in-another-language",
+      "to": "lang.second-language.sustain-a-twenty-minute-bilingual-conversation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.speaking-listening.explain-a-process-in-sequence",
+      "to": "lang.speaking-listening.explain-a-complex-issue-without-notes",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.speaking-listening.follow-a-five-minute-spoken-explanation",
+      "to": "lang.speaking-listening.adapt-live-speech-for-mixed-audiences",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.speaking-listening.follow-a-five-minute-spoken-explanation",
+      "to": "lang.speaking-listening.moderate-a-detailed-spoken-exchange",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.speaking-listening.give-a-two-step-spoken-direction",
+      "to": "lang.speaking-listening.adjust-speaking-pace-for-a-listener",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.speaking-listening.give-a-two-step-spoken-direction",
+      "to": "lang.speaking-listening.paraphrase-another-person-s-statement",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.speaking-listening.repeat-a-spoken-instruction-accurately",
+      "to": "lang.speaking-listening.follow-a-five-minute-spoken-explanation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.speaking-listening.state-a-need-in-one-sentence",
+      "to": "lang.speaking-listening.explain-a-process-in-sequence",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.writing.edit-structured-report",
+      "to": "lang.writing.produce-a-publication-ready-article",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.writing.integrate-evidence-into-an-argument",
+      "to": "lang.writing.develop-a-sustained-written-argument",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.writing.integrate-evidence-into-an-argument",
+      "to": "lang.writing.rewrite-complex-material-in-plain-language",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.writing.write-a-coherent-long-form-essay",
+      "to": "lang.writing.develop-a-coherent-book-length-argument",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "lang.writing.write-a-technical-explanation-for-non-specialists",
+      "to": "lang.writing.develop-a-coherent-book-length-argument",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.deliberate-practice.choose-one-measurable-practice-variable",
+      "to": "learn.deliberate-practice.record-ten-practice-attempts-consistently",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.memory.group-twenty-items-into-categories",
+      "to": "learn.memory.diagnose-which-material-is-not-retained",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.memory.group-twenty-items-into-categories",
+      "to": "learn.memory.recall-key-points-after-one-week",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.memory.recall-a-five-step-sequence",
+      "to": "learn.memory.create-retrieval-questions-from-notes",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.memory.use-a-location-cue-to-retrieve-an-item",
+      "to": "learn.memory.diagnose-which-material-is-not-retained",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.memory.use-a-location-cue-to-retrieve-an-item",
+      "to": "learn.memory.recall-key-points-after-one-week",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.notes-capture.capture-decisions-during-a-meeting",
+      "to": "learn.notes-capture.convert-rough-notes-into-a-structured-outline",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.notes-capture.capture-decisions-during-a-meeting",
+      "to": "learn.notes-capture.create-an-index-for-a-note-collection",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.notes-capture.capture-five-key-points",
+      "to": "learn.notes-capture.link-related-notes-across-two-topics",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.notes-capture.record-a-source-beside-each-note",
+      "to": "learn.notes-capture.summarise-a-page-in-three-notes",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.synthesis.build-a-concept-map-from-five-sources",
+      "to": "learn.synthesis.transfer-an-explanatory-model-to-a-new-topic",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.synthesis.combine-four-sources",
+      "to": "learn.synthesis.write-a-synthesis-that-preserves-disagreement",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.synthesis.compare-conclusions-from-three-sources",
+      "to": "learn.synthesis.build-a-concept-map-from-five-sources",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "learn.synthesis.reconcile-conflicting-definitions",
+      "to": "learn.synthesis.write-a-synthesis-that-preserves-disagreement",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.algebra-symbolic.analyse-an-exponential-relationship",
+      "to": "reason.algebra-symbolic.verify-a-symbolic-derivation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.estimation-modelling.calibrate-a-model-from-observed-data",
+      "to": "reason.estimation-modelling.validate-a-model-on-held-out-observations",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.estimation-modelling.model-capacity-constraints",
+      "to": "reason.estimation-modelling.design-a-scenario-simulation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.estimation-modelling.model-capacity-constraints",
+      "to": "reason.estimation-modelling.model-feedback-between-two-quantities",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.geometry-measurement.calculate-the-area-of-a-rectangle",
+      "to": "reason.geometry-measurement.check-dimensional-consistency",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.geometry-measurement.calculate-the-area-of-a-rectangle",
+      "to": "reason.geometry-measurement.triangulate-an-inaccessible-distance",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.geometry-measurement.measure-an-angle-with-a-guide",
+      "to": "reason.geometry-measurement.scale-a-drawing-from-measurements",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "reason.geometry-measurement.measure-length-to-the-nearest-millimetre",
+      "to": "reason.geometry-measurement.calculate-the-volume-of-a-rectangular-object",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.groups-facilitation.facilitate-a-structured-decision",
+      "to": "social.groups-facilitation.facilitate-multi-party-crisis-dialogue",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.groups-facilitation.facilitate-ten-person-session",
+      "to": "social.groups-facilitation.facilitate-a-contentious-workshop",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.groups-facilitation.invite-input-from-a-quiet-participant",
+      "to": "social.groups-facilitation.redirect-a-dominating-participant",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.groups-facilitation.keep-a-discussion-on-one-question",
+      "to": "social.groups-facilitation.run-a-ten-minute-round-robin",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.groups-facilitation.redirect-a-dominating-participant",
+      "to": "social.groups-facilitation.guide-a-group-through-prioritisation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.listening-empathy.clarify-an-ambiguous-emotional-statement",
+      "to": "social.listening-empathy.sustain-supportive-listening-over-repeated-conversations",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.listening-empathy.support-someone-through-a-difficult-disclosure",
+      "to": "social.listening-empathy.coordinate-peer-support-while-preserving-privacy",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.listening-empathy.validate-an-experience-without-claiming-agreement",
+      "to": "social.listening-empathy.respond-to-distress-without-taking-control",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.presenting.answer-one-audience-question-directly",
+      "to": "social.presenting.handle-a-challenging-question-calmly",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.presenting.deliver-a-ten-minute-prepared-talk",
+      "to": "social.presenting.deliver-a-persuasive-twenty-minute-presentation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.presenting.explain-one-visual-aid-clearly",
+      "to": "social.presenting.deliver-a-ten-minute-prepared-talk",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.presenting.introduce-a-topic-in-thirty-seconds",
+      "to": "social.presenting.answer-one-audience-question-directly",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "social.presenting.introduce-a-topic-in-thirty-seconds",
+      "to": "social.presenting.present-without-reading-a-script",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.civic-navigation.find-the-responsible-public-service",
+      "to": "world.civic-navigation.prepare-a-factual-service-complaint",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.contracts-admin.submit-a-correction-to-an-application",
+      "to": "world.contracts-admin.audit-a-set-of-interdependent-agreements",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.contracts-admin.track-an-application-through-three-stages",
+      "to": "world.contracts-admin.negotiate-a-clear-service-amendment",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.money-budgeting.calculate-the-total-cost-of-instalments",
+      "to": "world.money-budgeting.adjust-a-budget-after-income-changes",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.money-budgeting.calculate-the-total-cost-of-instalments",
+      "to": "world.money-budgeting.plan-for-an-irregular-expense",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.money-budgeting.set-a-weekly-spending-limit",
+      "to": "world.money-budgeting.evaluate-a-loan-using-effective-cost",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.orientation-navigation.follow-a-route-using-cardinal-directions",
+      "to": "world.orientation-navigation.combine-several-transport-modes-on-one-route",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.orientation-navigation.navigate-an-unfamiliar-building",
+      "to": "world.orientation-navigation.plan-an-emergency-alternative-route",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.orientation-navigation.navigate-where-location-signals-are-unavailable",
+      "to": "world.orientation-navigation.navigate-a-multi-day-journey-from-maps",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.project-work.assign-an-owner-and-date-to-each-task",
+      "to": "world.project-work.estimate-effort-for-a-small-project",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.project-work.estimate-effort-for-a-small-project",
+      "to": "world.project-work.direct-a-multi-year-programme",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.project-work.manage-dependencies-across-three-contributors",
+      "to": "world.project-work.direct-a-multi-year-programme",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.project-work.manage-interdependent-project",
+      "to": "world.project-work.direct-a-multi-year-programme",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.project-work.track-blockers-in-a-shared-log",
+      "to": "world.project-work.manage-dependencies-across-three-contributors",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.time-planning.coordinate-availability-across-four-people",
+      "to": "world.time-planning.coordinate-a-year-long-programme",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.time-planning.plan-a-week-around-fixed-constraints",
+      "to": "world.time-planning.create-a-rolling-three-month-plan",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.time-planning.revise-a-schedule-after-a-delay",
+      "to": "world.time-planning.optimise-a-constrained-shared-schedule",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.travel.check-entry-and-transit-requirements",
+      "to": "world.travel.keep-essential-documents-accessible",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.travel.compare-routes-by-time-and-transfers",
+      "to": "world.travel.adapt-a-journey-after-cancellation",
+      "reason": "An alternate hard path already implies this prerequisite."
+    },
+    {
+      "from": "world.travel.pack-from-a-weather-based-checklist",
+      "to": "world.travel.plan-arrival-from-a-transport-terminal",
+      "reason": "An alternate hard path already implies this prerequisite."
+    }
+  ]
+}
