@@ -3566,7 +3566,13 @@
   {
     "id": "body.balance-coordination.throw-a-ball-to-a-target",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.balance-coordination.throw-to-a-moving-partner",
@@ -4186,7 +4192,13 @@
   {
     "id": "body.fine-motor.fasten-a-large-button",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.fine-motor.fold-paper-along-a-line",
@@ -4196,7 +4208,13 @@
   {
     "id": "body.fine-motor.manipulate-two-small-parts-together",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.fine-motor.pinch-and-release-a-small-object",
@@ -4206,7 +4224,13 @@
   {
     "id": "body.fine-motor.place-ten-pegs-accurately",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.fine-motor.rotate-small-object",
@@ -4221,7 +4245,13 @@
   {
     "id": "body.fine-motor.thread-a-large-opening",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.fine-motor.tie-a-simple-knot",
@@ -4261,7 +4291,13 @@
   {
     "id": "body.floor.move-from-lying-to-sitting",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.floor.open-and-close-one-hand",
@@ -4276,12 +4312,24 @@
   {
     "id": "body.floor.place-an-object-at-a-target",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.floor.point-to-a-nearby-target",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.floor.reach-across-the-body",
@@ -4314,12 +4362,24 @@
   {
     "id": "body.floor.roll-from-back-to-side",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.floor.shift-weight-while-seated",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.floor.sit-upright-for-one-minute",
@@ -4334,7 +4394,13 @@
   {
     "id": "body.floor.step-over-a-low-obstacle",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.floor.step-sideways-with-support",
@@ -4359,7 +4425,13 @@
   {
     "id": "body.floor.turn-toward-a-nearby-sound",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.locomotion.change-direction-while-walking",
@@ -4802,7 +4874,13 @@
   {
     "id": "body.locomotion.take-ten-supported-steps",
     "unlock_rules": [],
-    "builds_on": []
+    "builds_on": [
+      {
+        "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+        "strength": 0.35,
+        "note": "Related practice provides transferable context but is not required."
+      }
+    ]
   },
   {
     "id": "body.locomotion.walk-down-a-gentle-slope",

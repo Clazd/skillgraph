@@ -1,0 +1,345 @@
+{
+  "hard_edges": 2533,
+  "cross_domain_hard_edges": 613,
+  "cross_domain_ratio": 0.242006,
+  "union_components": 1,
+  "interpretation": "The three-domain connectivity condition is evaluated as transitive reachability. Direct-only reach is impossible for care, food, and home under the prompt's closed hub directions; no artificial edge was added.",
+  "enrichment": "not required; the ratio was already within range",
+  "soft_component_bridges": [
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.balance-coordination.throw-a-ball-to-a-target",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.fine-motor.fasten-a-large-button",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.fine-motor.manipulate-two-small-parts-together",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.fine-motor.place-ten-pegs-accurately",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.fine-motor.thread-a-large-opening",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.floor.move-from-lying-to-sitting",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.floor.place-an-object-at-a-target",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.floor.point-to-a-nearby-target",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.floor.roll-from-back-to-side",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.floor.shift-weight-while-seated",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.floor.step-over-a-low-obstacle",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.floor.turn-toward-a-nearby-sound",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    },
+    {
+      "from": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "to": "body.locomotion.take-ten-supported-steps",
+      "reason": "Soft bridge joins an otherwise isolated valid root without creating a false prerequisite."
+    }
+  ],
+  "domains": [
+    {
+      "domain": "art",
+      "incident_hard_edges": 61,
+      "direct_peer_domains": [
+        "body",
+        "digital",
+        "lang"
+      ],
+      "transitively_reachable_domains": [
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "body",
+      "incident_hard_edges": 75,
+      "direct_peer_domains": [
+        "art",
+        "lang"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "care",
+      "incident_hard_edges": 47,
+      "direct_peer_domains": [
+        "lang"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "digital",
+      "incident_hard_edges": 160,
+      "direct_peer_domains": [
+        "art",
+        "eng",
+        "lang",
+        "world"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "eng",
+      "incident_hard_edges": 89,
+      "direct_peer_domains": [
+        "digital",
+        "lang",
+        "reason"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "food",
+      "incident_hard_edges": 57,
+      "direct_peer_domains": [
+        "lang"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "home",
+      "incident_hard_edges": 51,
+      "direct_peer_domains": [
+        "lang"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "lang",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "lang",
+      "incident_hard_edges": 417,
+      "direct_peer_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "learn",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "learn",
+      "incident_hard_edges": 35,
+      "direct_peer_domains": [
+        "lang",
+        "reason",
+        "social"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "reason",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "reason",
+      "incident_hard_edges": 92,
+      "direct_peer_domains": [
+        "eng",
+        "lang",
+        "learn",
+        "world"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "social",
+        "world"
+      ]
+    },
+    {
+      "domain": "social",
+      "incident_hard_edges": 86,
+      "direct_peer_domains": [
+        "lang",
+        "learn",
+        "world"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "world"
+      ]
+    },
+    {
+      "domain": "world",
+      "incident_hard_edges": 56,
+      "direct_peer_domains": [
+        "digital",
+        "lang",
+        "reason",
+        "social"
+      ],
+      "transitively_reachable_domains": [
+        "art",
+        "body",
+        "care",
+        "digital",
+        "eng",
+        "food",
+        "home",
+        "lang",
+        "learn",
+        "reason",
+        "social"
+      ]
+    }
+  ]
+}
