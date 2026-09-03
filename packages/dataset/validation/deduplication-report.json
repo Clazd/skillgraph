@@ -1,0 +1,7 @@
+{
+  "candidates": 1000,
+  "normalised_name_duplicates": 0,
+  "semantic_failures": [],
+  "semantic_review": [],
+  "structural_check": "Skipped for pre-edge records under D3; unlock rules do not exist yet."
+}
