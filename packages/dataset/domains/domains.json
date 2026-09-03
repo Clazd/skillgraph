@@ -4,169 +4,175 @@
     {
       "id": "body",
       "name": "Body",
-      "colour": "#E85D75",
+      "colour": { "oklch": "oklch(0.62 0.15 20)", "hex": "#D15B60" },
       "skill_budget": 110,
       "clusters": [
-        { "id": "mobility", "name": "Mobility", "skill_budget": 20 },
-        { "id": "strength", "name": "Strength", "skill_budget": 18 },
-        { "id": "endurance", "name": "Endurance", "skill_budget": 18 },
-        { "id": "coordination", "name": "Coordination", "skill_budget": 18 },
-        { "id": "balance", "name": "Balance", "skill_budget": 18 },
-        { "id": "recovery", "name": "Recovery", "skill_budget": 18 }
+        { "id": "floor", "name": "Floor", "skill_budget": 22 },
+        { "id": "locomotion", "name": "Locomotion", "skill_budget": 20 },
+        { "id": "balance-coordination", "name": "Balance and Coordination", "skill_budget": 16 },
+        { "id": "strength-carry", "name": "Strength and Carrying", "skill_budget": 14 },
+        { "id": "endurance", "name": "Endurance", "skill_budget": 14 },
+        { "id": "water-and-wheels", "name": "Water and Wheels", "skill_budget": 12 },
+        { "id": "fine-motor", "name": "Fine Motor", "skill_budget": 12 }
       ]
     },
     {
-      "id": "care",
-      "name": "Care",
-      "colour": "#F28E2B",
-      "skill_budget": 70,
+      "id": "eng",
+      "name": "Software and Engineering",
+      "colour": { "oklch": "oklch(0.62 0.15 210)", "hex": "#009CB7" },
+      "skill_budget": 110,
       "clusters": [
-        { "id": "first-aid", "name": "First Aid", "skill_budget": 12 },
-        { "id": "caregiving", "name": "Caregiving", "skill_budget": 12 },
-        { "id": "hygiene", "name": "Hygiene", "skill_budget": 12 },
-        { "id": "emotional-support", "name": "Emotional Support", "skill_budget": 12 },
-        { "id": "accessibility", "name": "Accessibility", "skill_budget": 11 },
-        { "id": "health-navigation", "name": "Health Navigation", "skill_budget": 11 }
-      ]
-    },
-    {
-      "id": "food",
-      "name": "Food",
-      "colour": "#EDC948",
-      "skill_budget": 80,
-      "clusters": [
-        { "id": "preparation", "name": "Preparation", "skill_budget": 14 },
-        { "id": "cooking", "name": "Cooking", "skill_budget": 14 },
-        { "id": "baking", "name": "Baking", "skill_budget": 13 },
-        { "id": "preservation", "name": "Preservation", "skill_budget": 13 },
-        { "id": "planning", "name": "Planning", "skill_budget": 13 },
-        { "id": "service", "name": "Service", "skill_budget": 13 }
-      ]
-    },
-    {
-      "id": "home",
-      "name": "Home",
-      "colour": "#59A14F",
-      "skill_budget": 70,
-      "clusters": [
-        { "id": "cleaning", "name": "Cleaning", "skill_budget": 12 },
-        { "id": "maintenance", "name": "Maintenance", "skill_budget": 12 },
-        { "id": "organisation", "name": "Organisation", "skill_budget": 12 },
-        { "id": "textiles", "name": "Textiles", "skill_budget": 12 },
-        { "id": "utilities", "name": "Utilities", "skill_budget": 11 },
-        { "id": "household-safety", "name": "Household Safety", "skill_budget": 11 }
+        { "id": "programming-fundamentals", "name": "Programming Fundamentals", "skill_budget": 22 },
+        { "id": "data-structures-algorithms", "name": "Data Structures and Algorithms", "skill_budget": 14 },
+        { "id": "data-handling", "name": "Data Handling", "skill_budget": 14 },
+        { "id": "web-frontend", "name": "Web Frontend", "skill_budget": 14 },
+        { "id": "debugging", "name": "Debugging", "skill_budget": 12 },
+        { "id": "systems-networking", "name": "Systems and Networking", "skill_budget": 12 },
+        { "id": "security", "name": "Security", "skill_budget": 12 },
+        { "id": "version-control", "name": "Version Control", "skill_budget": 10 }
       ]
     },
     {
       "id": "lang",
       "name": "Language",
-      "colour": "#4E79A7",
+      "colour": { "oklch": "oklch(0.62 0.15 240)", "hex": "#008FD6" },
       "skill_budget": 90,
       "clusters": [
-        { "id": "speaking", "name": "Speaking", "skill_budget": 15 },
-        { "id": "listening", "name": "Listening", "skill_budget": 15 },
-        { "id": "reading", "name": "Reading", "skill_budget": 15 },
-        { "id": "writing", "name": "Writing", "skill_budget": 15 },
-        { "id": "interaction", "name": "Interaction", "skill_budget": 15 },
-        { "id": "translation", "name": "Translation", "skill_budget": 15 }
+        { "id": "writing", "name": "Writing", "skill_budget": 24 },
+        { "id": "reading", "name": "Reading", "skill_budget": 22 },
+        { "id": "speaking-listening", "name": "Speaking and Listening", "skill_budget": 18 },
+        { "id": "comprehension-summary", "name": "Comprehension and Summary", "skill_budget": 14 },
+        { "id": "second-language", "name": "Second Language", "skill_budget": 12 }
       ]
     },
     {
       "id": "social",
       "name": "Social",
-      "colour": "#B07AA1",
+      "colour": { "oklch": "oklch(0.62 0.15 325)", "hex": "#B263B7" },
       "skill_budget": 90,
       "clusters": [
-        { "id": "conversation", "name": "Conversation", "skill_budget": 15 },
-        { "id": "collaboration", "name": "Collaboration", "skill_budget": 15 },
-        { "id": "conflict", "name": "Conflict", "skill_budget": 15 },
-        { "id": "facilitation", "name": "Facilitation", "skill_budget": 15 },
-        { "id": "relationships", "name": "Relationships", "skill_budget": 15 },
-        { "id": "community", "name": "Community", "skill_budget": 15 }
-      ]
-    },
-    {
-      "id": "reason",
-      "name": "Reasoning",
-      "colour": "#9C755F",
-      "skill_budget": 80,
-      "clusters": [
-        { "id": "logic", "name": "Logic", "skill_budget": 14 },
-        { "id": "mathematics", "name": "Mathematics", "skill_budget": 14 },
-        { "id": "statistics", "name": "Statistics", "skill_budget": 13 },
-        { "id": "decisions", "name": "Decisions", "skill_budget": 13 },
-        { "id": "systems", "name": "Systems", "skill_budget": 13 },
-        { "id": "investigation", "name": "Investigation", "skill_budget": 13 }
-      ]
-    },
-    {
-      "id": "learn",
-      "name": "Learning",
-      "colour": "#76B7B2",
-      "skill_budget": 50,
-      "clusters": [
-        { "id": "planning", "name": "Planning", "skill_budget": 9 },
-        { "id": "practice", "name": "Practice", "skill_budget": 9 },
-        { "id": "research", "name": "Research", "skill_budget": 8 },
-        { "id": "memory", "name": "Memory", "skill_budget": 8 },
-        { "id": "reflection", "name": "Reflection", "skill_budget": 8 },
-        { "id": "teaching", "name": "Teaching", "skill_budget": 8 }
-      ]
-    },
-    {
-      "id": "digital",
-      "name": "Digital",
-      "colour": "#5F6CAF",
-      "skill_budget": 80,
-      "clusters": [
-        { "id": "devices", "name": "Devices", "skill_budget": 14 },
-        { "id": "information", "name": "Information", "skill_budget": 14 },
-        { "id": "communication", "name": "Communication", "skill_budget": 13 },
-        { "id": "creation", "name": "Creation", "skill_budget": 13 },
-        { "id": "data", "name": "Data", "skill_budget": 13 },
-        { "id": "security", "name": "Security", "skill_budget": 13 }
-      ]
-    },
-    {
-      "id": "eng",
-      "name": "Engineering",
-      "colour": "#FF9DA7",
-      "skill_budget": 110,
-      "clusters": [
-        { "id": "systems", "name": "Systems", "skill_budget": 19 },
-        { "id": "mechanical", "name": "Mechanical", "skill_budget": 18 },
-        { "id": "electrical", "name": "Electrical", "skill_budget": 18 },
-        { "id": "software", "name": "Software", "skill_budget": 19 },
-        { "id": "construction", "name": "Construction", "skill_budget": 18 },
-        { "id": "fabrication", "name": "Fabrication", "skill_budget": 18 }
+        { "id": "conversation", "name": "Conversation", "skill_budget": 18 },
+        { "id": "conflict-negotiation", "name": "Conflict and Negotiation", "skill_budget": 16 },
+        { "id": "feedback-teaching", "name": "Feedback and Teaching", "skill_budget": 16 },
+        { "id": "listening-empathy", "name": "Listening and Empathy", "skill_budget": 14 },
+        { "id": "groups-facilitation", "name": "Groups and Facilitation", "skill_budget": 14 },
+        { "id": "presenting", "name": "Presenting", "skill_budget": 12 }
       ]
     },
     {
       "id": "art",
       "name": "Art",
-      "colour": "#AF7AA1",
+      "colour": { "oklch": "oklch(0.62 0.15 300)", "hex": "#956ED2" },
       "skill_budget": 90,
       "clusters": [
-        { "id": "drawing", "name": "Drawing", "skill_budget": 15 },
-        { "id": "design", "name": "Design", "skill_budget": 15 },
-        { "id": "music", "name": "Music", "skill_budget": 15 },
-        { "id": "performance", "name": "Performance", "skill_budget": 15 },
-        { "id": "craft", "name": "Craft", "skill_budget": 15 },
-        { "id": "media", "name": "Media", "skill_budget": 15 }
+        { "id": "music", "name": "Music", "skill_budget": 18 },
+        { "id": "drawing", "name": "Drawing", "skill_budget": 16 },
+        { "id": "design-visual", "name": "Visual Design", "skill_budget": 14 },
+        { "id": "photography", "name": "Photography", "skill_budget": 12 },
+        { "id": "craft-making", "name": "Craft and Making", "skill_budget": 12 },
+        { "id": "video-motion", "name": "Video and Motion", "skill_budget": 10 },
+        { "id": "performance", "name": "Performance", "skill_budget": 8 }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "colour": { "oklch": "oklch(0.62 0.15 50)", "hex": "#CB6620" },
+      "skill_budget": 80,
+      "clusters": [
+        { "id": "heat-technique", "name": "Heat Technique", "skill_budget": 18 },
+        { "id": "knife-prep", "name": "Knife Preparation", "skill_budget": 14 },
+        { "id": "baking", "name": "Baking", "skill_budget": 12 },
+        { "id": "kitchen-safety", "name": "Kitchen Safety", "skill_budget": 10 },
+        { "id": "seasoning-tasting", "name": "Seasoning and Tasting", "skill_budget": 10 },
+        { "id": "meal-planning", "name": "Meal Planning", "skill_budget": 10 },
+        { "id": "hosting", "name": "Hosting", "skill_budget": 6 }
+      ]
+    },
+    {
+      "id": "reason",
+      "name": "Reasoning",
+      "colour": { "oklch": "oklch(0.62 0.15 80)", "hex": "#B47900" },
+      "skill_budget": 80,
+      "clusters": [
+        { "id": "logic-argument", "name": "Logic and Argument", "skill_budget": 16 },
+        { "id": "arithmetic", "name": "Arithmetic", "skill_budget": 14 },
+        { "id": "algebra-symbolic", "name": "Algebra and Symbolic Reasoning", "skill_budget": 14 },
+        { "id": "probability-statistics", "name": "Probability and Statistics", "skill_budget": 14 },
+        { "id": "estimation-modelling", "name": "Estimation and Modelling", "skill_budget": 14 },
+        { "id": "geometry-measurement", "name": "Geometry and Measurement", "skill_budget": 8 }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "Digital",
+      "colour": { "oklch": "oklch(0.62 0.15 270)", "hex": "#647EE0" },
+      "skill_budget": 80,
+      "clusters": [
+        { "id": "documents-spreadsheets", "name": "Documents and Spreadsheets", "skill_budget": 18 },
+        { "id": "devices-os", "name": "Devices and Operating Systems", "skill_budget": 14 },
+        { "id": "files-directories", "name": "Files and Directories", "skill_budget": 12 },
+        { "id": "browsing-search", "name": "Browsing and Search", "skill_budget": 12 },
+        { "id": "media-handling", "name": "Media Handling", "skill_budget": 12 },
+        { "id": "digital-safety", "name": "Digital Safety", "skill_budget": 12 }
       ]
     },
     {
       "id": "world",
       "name": "World",
-      "colour": "#8CD17D",
+      "colour": { "oklch": "oklch(0.62 0.15 140)", "hex": "#4F9B3E" },
       "skill_budget": 80,
       "clusters": [
-        { "id": "navigation", "name": "Navigation", "skill_budget": 14 },
-        { "id": "environment", "name": "Environment", "skill_budget": 14 },
-        { "id": "civics", "name": "Civics", "skill_budget": 13 },
-        { "id": "finance", "name": "Finance", "skill_budget": 13 },
-        { "id": "work", "name": "Work", "skill_budget": 13 },
-        { "id": "travel", "name": "Travel", "skill_budget": 13 }
+        { "id": "money-budgeting", "name": "Money and Budgeting", "skill_budget": 14 },
+        { "id": "time-planning", "name": "Time and Planning", "skill_budget": 14 },
+        { "id": "orientation-navigation", "name": "Orientation and Navigation", "skill_budget": 14 },
+        { "id": "contracts-admin", "name": "Contracts and Administration", "skill_budget": 12 },
+        { "id": "project-work", "name": "Project Work", "skill_budget": 12 },
+        { "id": "travel", "name": "Travel", "skill_budget": 8 },
+        { "id": "civic-navigation", "name": "Civic Navigation", "skill_budget": 6 }
+      ]
+    },
+    {
+      "id": "care",
+      "name": "Care",
+      "colour": { "oklch": "oklch(0.62 0.15 350)", "hex": "#C65B93" },
+      "skill_budget": 70,
+      "clusters": [
+        { "id": "first-aid", "name": "First Aid", "skill_budget": 16 },
+        { "id": "hygiene-selfcare", "name": "Hygiene and Self-care", "skill_budget": 12 },
+        { "id": "emergency-response", "name": "Emergency Response", "skill_budget": 12 },
+        { "id": "injury-prevention", "name": "Injury Prevention", "skill_budget": 12 },
+        { "id": "risk-assessment", "name": "Risk Assessment", "skill_budget": 10 },
+        { "id": "sleep-rest", "name": "Sleep and Rest", "skill_budget": 8 }
+      ]
+    },
+    {
+      "id": "home",
+      "name": "Home",
+      "colour": { "oklch": "oklch(0.62 0.15 110)", "hex": "#8D8D00" },
+      "skill_budget": 70,
+      "clusters": [
+        { "id": "hand-tools", "name": "Hand Tools", "skill_budget": 14 },
+        { "id": "repair-assembly", "name": "Repair and Assembly", "skill_budget": 14 },
+        { "id": "cleaning-laundry", "name": "Cleaning and Laundry", "skill_budget": 12 },
+        { "id": "electrical-plumbing-basics", "name": "Electrical and Plumbing Basics", "skill_budget": 10 },
+        { "id": "textiles-sewing", "name": "Textiles and Sewing", "skill_budget": 8 },
+        { "id": "gardening", "name": "Gardening", "skill_budget": 6 },
+        { "id": "vehicle-basics", "name": "Vehicle Basics", "skill_budget": 6 }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Learning",
+      "colour": { "oklch": "oklch(0.62 0.15 180)", "hex": "#00A28A" },
+      "skill_budget": 50,
+      "clusters": [
+        { "id": "study-technique", "name": "Study Technique", "skill_budget": 10 },
+        { "id": "source-evaluation", "name": "Source Evaluation", "skill_budget": 10 },
+        { "id": "memory", "name": "Memory", "skill_budget": 8 },
+        { "id": "notes-capture", "name": "Notes and Capture", "skill_budget": 8 },
+        { "id": "synthesis", "name": "Synthesis", "skill_budget": 8 },
+        { "id": "deliberate-practice", "name": "Deliberate Practice", "skill_budget": 6 }
       ]
     }
   ]

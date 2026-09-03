@@ -89,6 +89,19 @@ persona can be named, keep a single group.
 - Every domain has at least 8 hard edges connecting it to at least 3 other
   domains.
 
+## Domain and cluster boundaries
+
+- `digital.digital-safety` covers personal safety such as passwords,
+  phishing, and privacy. `eng.security` covers defensive security and
+  authorised testing only. The two clusters must not overlap.
+- `body.floor` contains the L0–L1 primitives: grip, reach, visual tracking,
+  sitting, standing, and posture. Most of the dataset's 60 L0 skills belong
+  here; the remainder belong in `lang.reading` and `social.conversation`.
+- Emotional support belongs to `social`, not `care`. `care` is limited to
+  physical health, safety, and self-care.
+- Translation is an L5+ skill in `lang.second-language`, not a separate
+  cluster.
+
 ## Validator table
 
 Validators run in this order and never downgrade the severity shown here.

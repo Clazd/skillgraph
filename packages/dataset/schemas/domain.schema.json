@@ -34,7 +34,18 @@
           "enum": ["body", "care", "food", "home", "lang", "social", "reason", "learn", "digital", "eng", "art", "world"]
         },
         "name": { "type": "string", "minLength": 1, "maxLength": 60 },
-        "colour": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+        "colour": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["oklch", "hex"],
+          "properties": {
+            "oklch": {
+              "type": "string",
+              "pattern": "^oklch\\(0\\.62 0\\.15 (?:[0-9]|[1-9][0-9]|[1-2][0-9]{2}|3[0-5][0-9])\\)$"
+            },
+            "hex": { "type": "string", "pattern": "^#[0-9A-F]{6}$" }
+          }
+        },
         "skill_budget": { "type": "integer", "minimum": 1 },
         "clusters": {
           "type": "array",

@@ -99,7 +99,10 @@ interface DomainCluster {
 interface DomainDefinition {
   id: DomainId;
   name: string;
-  colour: string;
+  colour: {
+    oklch: string;
+    hex: string;
+  };
   skill_budget: number;
   clusters: DomainCluster[];
 }
