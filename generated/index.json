@@ -1,10 +1,194 @@
 [
   {
+    "id": null,
+    "draft_key": "art.craft-making.55",
+    "name": "Measure and mark craft material",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.56",
+    "name": "Cut a clean edge in sheet material",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.57",
+    "name": "Fold material along a scored line",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.58",
+    "name": "Create a reversible join",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.59",
+    "name": "Apply an even surface finish",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.60",
+    "name": "Build a stable three-dimensional form",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.61",
+    "name": "Repeat a shape from a template",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.62",
+    "name": "Repair a damaged handmade object",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.63",
+    "name": "Combine rigid and flexible materials",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.64",
+    "name": "Develop a prototype through three iterations",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.craft-making.65",
+    "name": "Produce a matched set of handmade objects",
+    "domain": "art",
+    "cluster": "craft-making",
+    "difficulty": 6
+  },
+  {
     "id": "art.craft-making.join-two-materials",
     "name": "Join two craft materials",
     "domain": "art",
     "cluster": "craft-making",
     "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.32",
+    "name": "Align elements to a shared edge",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.33",
+    "name": "Create contrast between heading and body text",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.34",
+    "name": "Group related elements by spacing",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.35",
+    "name": "Build a three-colour palette",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.36",
+    "name": "Design a clear visual hierarchy",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.37",
+    "name": "Lay out information on one page",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.38",
+    "name": "Create a reusable visual component",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.39",
+    "name": "Adapt a layout to two screen sizes",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.40",
+    "name": "Design a symbol set with shared rules",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.41",
+    "name": "Test a design for colour distinction",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.42",
+    "name": "Create a multi-page visual system",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.design-visual.43",
+    "name": "Direct a complex information design",
+    "domain": "art",
+    "cluster": "design-visual",
+    "difficulty": 5
   },
   {
     "id": "art.design-visual.create-large-coherent-art-system",
@@ -21,6 +205,118 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "art.drawing.18",
+    "name": "Draw five distinct line weights",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.19",
+    "name": "Block in simple shapes from observation",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.20",
+    "name": "Shade a sphere from one light source",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.21",
+    "name": "Measure proportions by sight",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.22",
+    "name": "Draw overlapping forms clearly",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.23",
+    "name": "Render three surface textures",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.24",
+    "name": "Construct a room in one-point perspective",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.25",
+    "name": "Draw a figure in a timed pose",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.26",
+    "name": "Compose three objects within a frame",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.27",
+    "name": "Control value across a complete drawing",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.28",
+    "name": "Draw reflective material from observation",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.29",
+    "name": "Develop a consistent visual shorthand",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.30",
+    "name": "Construct a complex scene in perspective",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.drawing.31",
+    "name": "Create a sustained observational drawing",
+    "domain": "art",
+    "cluster": "drawing",
+    "difficulty": 5
+  },
+  {
     "id": "art.drawing.construct-consistent-perspective",
     "name": "Construct consistent perspective",
     "domain": "art",
@@ -35,11 +331,203 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "art.music.1",
+    "name": "Match a sung pitch",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.10",
+    "name": "Improvise over a repeating harmonic pattern",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.11",
+    "name": "Arrange a piece for three parts",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.12",
+    "name": "Perform a twenty-minute programme",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.13",
+    "name": "Compose a complete short piece",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.14",
+    "name": "Rehearse an ensemble section efficiently",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.15",
+    "name": "Direct a small ensemble",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.16",
+    "name": "Orchestrate a multi-section composition",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.17",
+    "name": "Compose and realise a large ensemble work",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 7
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.2",
+    "name": "Clap a four-beat rhythm",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.3",
+    "name": "Repeat a short melody by ear",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.4",
+    "name": "Read a simple rhythmic pattern",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.5",
+    "name": "Play a five-note scale evenly",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.6",
+    "name": "Tune an instrument to a reference",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.7",
+    "name": "Accompany a melody with a repeated pattern",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.8",
+    "name": "Maintain an independent part in a duet",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.music.9",
+    "name": "Transpose a simple melody",
+    "domain": "art",
+    "cluster": "music",
+    "difficulty": 3
+  },
+  {
     "id": "art.music.keep-steady-pulse",
     "name": "Keep a steady pulse",
     "domain": "art",
     "cluster": "music",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.performance.74",
+    "name": "Project the voice across a small room",
+    "domain": "art",
+    "cluster": "performance",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.performance.75",
+    "name": "Memorise a one-minute performance text",
+    "domain": "art",
+    "cluster": "performance",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.performance.76",
+    "name": "Hold a character objective through a scene",
+    "domain": "art",
+    "cluster": "performance",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.performance.77",
+    "name": "Respond to a scene partner in the moment",
+    "domain": "art",
+    "cluster": "performance",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.performance.78",
+    "name": "Use pauses to shape a performance",
+    "domain": "art",
+    "cluster": "performance",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.performance.79",
+    "name": "Adapt blocking to a changed space",
+    "domain": "art",
+    "cluster": "performance",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.performance.80",
+    "name": "Sustain a thirty-minute live performance",
+    "domain": "art",
+    "cluster": "performance",
+    "difficulty": 6
   },
   {
     "id": "art.performance.perform-rehearsed-piece",
@@ -49,11 +537,163 @@
     "difficulty": 4
   },
   {
+    "id": null,
+    "draft_key": "art.photography.44",
+    "name": "Hold a camera steady at a slow shutter",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.45",
+    "name": "Focus on a chosen subject",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.46",
+    "name": "Expose for a bright subject",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.47",
+    "name": "Freeze a moving subject",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.48",
+    "name": "Use depth of field deliberately",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.49",
+    "name": "Photograph a subject in window light",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.50",
+    "name": "Balance foreground and background",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.51",
+    "name": "Capture consistent images across a series",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.52",
+    "name": "Light a portrait with one source",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.53",
+    "name": "Plan a documentary photo sequence",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.photography.54",
+    "name": "Photograph a high-contrast scene reliably",
+    "domain": "art",
+    "cluster": "photography",
+    "difficulty": 6
+  },
+  {
     "id": "art.photography.compose-clear-subject",
     "name": "Compose a clear subject",
     "domain": "art",
     "cluster": "photography",
     "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.66",
+    "name": "Frame a continuous thirty-second shot",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.67",
+    "name": "Record clear speech with ambient sound",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.68",
+    "name": "Cut on an action",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.69",
+    "name": "Match colour across two shots",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.70",
+    "name": "Build a title sequence",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.71",
+    "name": "Create a smooth animated transition",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.72",
+    "name": "Synchronise sound to visible action",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "art.video-motion.73",
+    "name": "Edit a three-minute narrative",
+    "domain": "art",
+    "cluster": "video-motion",
+    "difficulty": 5
   },
   {
     "id": "art.video-motion.direct-multiscene-work",
@@ -68,6 +708,110 @@
     "domain": "art",
     "cluster": "video-motion",
     "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.40",
+    "name": "Catch a slowly tossed ball",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.41",
+    "name": "Throw a ball to a target",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.42",
+    "name": "Kick a stationary ball",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.43",
+    "name": "Step to a repeated beat",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.44",
+    "name": "Alternate hands in a simple pattern",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.45",
+    "name": "Turn and stop on command",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.46",
+    "name": "Walk heel to toe for five metres",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.47",
+    "name": "Catch a ball while moving",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.48",
+    "name": "Throw to a moving partner",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.49",
+    "name": "Coordinate hands and feet in sequence",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.50",
+    "name": "Change rhythm without losing the pattern",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.51",
+    "name": "Perform a mirrored movement sequence",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "body.balance-coordination.52",
+    "name": "Adapt a sequence to a partner",
+    "domain": "body",
+    "cluster": "balance-coordination",
+    "difficulty": 5
   },
   {
     "id": "body.balance-coordination.adapt-movement-live",
@@ -91,6 +835,110 @@
     "difficulty": 4
   },
   {
+    "id": null,
+    "draft_key": "body.endurance.66",
+    "name": "Walk continuously for ten minutes",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.67",
+    "name": "Climb stairs for five minutes",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.68",
+    "name": "Cycle continuously for fifteen minutes",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.69",
+    "name": "Sustain moderate movement for twenty minutes",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.70",
+    "name": "Walk briskly for thirty minutes",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.71",
+    "name": "Jog continuously for ten minutes",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.72",
+    "name": "Cycle continuously for one hour",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.73",
+    "name": "Swim continuously for fifteen minutes",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.74",
+    "name": "Hike for three hours with breaks",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.75",
+    "name": "Pace a one-hour continuous effort",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.76",
+    "name": "Complete repeated effort intervals",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.77",
+    "name": "Sustain a two-hour endurance effort",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "body.endurance.78",
+    "name": "Plan and pace an all-day endurance effort",
+    "domain": "body",
+    "cluster": "endurance",
+    "difficulty": 6
+  },
+  {
     "id": "body.endurance.sustain-self-propelled-30m",
     "name": "Sustain self-propelled travel for 30 minutes",
     "domain": "body",
@@ -98,10 +946,258 @@
     "difficulty": 4
   },
   {
+    "id": null,
+    "draft_key": "body.fine-motor.100",
+    "name": "Manipulate two small parts together",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.90",
+    "name": "Pinch and release a small object",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.91",
+    "name": "Stack five small objects",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.92",
+    "name": "Thread a large opening",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.93",
+    "name": "Turn a page one at a time",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.94",
+    "name": "Trace a straight line",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.95",
+    "name": "Fold paper along a line",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.96",
+    "name": "Fasten a large button",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.97",
+    "name": "Tie a simple knot",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.98",
+    "name": "Place ten pegs accurately",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.fine-motor.99",
+    "name": "Cut along a marked line",
+    "domain": "body",
+    "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
     "id": "body.fine-motor.rotate-small-object",
     "name": "Rotate a small object",
     "domain": "body",
     "cluster": "fine-motor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.1",
+    "name": "Track a moving object",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.10",
+    "name": "Roll from back to side",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.11",
+    "name": "Move from lying to sitting",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.12",
+    "name": "Reach across the body",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.13",
+    "name": "Place an object at a target",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.14",
+    "name": "Stand with hand support",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.15",
+    "name": "Lower from standing to sitting",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.16",
+    "name": "Step sideways with support",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.17",
+    "name": "Bend and straighten the knees",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.18",
+    "name": "Turn around while standing",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.19",
+    "name": "Pick up an object from the floor",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.2",
+    "name": "Turn toward a nearby sound",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.20",
+    "name": "Step over a low obstacle",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.3",
+    "name": "Hold the head upright",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.4",
+    "name": "Bring both hands together",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.5",
+    "name": "Open and close one hand",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.6",
+    "name": "Transfer an object between hands",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.7",
+    "name": "Point to a nearby target",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.8",
+    "name": "Shift weight while seated",
+    "domain": "body",
+    "cluster": "floor",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.floor.9",
+    "name": "Sit upright for one minute",
+    "domain": "body",
+    "cluster": "floor",
     "difficulty": 0
   },
   {
@@ -119,11 +1215,267 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "body.locomotion.21",
+    "name": "Take ten supported steps",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.22",
+    "name": "Walk ten metres unaided",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.23",
+    "name": "Stop safely while walking",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.24",
+    "name": "Change direction while walking",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.25",
+    "name": "Walk up a gentle slope",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.26",
+    "name": "Walk down a gentle slope",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.27",
+    "name": "Climb one flight of stairs",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.28",
+    "name": "Descend one flight of stairs",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.29",
+    "name": "Walk while carrying a light object",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.30",
+    "name": "Match another person's walking pace",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.31",
+    "name": "Walk through a crowded space",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.32",
+    "name": "Cross a shallow step safely",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.33",
+    "name": "Walk for twenty minutes",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.34",
+    "name": "Hike a marked trail",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.35",
+    "name": "Navigate loose ground on foot",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.36",
+    "name": "Climb a steep path",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.37",
+    "name": "Descend a steep path safely",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.38",
+    "name": "Move efficiently over mixed terrain",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.locomotion.39",
+    "name": "Pace a two-hour walk",
+    "domain": "body",
+    "cluster": "locomotion",
+    "difficulty": 4
+  },
+  {
     "id": "body.locomotion.navigate-uneven-ground",
     "name": "Walk across uneven ground",
     "domain": "body",
     "cluster": "locomotion",
     "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.53",
+    "name": "Lift a light object from the floor",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.54",
+    "name": "Carry a balanced load in both hands",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.55",
+    "name": "Push a loaded door open",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.56",
+    "name": "Pull an object across a smooth floor",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.57",
+    "name": "Rise from a chair five times",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.58",
+    "name": "Hold a light object overhead",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.59",
+    "name": "Carry five kilograms for twenty metres",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.60",
+    "name": "Lift a ten-kilogram object safely",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.61",
+    "name": "Push a loaded cart for fifty metres",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.62",
+    "name": "Carry an uneven load safely",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.63",
+    "name": "Move a bulky object with a partner",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.64",
+    "name": "Lift repeated loads with stable form",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "body.strength-carry.65",
+    "name": "Carry fifteen kilograms over stairs",
+    "domain": "body",
+    "cluster": "strength-carry",
+    "difficulty": 5
   },
   {
     "id": "body.strength-carry.carry-10kg-50m",
@@ -133,11 +1485,179 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "body.water-and-wheels.79",
+    "name": "Float with support for thirty seconds",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.80",
+    "name": "Enter shallow water safely",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.81",
+    "name": "Exit shallow water safely",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.82",
+    "name": "Glide through water for five metres",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.83",
+    "name": "Tread water for one minute",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.84",
+    "name": "Swim ten metres to an exit",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.85",
+    "name": "Mount and dismount a bicycle",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.86",
+    "name": "Brake a bicycle smoothly",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.87",
+    "name": "Steer a bicycle around obstacles",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.88",
+    "name": "Signal while cycling",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "body.water-and-wheels.89",
+    "name": "Control a bicycle on varied surfaces",
+    "domain": "body",
+    "cluster": "water-and-wheels",
+    "difficulty": 5
+  },
+  {
     "id": "body.water-and-wheels.control-bicycle-15m",
     "name": "Control a bicycle for 15 minutes",
     "domain": "body",
     "cluster": "water-and-wheels",
     "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.25",
+    "name": "State an emergency location clearly",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.26",
+    "name": "Move away from an immediate danger",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.27",
+    "name": "Alert nearby people to danger",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.28",
+    "name": "Follow an evacuation instruction",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.29",
+    "name": "Choose a safe assembly point",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.30",
+    "name": "Give responders a concise situation report",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.31",
+    "name": "Guide another person to an exit",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.32",
+    "name": "Use a fire blanket on a training setup",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.33",
+    "name": "Coordinate a small-area evacuation",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "care.emergency-response.34",
+    "name": "Account for people after evacuation",
+    "domain": "care",
+    "cluster": "emergency-response",
+    "difficulty": 5
   },
   {
     "id": "care.emergency-response.call-emergency-help",
@@ -154,6 +1674,118 @@
     "difficulty": 5
   },
   {
+    "id": null,
+    "draft_key": "care.first-aid.1",
+    "name": "Apply a clean dressing",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.10",
+    "name": "Use an automated defibrillator trainer",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.11",
+    "name": "Monitor a casualty until help arrives",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.12",
+    "name": "Respond to suspected shock",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.13",
+    "name": "Immobilise a suspected limb injury",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.14",
+    "name": "Prioritise care for two casualties",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.2",
+    "name": "Check responsiveness and breathing",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.3",
+    "name": "Treat a minor burn with cool water",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.4",
+    "name": "Support a minor sprain",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.5",
+    "name": "Place an unresponsive breathing person safely",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.6",
+    "name": "Recognise signs requiring urgent help",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.7",
+    "name": "Manage a nosebleed safely",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.8",
+    "name": "Respond to choking in a conscious adult",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.first-aid.9",
+    "name": "Perform chest compressions on a training aid",
+    "domain": "care",
+    "cluster": "first-aid",
+    "difficulty": 3
+  },
+  {
     "id": "care.first-aid.clean-minor-wound",
     "name": "Clean a minor wound",
     "domain": "care",
@@ -165,6 +1797,86 @@
     "name": "Respond to severe bleeding",
     "domain": "care",
     "cluster": "first-aid",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.15",
+    "name": "Brush teeth for two minutes",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.16",
+    "name": "Clean and cover a small graze",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.17",
+    "name": "Trim fingernails safely",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.18",
+    "name": "Wash the body independently",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.19",
+    "name": "Maintain reusable hygiene items",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.20",
+    "name": "Choose clothing for weather conditions",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.21",
+    "name": "Complete a morning self-care sequence",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.22",
+    "name": "Adapt self-care around a temporary limitation",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.23",
+    "name": "Track and replenish personal care supplies",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.hygiene-selfcare.24",
+    "name": "Plan self-care for a multiday journey",
+    "domain": "care",
+    "cluster": "hygiene-selfcare",
     "difficulty": 4
   },
   {
@@ -182,11 +1894,163 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "care.injury-prevention.35",
+    "name": "Clear a walking path of trip hazards",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.36",
+    "name": "Adjust a work surface to neutral posture",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.37",
+    "name": "Lift a light object with stable posture",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.38",
+    "name": "Warm up before vigorous movement",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.39",
+    "name": "Choose footwear for the activity surface",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.40",
+    "name": "Set up lighting for a manual task",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.41",
+    "name": "Plan rest breaks for repetitive work",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.42",
+    "name": "Spot another person's lift safely",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.43",
+    "name": "Modify an activity after pain appears",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.44",
+    "name": "Design an injury-prevention checklist",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "care.injury-prevention.45",
+    "name": "Audit a repeated task for strain risks",
+    "domain": "care",
+    "cluster": "injury-prevention",
+    "difficulty": 5
+  },
+  {
     "id": "care.injury-prevention.fit-protective-equipment",
     "name": "Fit protective equipment",
     "domain": "care",
     "cluster": "injury-prevention",
     "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.46",
+    "name": "Distinguish a hazard from its consequence",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.47",
+    "name": "Estimate likelihood using three categories",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.48",
+    "name": "Estimate severity using three categories",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.49",
+    "name": "Choose one control for a simple hazard",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.50",
+    "name": "Reassess risk after a condition changes",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.51",
+    "name": "Compare two risk-control options",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.52",
+    "name": "Document a five-hazard assessment",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "care.risk-assessment.53",
+    "name": "Prioritise controls by effectiveness",
+    "domain": "care",
+    "cluster": "risk-assessment",
+    "difficulty": 6
   },
   {
     "id": "care.risk-assessment.create-activity-risk-plan",
@@ -203,6 +2067,62 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "care.sleep-rest.54",
+    "name": "Prepare a low-stimulation rest space",
+    "domain": "care",
+    "cluster": "sleep-rest",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.sleep-rest.55",
+    "name": "Plan a consistent sleep opportunity",
+    "domain": "care",
+    "cluster": "sleep-rest",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "care.sleep-rest.56",
+    "name": "Take a twenty-minute restorative break",
+    "domain": "care",
+    "cluster": "sleep-rest",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "care.sleep-rest.57",
+    "name": "Adjust a rest plan after poor sleep",
+    "domain": "care",
+    "cluster": "sleep-rest",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.sleep-rest.58",
+    "name": "Protect a rest period from interruptions",
+    "domain": "care",
+    "cluster": "sleep-rest",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "care.sleep-rest.59",
+    "name": "Plan recovery between demanding days",
+    "domain": "care",
+    "cluster": "sleep-rest",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "care.sleep-rest.60",
+    "name": "Track sleep conditions for one week",
+    "domain": "care",
+    "cluster": "sleep-rest",
+    "difficulty": 4
+  },
+  {
     "id": "care.sleep-rest.plan-rest-window",
     "name": "Plan a restorative rest window",
     "domain": "care",
@@ -210,11 +2130,195 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "digital.browsing-search.40",
+    "name": "Open a web address directly",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.41",
+    "name": "Use a specific search phrase",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.42",
+    "name": "Narrow search results by date",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.43",
+    "name": "Find text within a long page",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.44",
+    "name": "Open a link in a separate tab",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.45",
+    "name": "Compare three search results",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.46",
+    "name": "Distinguish an advertisement from a result",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.47",
+    "name": "Trace a claim to its original page",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.48",
+    "name": "Use exclusion terms in a search",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.49",
+    "name": "Archive a web source with its date",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.browsing-search.50",
+    "name": "Conduct a reproducible web search",
+    "domain": "digital",
+    "cluster": "browsing-search",
+    "difficulty": 4
+  },
+  {
     "id": "digital.browsing-search.verify-web-source",
     "name": "Verify a web source",
     "domain": "digital",
     "cluster": "browsing-search",
     "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.17",
+    "name": "Connect a device to a wireless network",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.18",
+    "name": "Install an operating-system update",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.19",
+    "name": "Choose an accessible input setting",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.20",
+    "name": "Connect a peripheral and test it",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.21",
+    "name": "Manage application permissions",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.22",
+    "name": "Free storage without deleting needed files",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.23",
+    "name": "Create a local user account",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.24",
+    "name": "Back up a device to removable storage",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.25",
+    "name": "Restore a device from a backup",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.26",
+    "name": "Diagnose a failing peripheral",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.27",
+    "name": "Resolve an application conflict",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "digital.devices-os.28",
+    "name": "Restore a distributed digital archive",
+    "domain": "digital",
+    "cluster": "devices-os",
+    "difficulty": 7
   },
   {
     "id": "digital.devices-os.adjust-device-setting",
@@ -231,6 +2335,86 @@
     "difficulty": 6
   },
   {
+    "id": null,
+    "draft_key": "digital.digital-safety.61",
+    "name": "Create a unique account password",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.62",
+    "name": "Enable an additional sign-in factor",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.63",
+    "name": "Recognise a suspicious web address",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.64",
+    "name": "Check an application's requested permissions",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.65",
+    "name": "Share a file with limited access",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.66",
+    "name": "Remove hidden location data from a photo",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.67",
+    "name": "Review account recovery options",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.68",
+    "name": "Respond to a suspected account compromise",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.69",
+    "name": "Verify a software download source",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "digital.digital-safety.70",
+    "name": "Configure encrypted device storage",
+    "domain": "digital",
+    "cluster": "digital-safety",
+    "difficulty": 5
+  },
+  {
     "id": "digital.digital-safety.investigate-suspicious-message",
     "name": "Investigate a suspicious message",
     "domain": "digital",
@@ -242,6 +2426,134 @@
     "name": "Secure account access",
     "domain": "digital",
     "cluster": "digital-safety",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.1",
+    "name": "Format a readable one-page document",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.10",
+    "name": "Validate entries against allowed values",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.11",
+    "name": "Join data from two tables",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.12",
+    "name": "Summarise data with a pivot table",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.13",
+    "name": "Protect input cells from accidental edits",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.14",
+    "name": "Document a workbook's assumptions",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.15",
+    "name": "Audit formulas for inconsistent references",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.16",
+    "name": "Build a reusable calculation template",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.2",
+    "name": "Create a bulleted list",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.3",
+    "name": "Insert and label a table",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.4",
+    "name": "Apply a consistent heading structure",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.5",
+    "name": "Sort a data table by two fields",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.6",
+    "name": "Filter rows using two conditions",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.7",
+    "name": "Write a formula using cell references",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.8",
+    "name": "Calculate a conditional total",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.documents-spreadsheets.9",
+    "name": "Create a chart with labelled axes",
+    "domain": "digital",
+    "cluster": "documents-spreadsheets",
     "difficulty": 3
   },
   {
@@ -259,11 +2571,179 @@
     "difficulty": 2
   },
   {
+    "id": null,
+    "draft_key": "digital.files-directories.29",
+    "name": "Rename a file descriptively",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.30",
+    "name": "Move files between folders",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.31",
+    "name": "Copy a file without changing the original",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.32",
+    "name": "Find a file by name and date",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.33",
+    "name": "Create a compressed archive",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.34",
+    "name": "Extract an archive safely",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.35",
+    "name": "Apply a consistent file-naming scheme",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.36",
+    "name": "Compare two file versions",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.37",
+    "name": "Recover a deleted file from a holding area",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.38",
+    "name": "Organise a shared folder for retrieval",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.files-directories.39",
+    "name": "Design a long-term archive structure",
+    "domain": "digital",
+    "cluster": "files-directories",
+    "difficulty": 4
+  },
+  {
     "id": "digital.files-directories.create-folder-structure",
     "name": "Create a folder structure",
     "domain": "digital",
     "cluster": "files-directories",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.51",
+    "name": "Rotate an image without distortion",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.52",
+    "name": "Resize an image to stated dimensions",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.53",
+    "name": "Trim an audio recording",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.54",
+    "name": "Clip a section from a video",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.55",
+    "name": "Adjust image brightness without clipping",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.56",
+    "name": "Remove background noise from speech",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.57",
+    "name": "Export media in a stated format",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.58",
+    "name": "Add accurate captions to a short video",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.59",
+    "name": "Balance speech and music levels",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "digital.media-handling.60",
+    "name": "Convert media while preserving quality",
+    "domain": "digital",
+    "cluster": "media-handling",
+    "difficulty": 5
   },
   {
     "id": "digital.media-handling.crop-export-image",
@@ -280,11 +2760,219 @@
     "difficulty": 5
   },
   {
+    "id": null,
+    "draft_key": "eng.data-handling.35",
+    "name": "Validate fields in an input record",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.36",
+    "name": "Normalise inconsistent text values",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.37",
+    "name": "Join records using a stable key",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.38",
+    "name": "Aggregate records by category",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.39",
+    "name": "Detect missing values in a dataset",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.40",
+    "name": "Convert data between structured formats",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.41",
+    "name": "Stream records larger than memory",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.42",
+    "name": "Preserve provenance through a transformation",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.43",
+    "name": "Design an idempotent data import",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.44",
+    "name": "Reconcile conflicting records",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.45",
+    "name": "Build a repeatable data pipeline",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.46",
+    "name": "Profile and optimise a data transformation",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-handling.47",
+    "name": "Design a versioned data contract",
+    "domain": "eng",
+    "cluster": "data-handling",
+    "difficulty": 5
+  },
+  {
     "id": "eng.data-handling.parse-structured-records",
     "name": "Parse structured records",
     "domain": "eng",
     "cluster": "data-handling",
     "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.22",
+    "name": "Use a map for keyed lookup",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.23",
+    "name": "Traverse a tree iteratively",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.24",
+    "name": "Implement a queue with bounded memory",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.25",
+    "name": "Sort records by multiple keys",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.26",
+    "name": "Search a sorted collection efficiently",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.27",
+    "name": "Detect repeated values in linear time",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.28",
+    "name": "Represent a graph with adjacency lists",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.29",
+    "name": "Find a shortest unweighted path",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.30",
+    "name": "Analyse time complexity of nested loops",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.31",
+    "name": "Choose an algorithm under memory limits",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.32",
+    "name": "Optimise a slow collection operation",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.33",
+    "name": "Design an algorithm from invariants",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.data-structures-algorithms.34",
+    "name": "Prove termination for an iterative algorithm",
+    "domain": "eng",
+    "cluster": "data-structures-algorithms",
+    "difficulty": 6
   },
   {
     "id": "eng.data-structures-algorithms.select-efficient-structure",
@@ -294,6 +2982,94 @@
     "difficulty": 4
   },
   {
+    "id": null,
+    "draft_key": "eng.debugging.61",
+    "name": "Reproduce a reported software defect",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.62",
+    "name": "Reduce a failure to a minimal case",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.63",
+    "name": "Inspect state at a breakpoint",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.64",
+    "name": "Trace data through three functions",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.65",
+    "name": "Separate symptoms from root cause",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.66",
+    "name": "Bisect a behavioural regression",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.67",
+    "name": "Diagnose a timing-dependent failure",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.68",
+    "name": "Analyse a memory-growth problem",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.69",
+    "name": "Debug a failure across service boundaries",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.70",
+    "name": "Design instrumentation for an intermittent fault",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.debugging.71",
+    "name": "Lead a structured incident investigation",
+    "domain": "eng",
+    "cluster": "debugging",
+    "difficulty": 6
+  },
+  {
     "id": "eng.debugging.trace-runtime-error",
     "name": "Trace a runtime error",
     "domain": "eng",
@@ -301,11 +3077,259 @@
     "difficulty": 2
   },
   {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.1",
+    "name": "Assign and update a variable",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.10",
+    "name": "Model a domain value with a type",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.11",
+    "name": "Handle asynchronous completion",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.12",
+    "name": "Design a small module boundary",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.13",
+    "name": "Refactor duplicated logic",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.14",
+    "name": "Implement validation at an input boundary",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.15",
+    "name": "Write deterministic unit tests",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.16",
+    "name": "Build a command-line program",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.17",
+    "name": "Design a reusable application library",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.18",
+    "name": "Implement a state machine",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.19",
+    "name": "Structure a medium-sized codebase",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.2",
+    "name": "Use a conditional to select behaviour",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.20",
+    "name": "Evolve an interface without breaking callers",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.21",
+    "name": "Design a programming abstraction",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.3",
+    "name": "Repeat an operation with a loop",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.4",
+    "name": "Define a function with two parameters",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.5",
+    "name": "Transform a list of values",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.6",
+    "name": "Handle a missing input explicitly",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.7",
+    "name": "Read data from a text file",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.8",
+    "name": "Write structured data to a file",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.programming-fundamentals.9",
+    "name": "Compose small functions into a workflow",
+    "domain": "eng",
+    "cluster": "programming-fundamentals",
+    "difficulty": 3
+  },
+  {
     "id": "eng.programming-fundamentals.evaluate-expression",
     "name": "Evaluate a program expression",
     "domain": "eng",
     "cluster": "programming-fundamentals",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.82",
+    "name": "Apply least privilege to a service account",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.83",
+    "name": "Validate untrusted input at a boundary",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.84",
+    "name": "Store credentials outside source code",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.85",
+    "name": "Rotate a compromised secret",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.86",
+    "name": "Review an access-control rule set",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.87",
+    "name": "Model threats for a small service",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.88",
+    "name": "Verify audit logs capture critical events",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.89",
+    "name": "Harden a service against common misuse",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.90",
+    "name": "Test an owned service for injection defensively",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "eng.security.91",
+    "name": "Lead defensive security architecture review",
+    "domain": "eng",
+    "cluster": "security",
+    "difficulty": 7
   },
   {
     "id": "eng.security.review-authorised-service",
@@ -319,6 +3343,86 @@
     "name": "Verify a critical system design",
     "domain": "eng",
     "cluster": "security",
+    "difficulty": 7
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.72",
+    "name": "Inspect a process listening on a port",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.73",
+    "name": "Trace name resolution for a host",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.74",
+    "name": "Test connectivity across one network hop",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.75",
+    "name": "Interpret an application protocol exchange",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.76",
+    "name": "Configure a service health check",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.77",
+    "name": "Diagnose resource exhaustion",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.78",
+    "name": "Automate a repeatable service deployment",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.79",
+    "name": "Design graceful shutdown behaviour",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.80",
+    "name": "Trace latency across service boundaries",
+    "domain": "eng",
+    "cluster": "systems-networking",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "eng.systems-networking.81",
+    "name": "Engineer a resilient distributed platform",
+    "domain": "eng",
+    "cluster": "systems-networking",
     "difficulty": 7
   },
   {
@@ -336,11 +3440,187 @@
     "difficulty": 4
   },
   {
+    "id": null,
+    "draft_key": "eng.version-control.100",
+    "name": "Coordinate parallel changes across contributors",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.92",
+    "name": "Compare two code revisions",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.93",
+    "name": "Restore one file from an earlier revision",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.94",
+    "name": "Create a branch for isolated work",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.95",
+    "name": "Combine non-conflicting branches",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.96",
+    "name": "Resolve a textual merge conflict",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.97",
+    "name": "Rewrite a local change into clear commits",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.98",
+    "name": "Locate the revision that introduced a defect",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.version-control.99",
+    "name": "Review a proposed change systematically",
+    "domain": "eng",
+    "cluster": "version-control",
+    "difficulty": 5
+  },
+  {
     "id": "eng.version-control.record-coherent-change",
     "name": "Record a coherent code change",
     "domain": "eng",
     "cluster": "version-control",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.48",
+    "name": "Build a semantic page structure",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.49",
+    "name": "Style a responsive content column",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.50",
+    "name": "Create an accessible navigation menu",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.51",
+    "name": "Validate a form before submission",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.52",
+    "name": "Manage focus after an interface change",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.53",
+    "name": "Render a list from structured data",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.54",
+    "name": "Handle loading and error states",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.55",
+    "name": "Persist interface state locally",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.56",
+    "name": "Test keyboard interaction",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.57",
+    "name": "Optimise images for responsive delivery",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.58",
+    "name": "Build a reusable component system",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.59",
+    "name": "Diagnose a layout across viewport sizes",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "eng.web-frontend.60",
+    "name": "Implement an offline interface fallback",
+    "domain": "eng",
+    "cluster": "web-frontend",
+    "difficulty": 6
   },
   {
     "id": "eng.web-frontend.build-interactive-form",
@@ -350,11 +3630,227 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "food.baking.30",
+    "name": "Measure baking ingredients accurately",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.31",
+    "name": "Mix a batter without overworking it",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.32",
+    "name": "Knead dough to a smooth texture",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.33",
+    "name": "Judge dough fermentation by volume",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.34",
+    "name": "Shape equal portions of dough",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.35",
+    "name": "Bake a simple loaf consistently",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.36",
+    "name": "Adjust baking time for portion size",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.37",
+    "name": "Create a stable whipped mixture",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.38",
+    "name": "Prepare a laminated dough",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.39",
+    "name": "Diagnose texture faults in baked food",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "food.baking.40",
+    "name": "Scale a baking formula to a new yield",
+    "domain": "food",
+    "cluster": "baking",
+    "difficulty": 6
+  },
+  {
     "id": "food.baking.bake-by-ratio",
     "name": "Bake from a ratio",
     "domain": "food",
     "cluster": "baking",
     "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.1",
+    "name": "Bring water to a controlled simmer",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.10",
+    "name": "Recover a sauce that begins to split",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.11",
+    "name": "Cook with retained heat",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.12",
+    "name": "Coordinate oven and stovetop timing",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.13",
+    "name": "Adapt heat to unfamiliar cookware",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.14",
+    "name": "Execute a three-stage cooking method",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.15",
+    "name": "Manage heat across a large batch",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.16",
+    "name": "Develop repeatable cooking times",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.2",
+    "name": "Boil food without overflowing",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.3",
+    "name": "Steam food until evenly cooked",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.4",
+    "name": "Sauté food without scorching",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.5",
+    "name": "Turn food for even browning",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.6",
+    "name": "Judge doneness by temperature",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.7",
+    "name": "Roast food evenly",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.8",
+    "name": "Simmer a sauce to target thickness",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.heat-technique.9",
+    "name": "Control two pans at once",
+    "domain": "food",
+    "cluster": "heat-technique",
+    "difficulty": 3
   },
   {
     "id": "food.heat-technique.control-pan-heat",
@@ -371,11 +3867,123 @@
     "difficulty": 5
   },
   {
+    "id": null,
+    "draft_key": "food.hosting.66",
+    "name": "Set a table for a shared meal",
+    "domain": "food",
+    "cluster": "hosting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.hosting.67",
+    "name": "Time one hot and one cold dish",
+    "domain": "food",
+    "cluster": "hosting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.hosting.68",
+    "name": "Serve food at safe temperatures",
+    "domain": "food",
+    "cluster": "hosting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.hosting.69",
+    "name": "Coordinate seating and serving for six",
+    "domain": "food",
+    "cluster": "hosting",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.hosting.70",
+    "name": "Adapt service for stated dietary needs",
+    "domain": "food",
+    "cluster": "hosting",
+    "difficulty": 5
+  },
+  {
     "id": "food.hosting.serve-four-person-meal",
     "name": "Serve a meal for four people",
     "domain": "food",
     "cluster": "hosting",
     "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.41",
+    "name": "Store chilled food promptly",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.42",
+    "name": "Check food temperature safely",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.43",
+    "name": "Separate raw and ready-to-eat preparation",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.44",
+    "name": "Cool cooked food safely",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.45",
+    "name": "Reheat food evenly",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.46",
+    "name": "Extinguish a small pan fire safely",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.47",
+    "name": "Sanitise a food-contact surface",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.48",
+    "name": "Discard unsafe food using clear criteria",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.kitchen-safety.49",
+    "name": "Plan safe flow through a shared kitchen",
+    "domain": "food",
+    "cluster": "kitchen-safety",
+    "difficulty": 4
   },
   {
     "id": "food.kitchen-safety.prevent-cross-contamination",
@@ -385,11 +3993,179 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "food.knife-prep.17",
+    "name": "Hold a kitchen knife safely",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.18",
+    "name": "Stabilise food before cutting",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.19",
+    "name": "Slice soft food evenly",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.20",
+    "name": "Dice firm food into equal pieces",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.21",
+    "name": "Mince an ingredient consistently",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.22",
+    "name": "Peel produce with minimal waste",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.23",
+    "name": "Separate edible parts from trim",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.24",
+    "name": "Cut thin strips uniformly",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.25",
+    "name": "Portion a large ingredient safely",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.26",
+    "name": "Sharpen a kitchen knife with a guide",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.27",
+    "name": "Maintain a consistent cutting rhythm",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.28",
+    "name": "Prepare mixed ingredients to matched sizes",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.knife-prep.29",
+    "name": "Break down a whole vegetable efficiently",
+    "domain": "food",
+    "cluster": "knife-prep",
+    "difficulty": 4
+  },
+  {
     "id": "food.knife-prep.cut-uniform-pieces",
     "name": "Cut uniform pieces",
     "domain": "food",
     "cluster": "knife-prep",
     "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.58",
+    "name": "Plan one balanced meal from available food",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.59",
+    "name": "Create a shopping list from a menu",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.60",
+    "name": "Use perishable food before it spoils",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.61",
+    "name": "Plan meals around two dietary constraints",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.62",
+    "name": "Batch overlapping preparation tasks",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.63",
+    "name": "Estimate portions for four people",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.64",
+    "name": "Plan five meals within a fixed budget",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "food.meal-planning.65",
+    "name": "Adapt a menu after an ingredient shortage",
+    "domain": "food",
+    "cluster": "meal-planning",
+    "difficulty": 5
   },
   {
     "id": "food.meal-planning.design-adaptive-menu-system",
@@ -403,6 +4179,70 @@
     "name": "Plan a three-day menu",
     "domain": "food",
     "cluster": "meal-planning",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.50",
+    "name": "Identify salt intensity in a sample",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.51",
+    "name": "Compare acidity in two foods",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.52",
+    "name": "Recognise excessive bitterness",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.53",
+    "name": "Adjust seasoning in small increments",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.54",
+    "name": "Balance salt and acidity",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.55",
+    "name": "Use aroma to compare freshness",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.56",
+    "name": "Match seasoning intensity to a main ingredient",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "food.seasoning-tasting.57",
+    "name": "Correct an oversalted mixture",
+    "domain": "food",
+    "cluster": "seasoning-tasting",
     "difficulty": 4
   },
   {
@@ -420,11 +4260,171 @@
     "difficulty": 4
   },
   {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.24",
+    "name": "Separate washable items by care needs",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.25",
+    "name": "Measure a cleaning product safely",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.26",
+    "name": "Remove a fresh water-based stain",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.27",
+    "name": "Clean a hard surface without damage",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.28",
+    "name": "Dry clothing to prevent distortion",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.29",
+    "name": "Hand-wash a delicate item",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.30",
+    "name": "Clean a room in an efficient sequence",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.31",
+    "name": "Treat an old stain using a test patch",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.32",
+    "name": "Choose a cleaning method for an unfamiliar surface",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.33",
+    "name": "Plan a whole-space deep clean",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.cleaning-laundry.34",
+    "name": "Restore a heavily soiled washable item",
+    "domain": "home",
+    "cluster": "cleaning-laundry",
+    "difficulty": 4
+  },
+  {
     "id": "home.cleaning-laundry.sort-laundry-load",
     "name": "Sort a laundry load",
     "domain": "home",
     "cluster": "cleaning-laundry",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.35",
+    "name": "Locate a utility shutoff",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.36",
+    "name": "Reset a tripped protective switch",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.37",
+    "name": "Clear a simple drain blockage",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.38",
+    "name": "Replace a tap washer",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.39",
+    "name": "Test whether a circuit is de-energised",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.40",
+    "name": "Replace a low-voltage fitting",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.41",
+    "name": "Diagnose a continuously running toilet",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.42",
+    "name": "Seal a small threaded plumbing joint",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "home.electrical-plumbing-basics.43",
+    "name": "Trace the source of a minor leak",
+    "domain": "home",
+    "cluster": "electrical-plumbing-basics",
+    "difficulty": 6
   },
   {
     "id": "home.electrical-plumbing-basics.isolate-water-leak",
@@ -434,10 +4434,146 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "home.gardening.51",
+    "name": "Sow seeds at a stated depth",
+    "domain": "home",
+    "cluster": "gardening",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.gardening.52",
+    "name": "Water a container without runoff",
+    "domain": "home",
+    "cluster": "gardening",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.gardening.53",
+    "name": "Repot a plant without damaging roots",
+    "domain": "home",
+    "cluster": "gardening",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.gardening.54",
+    "name": "Prune a dead stem cleanly",
+    "domain": "home",
+    "cluster": "gardening",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.gardening.55",
+    "name": "Diagnose under-watering from plant signs",
+    "domain": "home",
+    "cluster": "gardening",
+    "difficulty": 4
+  },
+  {
     "id": "home.gardening.establish-container-plant",
     "name": "Establish a container plant",
     "domain": "home",
     "cluster": "gardening",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.1",
+    "name": "Select the right screwdriver tip",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.10",
+    "name": "Level a mounted object",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.11",
+    "name": "Cut a joint to a measured fit",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.12",
+    "name": "Maintain and store hand tools safely",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.2",
+    "name": "Measure a length twice consistently",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.3",
+    "name": "Mark a straight cutting line",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.4",
+    "name": "Tighten a fastener without stripping it",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.5",
+    "name": "Use pliers to grip a small part",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.6",
+    "name": "Drive a nail without bending it",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.7",
+    "name": "Saw along a marked line by hand",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.8",
+    "name": "Drill a straight pilot hole",
+    "domain": "home",
+    "cluster": "hand-tools",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.hand-tools.9",
+    "name": "Clamp a workpiece securely",
+    "domain": "home",
+    "cluster": "hand-tools",
     "difficulty": 4
   },
   {
@@ -453,6 +4589,94 @@
     "domain": "home",
     "cluster": "hand-tools",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.13",
+    "name": "Identify matching assembly parts",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.14",
+    "name": "Follow a six-step assembly diagram",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.15",
+    "name": "Replace a worn handle",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.16",
+    "name": "Tighten a loose joint",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.17",
+    "name": "Align two parts before fastening",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.18",
+    "name": "Repair a small surface crack",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.19",
+    "name": "Replace a simple mechanical fitting",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.20",
+    "name": "Diagnose a sticking hinge",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.21",
+    "name": "Reinforce a weak furniture joint",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.22",
+    "name": "Disassemble and reassemble a mechanism",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "home.repair-assembly.23",
+    "name": "Plan a repair from observed symptoms",
+    "domain": "home",
+    "cluster": "repair-assembly",
+    "difficulty": 6
   },
   {
     "id": "home.repair-assembly.assemble-from-diagram",
@@ -476,6 +4700,62 @@
     "difficulty": 6
   },
   {
+    "id": null,
+    "draft_key": "home.textiles-sewing.44",
+    "name": "Thread a hand-sewing needle",
+    "domain": "home",
+    "cluster": "textiles-sewing",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.textiles-sewing.45",
+    "name": "Sew a straight hand seam",
+    "domain": "home",
+    "cluster": "textiles-sewing",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "home.textiles-sewing.46",
+    "name": "Repair a small fabric tear",
+    "domain": "home",
+    "cluster": "textiles-sewing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.textiles-sewing.47",
+    "name": "Hem a straight edge by hand",
+    "domain": "home",
+    "cluster": "textiles-sewing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.textiles-sewing.48",
+    "name": "Replace a simple fastener",
+    "domain": "home",
+    "cluster": "textiles-sewing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.textiles-sewing.49",
+    "name": "Take body measurements for a garment",
+    "domain": "home",
+    "cluster": "textiles-sewing",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.textiles-sewing.50",
+    "name": "Adjust a pattern for length",
+    "domain": "home",
+    "cluster": "textiles-sewing",
+    "difficulty": 4
+  },
+  {
     "id": "home.textiles-sewing.sew-secure-button",
     "name": "Sew on a secure button",
     "domain": "home",
@@ -483,11 +4763,147 @@
     "difficulty": 2
   },
   {
+    "id": null,
+    "draft_key": "home.vehicle-basics.56",
+    "name": "Check tyre pressure against a label",
+    "domain": "home",
+    "cluster": "vehicle-basics",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "home.vehicle-basics.57",
+    "name": "Top up windscreen fluid safely",
+    "domain": "home",
+    "cluster": "vehicle-basics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.vehicle-basics.58",
+    "name": "Check exterior lights",
+    "domain": "home",
+    "cluster": "vehicle-basics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "home.vehicle-basics.59",
+    "name": "Identify a dashboard warning that requires stopping",
+    "domain": "home",
+    "cluster": "vehicle-basics",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "home.vehicle-basics.60",
+    "name": "Jump-start a vehicle with protected connections",
+    "domain": "home",
+    "cluster": "vehicle-basics",
+    "difficulty": 6
+  },
+  {
     "id": "home.vehicle-basics.change-wheel-safely",
     "name": "Change a vehicle wheel safely",
     "domain": "home",
     "cluster": "vehicle-basics",
     "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.59",
+    "name": "Identify a text's central point",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.60",
+    "name": "Distinguish examples from conclusions",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.61",
+    "name": "Summarise a short spoken account",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.62",
+    "name": "Extract an argument's supporting reasons",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.63",
+    "name": "Compare two accounts of one event",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.64",
+    "name": "Condense a page into five points",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.65",
+    "name": "Trace references across a document",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.66",
+    "name": "Summarise a thirty-minute discussion",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.67",
+    "name": "Reconcile details across three sources",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.68",
+    "name": "Separate stated facts from implications",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.69",
+    "name": "Produce an executive summary",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.comprehension-summary.70",
+    "name": "Synthesize a long technical document",
+    "domain": "lang",
+    "cluster": "comprehension-summary",
+    "difficulty": 6
   },
   {
     "id": "lang.comprehension-summary.summarise-five-paragraph-text",
@@ -501,6 +4917,166 @@
     "name": "Synthesise conflicting accounts",
     "domain": "lang",
     "cluster": "comprehension-summary",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.23",
+    "name": "Match a written label to an object",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.24",
+    "name": "Locate a named word on a page",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.25",
+    "name": "Follow a two-step written direction",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.26",
+    "name": "Identify the main sentence in a paragraph",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.27",
+    "name": "Read a short notice accurately",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.28",
+    "name": "Use headings to locate information",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.29",
+    "name": "Follow a short written procedure",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.30",
+    "name": "Identify who did what in a narrative",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.31",
+    "name": "Infer a word's meaning from context",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.32",
+    "name": "Locate evidence for a stated claim",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.33",
+    "name": "Follow cross-references in a document",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.34",
+    "name": "Compare information in text and a table",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.35",
+    "name": "Read a twenty-page text for detail",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.36",
+    "name": "Detect a contradiction within a document",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.37",
+    "name": "Interpret a writer's qualified claim",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.38",
+    "name": "Read an unfamiliar technical instruction",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.39",
+    "name": "Analyse structure across several chapters",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.40",
+    "name": "Read a long argument critically",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.41",
+    "name": "Compare rhetorical choices in two texts",
+    "domain": "lang",
+    "cluster": "reading",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.reading.42",
+    "name": "Interpret a dense specialised text",
+    "domain": "lang",
+    "cluster": "reading",
     "difficulty": 6
   },
   {
@@ -518,6 +5094,86 @@
     "difficulty": 0
   },
   {
+    "id": null,
+    "draft_key": "lang.second-language.71",
+    "name": "Exchange greetings in another language",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.72",
+    "name": "Ask for a location in another language",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.73",
+    "name": "Give personal details in another language",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.74",
+    "name": "Follow a simple transaction in another language",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.75",
+    "name": "Describe a routine in another language",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.76",
+    "name": "Handle an unexpected travel question bilingually",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.77",
+    "name": "Read a short practical notice in another language",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.78",
+    "name": "Write a concise message in another language",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.79",
+    "name": "Sustain a twenty-minute bilingual conversation",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "lang.second-language.80",
+    "name": "Interpret a practical conversation between languages",
+    "domain": "lang",
+    "cluster": "second-language",
+    "difficulty": 6
+  },
+  {
     "id": "lang.second-language.exchange-practical-information",
     "name": "Exchange practical information bilingually",
     "domain": "lang",
@@ -529,6 +5185,134 @@
     "name": "Translate a short text",
     "domain": "lang",
     "cluster": "second-language",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.43",
+    "name": "State a need in one sentence",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.44",
+    "name": "Repeat a spoken instruction accurately",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.45",
+    "name": "Give a two-step spoken direction",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.46",
+    "name": "Describe a familiar object clearly",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.47",
+    "name": "Retell a short spoken account",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.48",
+    "name": "Ask for clarification during conversation",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.49",
+    "name": "Explain a process in sequence",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.50",
+    "name": "Follow a five-minute spoken explanation",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.51",
+    "name": "Adjust speaking pace for a listener",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.52",
+    "name": "Paraphrase another person's statement",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.53",
+    "name": "Deliver a clear two-minute explanation",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.54",
+    "name": "Interpret implied meaning in conversation",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.55",
+    "name": "Sustain a structured interview",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.56",
+    "name": "Explain a complex issue without notes",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.57",
+    "name": "Moderate a detailed spoken exchange",
+    "domain": "lang",
+    "cluster": "speaking-listening",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.speaking-listening.58",
+    "name": "Adapt live speech for mixed audiences",
+    "domain": "lang",
+    "cluster": "speaking-listening",
     "difficulty": 5
   },
   {
@@ -546,6 +5330,182 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "lang.writing.1",
+    "name": "Write a complete sentence",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.10",
+    "name": "Write a persuasive paragraph",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.11",
+    "name": "Draft a two-page explanation",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.12",
+    "name": "Revise writing for clarity",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.13",
+    "name": "Adapt tone for a named audience",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.14",
+    "name": "Structure a multi-section document",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.15",
+    "name": "Integrate evidence into an argument",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.16",
+    "name": "Write a coherent long-form essay",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.17",
+    "name": "Edit for consistency across sections",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.18",
+    "name": "Write a technical explanation for non-specialists",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.19",
+    "name": "Develop a sustained written argument",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.2",
+    "name": "Write a clear question",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.20",
+    "name": "Rewrite complex material in plain language",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.21",
+    "name": "Produce a publication-ready article",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.22",
+    "name": "Develop a coherent book-length argument",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 7
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.3",
+    "name": "Write a short instruction",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.4",
+    "name": "Write a five-sentence account",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.5",
+    "name": "Organise a paragraph around one point",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.6",
+    "name": "Use punctuation to separate ideas",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.7",
+    "name": "Write a concise request",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.8",
+    "name": "Write a factual event summary",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "lang.writing.9",
+    "name": "Write a comparison of two options",
+    "domain": "lang",
+    "cluster": "writing",
+    "difficulty": 3
+  },
+  {
     "id": "lang.writing.edit-structured-report",
     "name": "Edit a structured report",
     "domain": "lang",
@@ -558,6 +5518,38 @@
     "domain": "lang",
     "cluster": "writing",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "learn.deliberate-practice.37",
+    "name": "Choose one measurable practice variable",
+    "domain": "learn",
+    "cluster": "deliberate-practice",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.deliberate-practice.38",
+    "name": "Design a drill for a recurring error",
+    "domain": "learn",
+    "cluster": "deliberate-practice",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.deliberate-practice.39",
+    "name": "Record ten practice attempts consistently",
+    "domain": "learn",
+    "cluster": "deliberate-practice",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "learn.deliberate-practice.40",
+    "name": "Increase task difficulty after stable success",
+    "domain": "learn",
+    "cluster": "deliberate-practice",
+    "difficulty": 6
   },
   {
     "id": "learn.deliberate-practice.design-feedback-loop",
@@ -574,6 +5566,54 @@
     "difficulty": 5
   },
   {
+    "id": null,
+    "draft_key": "learn.memory.18",
+    "name": "Recall a five-step sequence",
+    "domain": "learn",
+    "cluster": "memory",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "learn.memory.19",
+    "name": "Use a location cue to retrieve an item",
+    "domain": "learn",
+    "cluster": "memory",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.memory.20",
+    "name": "Group twenty items into categories",
+    "domain": "learn",
+    "cluster": "memory",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.memory.21",
+    "name": "Create retrieval questions from notes",
+    "domain": "learn",
+    "cluster": "memory",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.memory.22",
+    "name": "Recall key points after one week",
+    "domain": "learn",
+    "cluster": "memory",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "learn.memory.23",
+    "name": "Diagnose which material is not retained",
+    "domain": "learn",
+    "cluster": "memory",
+    "difficulty": 4
+  },
+  {
     "id": "learn.memory.build-spaced-retrieval-plan",
     "name": "Build a spaced retrieval plan",
     "domain": "learn",
@@ -588,11 +5628,131 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "learn.notes-capture.24",
+    "name": "Record a source beside each note",
+    "domain": "learn",
+    "cluster": "notes-capture",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "learn.notes-capture.25",
+    "name": "Separate quotations from paraphrases",
+    "domain": "learn",
+    "cluster": "notes-capture",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "learn.notes-capture.26",
+    "name": "Capture decisions during a meeting",
+    "domain": "learn",
+    "cluster": "notes-capture",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.notes-capture.27",
+    "name": "Summarise a page in three notes",
+    "domain": "learn",
+    "cluster": "notes-capture",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.notes-capture.28",
+    "name": "Link related notes across two topics",
+    "domain": "learn",
+    "cluster": "notes-capture",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.notes-capture.29",
+    "name": "Create an index for a note collection",
+    "domain": "learn",
+    "cluster": "notes-capture",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "learn.notes-capture.30",
+    "name": "Convert rough notes into a structured outline",
+    "domain": "learn",
+    "cluster": "notes-capture",
+    "difficulty": 4
+  },
+  {
     "id": "learn.notes-capture.capture-five-key-points",
     "name": "Capture five key points",
     "domain": "learn",
     "cluster": "notes-capture",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.10",
+    "name": "Identify the author of a source",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.11",
+    "name": "Locate a source's publication date",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.12",
+    "name": "Separate primary from secondary evidence",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.13",
+    "name": "Check whether a source supports a quoted claim",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.14",
+    "name": "Compare expertise across two sources",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.15",
+    "name": "Identify an undisclosed conflict of interest",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.16",
+    "name": "Evaluate the method behind a claim",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "learn.source-evaluation.17",
+    "name": "Cross-check a claim with independent sources",
+    "domain": "learn",
+    "cluster": "source-evaluation",
+    "difficulty": 5
   },
   {
     "id": "learn.source-evaluation.audit-evidence-base",
@@ -609,11 +5769,131 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "learn.study-technique.1",
+    "name": "Set a question for a study session",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.2",
+    "name": "Remove two distractions before study",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.3",
+    "name": "Divide a topic into study blocks",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.4",
+    "name": "Alternate recall and review",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.5",
+    "name": "Schedule three focused study sessions",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.6",
+    "name": "Test progress without looking at notes",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.7",
+    "name": "Revise a study plan after a weak result",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.8",
+    "name": "Plan study across four weeks",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "learn.study-technique.9",
+    "name": "Adapt study methods to task type",
+    "domain": "learn",
+    "cluster": "study-technique",
+    "difficulty": 4
+  },
+  {
     "id": "learn.study-technique.run-focused-study-block",
     "name": "Run a focused study block",
     "domain": "learn",
     "cluster": "study-technique",
     "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "learn.synthesis.31",
+    "name": "Compare conclusions from three sources",
+    "domain": "learn",
+    "cluster": "synthesis",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.synthesis.32",
+    "name": "Organise evidence by competing explanations",
+    "domain": "learn",
+    "cluster": "synthesis",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "learn.synthesis.33",
+    "name": "Reconcile conflicting definitions",
+    "domain": "learn",
+    "cluster": "synthesis",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "learn.synthesis.34",
+    "name": "Build a concept map from five sources",
+    "domain": "learn",
+    "cluster": "synthesis",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "learn.synthesis.35",
+    "name": "Write a synthesis that preserves disagreement",
+    "domain": "learn",
+    "cluster": "synthesis",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "learn.synthesis.36",
+    "name": "Transfer an explanatory model to a new topic",
+    "domain": "learn",
+    "cluster": "synthesis",
+    "difficulty": 7
   },
   {
     "id": "learn.synthesis.combine-four-sources",
@@ -630,11 +5910,211 @@
     "difficulty": 6
   },
   {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.27",
+    "name": "Substitute values into a formula",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.28",
+    "name": "Simplify a symbolic expression",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.29",
+    "name": "Rearrange a formula for one variable",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.30",
+    "name": "Solve two simultaneous linear equations",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.31",
+    "name": "Plot a linear relationship from a formula",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.32",
+    "name": "Interpret the slope of a relationship",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.33",
+    "name": "Solve a quadratic equation",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.34",
+    "name": "Represent a word problem symbolically",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.35",
+    "name": "Manipulate inequalities without changing meaning",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.36",
+    "name": "Analyse an exponential relationship",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.37",
+    "name": "Derive a formula from stated constraints",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.38",
+    "name": "Solve a system with several variables",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.algebra-symbolic.39",
+    "name": "Verify a symbolic derivation",
+    "domain": "reason",
+    "cluster": "algebra-symbolic",
+    "difficulty": 6
+  },
+  {
     "id": "reason.algebra-symbolic.solve-linear-equation",
     "name": "Solve a linear equation",
     "domain": "reason",
     "cluster": "algebra-symbolic",
     "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.15",
+    "name": "Add three two-digit numbers",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.16",
+    "name": "Subtract with regrouping",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.17",
+    "name": "Multiply two two-digit numbers",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.18",
+    "name": "Divide a quantity into equal shares",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.19",
+    "name": "Estimate a calculation before solving",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.20",
+    "name": "Calculate an average of five values",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.21",
+    "name": "Convert between metric units",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.22",
+    "name": "Calculate a proportional share",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.23",
+    "name": "Apply compound percentage changes",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.24",
+    "name": "Reconcile a list of transactions",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.25",
+    "name": "Check a multistep calculation by another method",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.arithmetic.26",
+    "name": "Calculate a weighted average",
+    "domain": "reason",
+    "cluster": "arithmetic",
+    "difficulty": 4
   },
   {
     "id": "reason.arithmetic.calculate-percent-change",
@@ -651,6 +6131,102 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.52",
+    "name": "Estimate an order of magnitude",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.53",
+    "name": "Break an estimate into measurable factors",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.54",
+    "name": "Set upper and lower bounds",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.55",
+    "name": "Check a model against one observation",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.56",
+    "name": "Perform a sensitivity check",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.57",
+    "name": "Build a simple rate model",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.58",
+    "name": "Calibrate a model from observed data",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.59",
+    "name": "Compare competing models",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.60",
+    "name": "Quantify uncertainty in an estimate",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.61",
+    "name": "Model feedback between two quantities",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.62",
+    "name": "Validate a model on held-out observations",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "reason.estimation-modelling.63",
+    "name": "Design a scenario simulation",
+    "domain": "reason",
+    "cluster": "estimation-modelling",
+    "difficulty": 6
+  },
+  {
     "id": "reason.estimation-modelling.model-capacity-constraints",
     "name": "Model capacity constraints",
     "domain": "reason",
@@ -665,11 +6241,179 @@
     "difficulty": 7
   },
   {
+    "id": null,
+    "draft_key": "reason.geometry-measurement.64",
+    "name": "Measure length to the nearest millimetre",
+    "domain": "reason",
+    "cluster": "geometry-measurement",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "reason.geometry-measurement.65",
+    "name": "Measure an angle with a guide",
+    "domain": "reason",
+    "cluster": "geometry-measurement",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "reason.geometry-measurement.66",
+    "name": "Calculate the area of a rectangle",
+    "domain": "reason",
+    "cluster": "geometry-measurement",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.geometry-measurement.67",
+    "name": "Calculate the volume of a rectangular object",
+    "domain": "reason",
+    "cluster": "geometry-measurement",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.geometry-measurement.68",
+    "name": "Scale a drawing from measurements",
+    "domain": "reason",
+    "cluster": "geometry-measurement",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.geometry-measurement.69",
+    "name": "Triangulate an inaccessible distance",
+    "domain": "reason",
+    "cluster": "geometry-measurement",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.geometry-measurement.70",
+    "name": "Check dimensional consistency",
+    "domain": "reason",
+    "cluster": "geometry-measurement",
+    "difficulty": 4
+  },
+  {
     "id": "reason.geometry-measurement.set-out-right-angle",
     "name": "Set out a right angle",
     "domain": "reason",
     "cluster": "geometry-measurement",
     "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.1",
+    "name": "Identify a conclusion in a short argument",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.10",
+    "name": "Compare two explanations against evidence",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.11",
+    "name": "Revise an argument after a valid objection",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.12",
+    "name": "Analyse a circular argument",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.13",
+    "name": "Formalise a complex conditional argument",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.14",
+    "name": "Evaluate a long chain of reasoning",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.2",
+    "name": "List the premises supporting a claim",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.3",
+    "name": "Distinguish a reason from an example",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.4",
+    "name": "Test whether a conclusion follows",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.5",
+    "name": "Find an unstated assumption",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.6",
+    "name": "Construct a valid two-step argument",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.7",
+    "name": "Identify a contradiction between claims",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.8",
+    "name": "Distinguish necessary from sufficient conditions",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.logic-argument.9",
+    "name": "Evaluate a counterexample",
+    "domain": "reason",
+    "cluster": "logic-argument",
+    "difficulty": 3
   },
   {
     "id": "reason.logic-argument.map-multi-step-argument",
@@ -686,6 +6430,102 @@
     "difficulty": 1
   },
   {
+    "id": null,
+    "draft_key": "reason.probability-statistics.40",
+    "name": "Calculate probability from equally likely outcomes",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.41",
+    "name": "Estimate probability from observed frequency",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.42",
+    "name": "Distinguish correlation from causation",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.43",
+    "name": "Calculate a median and range",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.44",
+    "name": "Choose a representative summary statistic",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.45",
+    "name": "Interpret a confidence interval",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.46",
+    "name": "Compare risk using absolute frequencies",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.47",
+    "name": "Design a simple random sample",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.48",
+    "name": "Detect a misleading graph scale",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.49",
+    "name": "Fit a simple trend to observations",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.50",
+    "name": "Test a claim using sample data",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "reason.probability-statistics.51",
+    "name": "Analyse uncertainty in a forecast",
+    "domain": "reason",
+    "cluster": "probability-statistics",
+    "difficulty": 5
+  },
+  {
     "id": "reason.probability-statistics.build-bayesian-model",
     "name": "Build a Bayesian model",
     "domain": "reason",
@@ -698,6 +6538,118 @@
     "domain": "reason",
     "cluster": "probability-statistics",
     "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.17",
+    "name": "State a disagreement without accusation",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.18",
+    "name": "Separate positions from interests",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.19",
+    "name": "Ask for a concrete change",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.20",
+    "name": "Propose two workable compromises",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.21",
+    "name": "Set a boundary during disagreement",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.22",
+    "name": "De-escalate a heated exchange",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.23",
+    "name": "Negotiate a shared-resource schedule",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.24",
+    "name": "Document an agreed resolution",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.25",
+    "name": "Handle an impasse without escalation",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.26",
+    "name": "Negotiate across unequal priorities",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.27",
+    "name": "Resolve a recurring two-party dispute",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.28",
+    "name": "Design a fair multi-issue agreement",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.29",
+    "name": "Facilitate agreement under time pressure",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.conflict-negotiation.30",
+    "name": "Rebuild cooperation after conflict",
+    "domain": "social",
+    "cluster": "conflict-negotiation",
+    "difficulty": 6
   },
   {
     "id": "social.conflict-negotiation.find-shared-interest",
@@ -714,6 +6666,134 @@
     "difficulty": 5
   },
   {
+    "id": null,
+    "draft_key": "social.conversation.1",
+    "name": "Take turns in a short exchange",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.10",
+    "name": "Adapt detail to another person's interest",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.11",
+    "name": "Include a newcomer in a discussion",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.12",
+    "name": "Discuss a sensitive topic respectfully",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.13",
+    "name": "Navigate competing conversational goals",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.14",
+    "name": "Sustain rapport across repeated meetings",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.15",
+    "name": "Host a structured networking conversation",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.16",
+    "name": "Facilitate a difficult one-to-one conversation",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.2",
+    "name": "Signal that a speaker should continue",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.3",
+    "name": "Answer a direct social question",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.4",
+    "name": "Introduce one person to another",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.5",
+    "name": "Close a conversation politely",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 0
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.6",
+    "name": "Join an ongoing group conversation",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.7",
+    "name": "Shift topics with a clear transition",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.8",
+    "name": "Clarify a mistaken assumption",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.conversation.9",
+    "name": "Maintain a conversation for fifteen minutes",
+    "domain": "social",
+    "cluster": "conversation",
+    "difficulty": 2
+  },
+  {
     "id": "social.conversation.ask-open-question",
     "name": "Ask an open question",
     "domain": "social",
@@ -726,6 +6806,118 @@
     "domain": "social",
     "cluster": "conversation",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.31",
+    "name": "Demonstrate one procedure step by step",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.32",
+    "name": "Check whether an instruction was understood",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.33",
+    "name": "Correct one error without discouraging practice",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.34",
+    "name": "Set a measurable practice target",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.35",
+    "name": "Explain the reason for a correction",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.36",
+    "name": "Adapt an explanation after confusion",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.37",
+    "name": "Give balanced performance feedback",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.38",
+    "name": "Teach a short procedure to a novice",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.39",
+    "name": "Observe practice using clear criteria",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.40",
+    "name": "Plan a thirty-minute teaching session",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.41",
+    "name": "Sequence instruction from simple to complex",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.42",
+    "name": "Diagnose a learner's recurring error",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.43",
+    "name": "Design practice for mixed ability levels",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.feedback-teaching.44",
+    "name": "Evaluate whether teaching changed performance",
+    "domain": "social",
+    "cluster": "feedback-teaching",
+    "difficulty": 5
   },
   {
     "id": "social.feedback-teaching.coach-skill-practice",
@@ -742,6 +6934,102 @@
     "difficulty": 2
   },
   {
+    "id": null,
+    "draft_key": "social.groups-facilitation.58",
+    "name": "Open a small group discussion",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.59",
+    "name": "Invite input from a quiet participant",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.60",
+    "name": "Keep a discussion on one question",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.61",
+    "name": "Record group decisions visibly",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.62",
+    "name": "Summarise areas of agreement",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.63",
+    "name": "Redirect a dominating participant",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.64",
+    "name": "Run a ten-minute round-robin",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.65",
+    "name": "Facilitate a structured decision",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.66",
+    "name": "Manage competing topics in a meeting",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.67",
+    "name": "Guide a group through prioritisation",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.68",
+    "name": "Facilitate a contentious workshop",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "social.groups-facilitation.69",
+    "name": "Facilitate multi-party crisis dialogue",
+    "domain": "social",
+    "cluster": "groups-facilitation",
+    "difficulty": 7
+  },
+  {
     "id": "social.groups-facilitation.facilitate-ten-person-session",
     "name": "Facilitate a ten-person session",
     "domain": "social",
@@ -756,6 +7044,110 @@
     "difficulty": 6
   },
   {
+    "id": null,
+    "draft_key": "social.listening-empathy.45",
+    "name": "Name the feeling expressed by a speaker",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.46",
+    "name": "Summarise a speaker's concern",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.47",
+    "name": "Ask before offering advice",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.48",
+    "name": "Distinguish feelings from requested actions",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.49",
+    "name": "Listen for five minutes without interrupting",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.50",
+    "name": "Validate an experience without claiming agreement",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.51",
+    "name": "Clarify an ambiguous emotional statement",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.52",
+    "name": "Support someone through a difficult disclosure",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.53",
+    "name": "Recognise when practical help is wanted",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.54",
+    "name": "Maintain boundaries during emotional support",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.55",
+    "name": "Respond to distress without taking control",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.56",
+    "name": "Sustain supportive listening over repeated conversations",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.listening-empathy.57",
+    "name": "Coordinate peer support while preserving privacy",
+    "domain": "social",
+    "cluster": "listening-empathy",
+    "difficulty": 5
+  },
+  {
     "id": "social.listening-empathy.reflect-key-point",
     "name": "Reflect a speaker's key point",
     "domain": "social",
@@ -763,11 +7155,131 @@
     "difficulty": 0
   },
   {
+    "id": null,
+    "draft_key": "social.presenting.70",
+    "name": "Introduce a topic in thirty seconds",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.71",
+    "name": "Explain one visual aid clearly",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.72",
+    "name": "Speak audibly to a small group",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.73",
+    "name": "Present three points in sequence",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.74",
+    "name": "Answer one audience question directly",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.75",
+    "name": "Deliver a ten-minute prepared talk",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.76",
+    "name": "Present without reading a script",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.77",
+    "name": "Adjust a talk after audience feedback",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.78",
+    "name": "Explain numerical findings aloud",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.79",
+    "name": "Handle a challenging question calmly",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "social.presenting.80",
+    "name": "Deliver a persuasive twenty-minute presentation",
+    "domain": "social",
+    "cluster": "presenting",
+    "difficulty": 5
+  },
+  {
     "id": "social.presenting.present-five-minutes",
     "name": "Present for five minutes",
     "domain": "social",
     "cluster": "presenting",
     "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.civic-navigation.67",
+    "name": "Find the responsible public service",
+    "domain": "world",
+    "cluster": "civic-navigation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.civic-navigation.68",
+    "name": "Locate eligibility rules for a service",
+    "domain": "world",
+    "cluster": "civic-navigation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.civic-navigation.69",
+    "name": "Prepare a factual service complaint",
+    "domain": "world",
+    "cluster": "civic-navigation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.civic-navigation.70",
+    "name": "Track a public request to resolution",
+    "domain": "world",
+    "cluster": "civic-navigation",
+    "difficulty": 6
   },
   {
     "id": "world.civic-navigation.coordinate-complex-public-process",
@@ -784,11 +7296,195 @@
     "difficulty": 4
   },
   {
+    "id": null,
+    "draft_key": "world.contracts-admin.39",
+    "name": "Locate a deadline in a form",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.40",
+    "name": "Gather required documents from a checklist",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.41",
+    "name": "Keep a dated record of a request",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.42",
+    "name": "Compare two clauses for differences",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.43",
+    "name": "Identify an obligation in an agreement",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.44",
+    "name": "Submit a correction to an application",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.45",
+    "name": "Track an application through three stages",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.46",
+    "name": "Summarise a contract's key duties",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.47",
+    "name": "Prepare evidence for an administrative appeal",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.48",
+    "name": "Negotiate a clear service amendment",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.contracts-admin.49",
+    "name": "Audit a set of interdependent agreements",
+    "domain": "world",
+    "cluster": "contracts-admin",
+    "difficulty": 5
+  },
+  {
     "id": "world.contracts-admin.complete-form-accurately",
     "name": "Complete a form accurately",
     "domain": "world",
     "cluster": "contracts-admin",
     "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.1",
+    "name": "Record ten transactions accurately",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.10",
+    "name": "Evaluate a loan using effective cost",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.11",
+    "name": "Model three long-term savings scenarios",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.12",
+    "name": "Audit a complex household budget",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.2",
+    "name": "Separate fixed and variable costs",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.3",
+    "name": "Calculate the total cost of instalments",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.4",
+    "name": "Set a weekly spending limit",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.5",
+    "name": "Reconcile a statement against records",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.6",
+    "name": "Compare offers using total cost",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.7",
+    "name": "Build a one-month cash-flow plan",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.8",
+    "name": "Plan for an irregular expense",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.money-budgeting.9",
+    "name": "Adjust a budget after income changes",
+    "domain": "world",
+    "cluster": "money-budgeting",
+    "difficulty": 4
   },
   {
     "id": "world.money-budgeting.build-annual-cashflow-plan",
@@ -805,11 +7501,195 @@
     "difficulty": 2
   },
   {
+    "id": null,
+    "draft_key": "world.orientation-navigation.26",
+    "name": "Orient a map to the surroundings",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.27",
+    "name": "Identify the next landmark on a route",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.28",
+    "name": "Retrace a route from memory",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.29",
+    "name": "Estimate walking distance from map scale",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.30",
+    "name": "Choose between two public routes",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.31",
+    "name": "Navigate an unfamiliar building",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.32",
+    "name": "Follow a route using cardinal directions",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.33",
+    "name": "Reroute after missing a turn",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.34",
+    "name": "Plan an accessible route around barriers",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.35",
+    "name": "Navigate where location signals are unavailable",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.36",
+    "name": "Combine several transport modes on one route",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.37",
+    "name": "Plan an emergency alternative route",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.orientation-navigation.38",
+    "name": "Navigate a multi-day journey from maps",
+    "domain": "world",
+    "cluster": "orientation-navigation",
+    "difficulty": 6
+  },
+  {
     "id": "world.orientation-navigation.follow-route-map",
     "name": "Follow a route map",
     "domain": "world",
     "cluster": "orientation-navigation",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.50",
+    "name": "Define a project outcome in one sentence",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.51",
+    "name": "Break an outcome into deliverables",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.52",
+    "name": "Assign an owner and date to each task",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.53",
+    "name": "Track blockers in a shared log",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.54",
+    "name": "Run a fifteen-minute progress review",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.55",
+    "name": "Update a plan after scope changes",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.56",
+    "name": "Estimate effort for a small project",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.57",
+    "name": "Manage dependencies across three contributors",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.58",
+    "name": "Record and resolve project risks",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 6
+  },
+  {
+    "id": null,
+    "draft_key": "world.project-work.59",
+    "name": "Direct a multi-year programme",
+    "domain": "world",
+    "cluster": "project-work",
+    "difficulty": 7
   },
   {
     "id": "world.project-work.manage-interdependent-project",
@@ -826,11 +7706,171 @@
     "difficulty": 3
   },
   {
+    "id": null,
+    "draft_key": "world.time-planning.13",
+    "name": "Estimate the duration of a routine task",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.14",
+    "name": "Place five tasks in dependency order",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.15",
+    "name": "Reserve travel time between commitments",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.16",
+    "name": "Break a deadline into dated steps",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.17",
+    "name": "Choose priorities for one day",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.18",
+    "name": "Revise a schedule after a delay",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.19",
+    "name": "Plan a week around fixed constraints",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.20",
+    "name": "Coordinate availability across four people",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.21",
+    "name": "Build contingency time into a plan",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.22",
+    "name": "Balance several projects across a month",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.23",
+    "name": "Create a rolling three-month plan",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.24",
+    "name": "Optimise a constrained shared schedule",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 5
+  },
+  {
+    "id": null,
+    "draft_key": "world.time-planning.25",
+    "name": "Coordinate a year-long programme",
+    "domain": "world",
+    "cluster": "time-planning",
+    "difficulty": 5
+  },
+  {
     "id": "world.time-planning.schedule-three-commitments",
     "name": "Schedule three commitments",
     "domain": "world",
     "cluster": "time-planning",
     "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.travel.60",
+    "name": "Pack from a weather-based checklist",
+    "domain": "world",
+    "cluster": "travel",
+    "difficulty": 1
+  },
+  {
+    "id": null,
+    "draft_key": "world.travel.61",
+    "name": "Check entry and transit requirements",
+    "domain": "world",
+    "cluster": "travel",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.travel.62",
+    "name": "Compare routes by time and transfers",
+    "domain": "world",
+    "cluster": "travel",
+    "difficulty": 2
+  },
+  {
+    "id": null,
+    "draft_key": "world.travel.63",
+    "name": "Plan arrival from a transport terminal",
+    "domain": "world",
+    "cluster": "travel",
+    "difficulty": 3
+  },
+  {
+    "id": null,
+    "draft_key": "world.travel.64",
+    "name": "Keep essential documents accessible",
+    "domain": "world",
+    "cluster": "travel",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.travel.65",
+    "name": "Adapt a journey after cancellation",
+    "domain": "world",
+    "cluster": "travel",
+    "difficulty": 4
+  },
+  {
+    "id": null,
+    "draft_key": "world.travel.66",
+    "name": "Plan a week-long independent trip",
+    "domain": "world",
+    "cluster": "travel",
+    "difficulty": 6
   },
   {
     "id": "world.travel.plan-multileg-journey",

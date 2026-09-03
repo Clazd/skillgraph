@@ -1,611 +1,611 @@
 {
-  "generated_at": "2026-09-03T21:39:32.087Z",
+  "generated_at": "2026-09-03T22:02:39.498Z",
   "inputs": {
     "spine_records": 120,
-    "skill_records": 0,
-    "current_total": 120
+    "skill_records": 880,
+    "current_total": 1000
   },
   "clusters": [
     {
       "domain": "body",
       "cluster": "floor",
       "budget": 22,
-      "occupied": 2,
-      "remaining": 20
+      "occupied": 22,
+      "remaining": 0
     },
     {
       "domain": "body",
       "cluster": "locomotion",
       "budget": 20,
-      "occupied": 1,
-      "remaining": 19
+      "occupied": 20,
+      "remaining": 0
     },
     {
       "domain": "body",
       "cluster": "balance-coordination",
       "budget": 16,
-      "occupied": 3,
-      "remaining": 13
+      "occupied": 16,
+      "remaining": 0
     },
     {
       "domain": "body",
       "cluster": "strength-carry",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "body",
       "cluster": "endurance",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "body",
       "cluster": "water-and-wheels",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "body",
       "cluster": "fine-motor",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "programming-fundamentals",
       "budget": 22,
-      "occupied": 1,
-      "remaining": 21
+      "occupied": 22,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "data-structures-algorithms",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "data-handling",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "web-frontend",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "debugging",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "systems-networking",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "security",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "eng",
       "cluster": "version-control",
       "budget": 10,
-      "occupied": 1,
-      "remaining": 9
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "lang",
       "cluster": "writing",
       "budget": 24,
-      "occupied": 2,
-      "remaining": 22
+      "occupied": 24,
+      "remaining": 0
     },
     {
       "domain": "lang",
       "cluster": "reading",
       "budget": 22,
-      "occupied": 2,
-      "remaining": 20
+      "occupied": 22,
+      "remaining": 0
     },
     {
       "domain": "lang",
       "cluster": "speaking-listening",
       "budget": 18,
-      "occupied": 2,
-      "remaining": 16
+      "occupied": 18,
+      "remaining": 0
     },
     {
       "domain": "lang",
       "cluster": "comprehension-summary",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "lang",
       "cluster": "second-language",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "social",
       "cluster": "conversation",
       "budget": 18,
-      "occupied": 2,
-      "remaining": 16
+      "occupied": 18,
+      "remaining": 0
     },
     {
       "domain": "social",
       "cluster": "conflict-negotiation",
       "budget": 16,
-      "occupied": 2,
-      "remaining": 14
+      "occupied": 16,
+      "remaining": 0
     },
     {
       "domain": "social",
       "cluster": "feedback-teaching",
       "budget": 16,
-      "occupied": 2,
-      "remaining": 14
+      "occupied": 16,
+      "remaining": 0
     },
     {
       "domain": "social",
       "cluster": "listening-empathy",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "social",
       "cluster": "groups-facilitation",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "social",
       "cluster": "presenting",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "art",
       "cluster": "music",
       "budget": 18,
-      "occupied": 1,
-      "remaining": 17
+      "occupied": 18,
+      "remaining": 0
     },
     {
       "domain": "art",
       "cluster": "drawing",
       "budget": 16,
-      "occupied": 2,
-      "remaining": 14
+      "occupied": 16,
+      "remaining": 0
     },
     {
       "domain": "art",
       "cluster": "design-visual",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "art",
       "cluster": "photography",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "art",
       "cluster": "craft-making",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "art",
       "cluster": "video-motion",
       "budget": 10,
-      "occupied": 2,
-      "remaining": 8
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "art",
       "cluster": "performance",
       "budget": 8,
-      "occupied": 1,
-      "remaining": 7
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "food",
       "cluster": "heat-technique",
       "budget": 18,
-      "occupied": 2,
-      "remaining": 16
+      "occupied": 18,
+      "remaining": 0
     },
     {
       "domain": "food",
       "cluster": "knife-prep",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "food",
       "cluster": "baking",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "food",
       "cluster": "kitchen-safety",
       "budget": 10,
-      "occupied": 1,
-      "remaining": 9
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "food",
       "cluster": "seasoning-tasting",
       "budget": 10,
-      "occupied": 2,
-      "remaining": 8
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "food",
       "cluster": "meal-planning",
       "budget": 10,
-      "occupied": 2,
-      "remaining": 8
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "food",
       "cluster": "hosting",
       "budget": 6,
-      "occupied": 1,
-      "remaining": 5
+      "occupied": 6,
+      "remaining": 0
     },
     {
       "domain": "reason",
       "cluster": "logic-argument",
       "budget": 16,
-      "occupied": 2,
-      "remaining": 14
+      "occupied": 16,
+      "remaining": 0
     },
     {
       "domain": "reason",
       "cluster": "arithmetic",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "reason",
       "cluster": "algebra-symbolic",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "reason",
       "cluster": "probability-statistics",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "reason",
       "cluster": "estimation-modelling",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "reason",
       "cluster": "geometry-measurement",
       "budget": 8,
-      "occupied": 1,
-      "remaining": 7
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "digital",
       "cluster": "documents-spreadsheets",
       "budget": 18,
-      "occupied": 2,
-      "remaining": 16
+      "occupied": 18,
+      "remaining": 0
     },
     {
       "domain": "digital",
       "cluster": "devices-os",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "digital",
       "cluster": "files-directories",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "digital",
       "cluster": "browsing-search",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "digital",
       "cluster": "media-handling",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "digital",
       "cluster": "digital-safety",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "world",
       "cluster": "money-budgeting",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "world",
       "cluster": "time-planning",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "world",
       "cluster": "orientation-navigation",
       "budget": 14,
-      "occupied": 1,
-      "remaining": 13
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "world",
       "cluster": "contracts-admin",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "world",
       "cluster": "project-work",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "world",
       "cluster": "travel",
       "budget": 8,
-      "occupied": 1,
-      "remaining": 7
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "world",
       "cluster": "civic-navigation",
       "budget": 6,
-      "occupied": 2,
-      "remaining": 4
+      "occupied": 6,
+      "remaining": 0
     },
     {
       "domain": "care",
       "cluster": "first-aid",
       "budget": 16,
-      "occupied": 2,
-      "remaining": 14
+      "occupied": 16,
+      "remaining": 0
     },
     {
       "domain": "care",
       "cluster": "hygiene-selfcare",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "care",
       "cluster": "emergency-response",
       "budget": 12,
-      "occupied": 2,
-      "remaining": 10
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "care",
       "cluster": "injury-prevention",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "care",
       "cluster": "risk-assessment",
       "budget": 10,
-      "occupied": 2,
-      "remaining": 8
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "care",
       "cluster": "sleep-rest",
       "budget": 8,
-      "occupied": 1,
-      "remaining": 7
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "home",
       "cluster": "hand-tools",
       "budget": 14,
-      "occupied": 2,
-      "remaining": 12
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "home",
       "cluster": "repair-assembly",
       "budget": 14,
-      "occupied": 3,
-      "remaining": 11
+      "occupied": 14,
+      "remaining": 0
     },
     {
       "domain": "home",
       "cluster": "cleaning-laundry",
       "budget": 12,
-      "occupied": 1,
-      "remaining": 11
+      "occupied": 12,
+      "remaining": 0
     },
     {
       "domain": "home",
       "cluster": "electrical-plumbing-basics",
       "budget": 10,
-      "occupied": 1,
-      "remaining": 9
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "home",
       "cluster": "textiles-sewing",
       "budget": 8,
-      "occupied": 1,
-      "remaining": 7
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "home",
       "cluster": "gardening",
       "budget": 6,
-      "occupied": 1,
-      "remaining": 5
+      "occupied": 6,
+      "remaining": 0
     },
     {
       "domain": "home",
       "cluster": "vehicle-basics",
       "budget": 6,
-      "occupied": 1,
-      "remaining": 5
+      "occupied": 6,
+      "remaining": 0
     },
     {
       "domain": "learn",
       "cluster": "study-technique",
       "budget": 10,
-      "occupied": 1,
-      "remaining": 9
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "learn",
       "cluster": "source-evaluation",
       "budget": 10,
-      "occupied": 2,
-      "remaining": 8
+      "occupied": 10,
+      "remaining": 0
     },
     {
       "domain": "learn",
       "cluster": "memory",
       "budget": 8,
-      "occupied": 2,
-      "remaining": 6
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "learn",
       "cluster": "notes-capture",
       "budget": 8,
-      "occupied": 1,
-      "remaining": 7
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "learn",
       "cluster": "synthesis",
       "budget": 8,
-      "occupied": 2,
-      "remaining": 6
+      "occupied": 8,
+      "remaining": 0
     },
     {
       "domain": "learn",
       "cluster": "deliberate-practice",
       "budget": 6,
-      "occupied": 2,
-      "remaining": 4
+      "occupied": 6,
+      "remaining": 0
     }
   ],
   "difficulty_levels": [
     {
       "difficulty": 0,
       "target": 60,
-      "current": 6,
-      "remaining": 54
+      "current": 60,
+      "remaining": 0
     },
     {
       "difficulty": 1,
       "target": 120,
-      "current": 21,
-      "remaining": 99
+      "current": 120,
+      "remaining": 0
     },
     {
       "difficulty": 2,
       "target": 200,
-      "current": 17,
-      "remaining": 183
+      "current": 200,
+      "remaining": 0
     },
     {
       "difficulty": 3,
       "target": 230,
-      "current": 22,
-      "remaining": 208
+      "current": 230,
+      "remaining": 0
     },
     {
       "difficulty": 4,
       "target": 200,
-      "current": 26,
-      "remaining": 174
+      "current": 200,
+      "remaining": 0
     },
     {
       "difficulty": 5,
       "target": 130,
-      "current": 16,
-      "remaining": 114
+      "current": 130,
+      "remaining": 0
     },
     {
       "difficulty": 6,
       "target": 50,
-      "current": 10,
-      "remaining": 40
+      "current": 50,
+      "remaining": 0
     },
     {
       "difficulty": 7,
       "target": 10,
-      "current": 2,
-      "remaining": 8
+      "current": 10,
+      "remaining": 0
     }
   ],
   "grand_total": {
     "target": 1000,
-    "current": 120,
-    "remaining": 880
+    "current": 1000,
+    "remaining": 0
   }
 }

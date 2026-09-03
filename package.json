@@ -8,7 +8,11 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "validate:skills": "tsx scripts/validate-skills.ts",
-    "validate": "pnpm run typecheck && pnpm run test && pnpm run validate:skills"
+    "validate": "pnpm run typecheck && pnpm run test && pnpm run validate:skills",
+    "build:index": "tsx scripts/build-index.ts",
+    "residual-budget": "tsx scripts/residual-budget.ts",
+    "check-distribution": "tsx scripts/check-distribution.ts",
+    "pass2": "tsx scripts/generate-pass2.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",

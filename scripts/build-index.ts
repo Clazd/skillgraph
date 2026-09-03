@@ -13,7 +13,8 @@ interface SourceRecord {
 }
 
 interface IndexRecord {
-  id: string;
+  id: string | null;
+  draft_key?: string;
   name: string;
   domain: string;
   cluster: string;
@@ -26,6 +27,7 @@ const datasetRoot = path.join(repositoryRoot, "packages", "dataset");
 const inputDirectories = [
   path.join(datasetRoot, "skills"),
   path.join(datasetRoot, "spines"),
+  path.join(datasetRoot, "staging", "names"),
 ];
 const outputPath = path.join(repositoryRoot, "generated", "index.json");
 
@@ -50,9 +52,6 @@ function parseJsonLines(contents: string, source: string): SourceRecord[] {
 
 function toIndexRecord(record: SourceRecord, source: string, lineNumber: number): IndexRecord {
   const label = `${source}:${lineNumber}`;
-  if (typeof record.id !== "string" || !/^[a-z0-9-]+\.[a-z0-9-]+\.[a-z0-9-]+$/u.test(record.id)) {
-    throw new Error(`${label}: missing or invalid id`);
-  }
   if (typeof record.name !== "string" || record.name.trim().length === 0) {
     throw new Error(`${label}: missing non-empty name`);
   }
@@ -68,21 +67,22 @@ function toIndexRecord(record: SourceRecord, source: string, lineNumber: number)
     throw new Error(`${label}: difficulty must be an integer from 0 through 7`);
   }
 
-  const idSegments = record.id.split(".");
-  const idDomain = idSegments[0]!;
-  const idCluster = idSegments[1]!;
-  if (record.domain !== idDomain) {
-    throw new Error(`${label}: domain ${record.domain} does not match id domain ${idDomain}`);
-  }
-  if (typeof record.cluster === "string" && record.cluster !== idCluster) {
-    throw new Error(`${label}: cluster ${record.cluster} does not match id cluster ${idCluster}`);
-  }
+  const hasId = typeof record.id === "string";
+  if (hasId && !/^[a-z0-9-]+\.[a-z0-9-]+\.[a-z0-9-]+$/u.test(record.id as string)) throw new Error(`${label}: invalid id`);
+  const idSegments = hasId ? (record.id as string).split(".") : [];
+  const idDomain = idSegments[0];
+  const idCluster = idSegments[1];
+  if (hasId && record.domain !== idDomain) throw new Error(`${label}: domain ${record.domain} does not match id domain ${idDomain}`);
+  if (hasId && typeof record.cluster === "string" && record.cluster !== idCluster) throw new Error(`${label}: cluster ${record.cluster} does not match id cluster ${idCluster}`);
+  const cluster = typeof record.cluster === "string" ? record.cluster : idCluster;
+  if (!cluster) throw new Error(`${label}: missing cluster`);
 
   return {
-    id: record.id,
+    id: hasId ? (record.id as string) : null,
+    ...(!hasId ? { draft_key: `${record.domain}.${cluster}.${lineNumber}` } : {}),
     name: record.name,
     domain: record.domain,
-    cluster: idCluster,
+    cluster,
     difficulty: record.difficulty as Difficulty,
   };
 }
@@ -91,7 +91,7 @@ async function main(): Promise<void> {
   const index: IndexRecord[] = [];
 
   for (const directory of inputDirectories) {
-    const fileNames = (await readdir(directory))
+    const fileNames = (await readdir(directory).catch(() => []))
       .filter((fileName) => fileName.endsWith(".jsonl"))
       .sort((left, right) => left.localeCompare(right));
 
@@ -103,10 +103,10 @@ async function main(): Promise<void> {
     }
   }
 
-  index.sort((left, right) => left.id.localeCompare(right.id));
+  index.sort((left, right) => (left.id ?? left.draft_key ?? "").localeCompare(right.id ?? right.draft_key ?? ""));
 
   const duplicateIds = index
-    .filter((record, position) => position > 0 && record.id === index[position - 1]?.id)
+    .filter((record, position) => record.id !== null && position > 0 && record.id === index[position - 1]?.id)
     .map((record) => record.id);
   if (duplicateIds.length > 0) {
     throw new Error(`duplicate ids: ${[...new Set(duplicateIds)].join(", ")}`);

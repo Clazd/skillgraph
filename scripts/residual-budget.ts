@@ -43,6 +43,7 @@ const domainsPath = path.join(datasetRoot, "domains", "domains.json");
 const inputDirectories = [
   { kind: "spine", directory: path.join(datasetRoot, "spines") },
   { kind: "skill", directory: path.join(datasetRoot, "skills") },
+  { kind: "skill", directory: path.join(datasetRoot, "staging", "names") },
 ] as const;
 const outputPath = path.join(repositoryRoot, "generated", "residual-budget.json");
 
@@ -89,7 +90,7 @@ async function main(): Promise<void> {
   const sourceCounts = { spine: 0, skill: 0 };
 
   for (const input of inputDirectories) {
-    const fileNames = (await readdir(input.directory))
+    const fileNames = (await readdir(input.directory).catch(() => []))
       .filter((fileName) => fileName.endsWith(".jsonl"))
       .sort((left, right) => left.localeCompare(right));
 
