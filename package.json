@@ -13,6 +13,7 @@
     "residual-budget": "tsx scripts/residual-budget.ts",
     "check-distribution": "tsx scripts/check-distribution.ts",
     "pass2": "tsx scripts/generate-pass2.ts"
+    ,"pass3": "tsx scripts/normalise-granularity.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",
