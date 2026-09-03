@@ -5,6 +5,7 @@ import { join, resolve } from "node:path";
 import { afterEach, describe, expect, it } from "vitest";
 
 import {
+  loadSkillsForValidation,
   REPOSITORY_ROOT,
   validateRepository,
   validatorDefinitions,
@@ -155,10 +156,18 @@ describe("domain catalogue", () => {
 });
 
 describe("repository validation", () => {
-  it("passes the Pass 0 empty-dataset gate", () => {
+  it("reads the 120 permanent spine skills into the combined graph", () => {
+    expect(loadSkillsForValidation(REPOSITORY_ROOT)).toHaveLength(120);
+  });
+
+  it("passes the Pass 1 combined-graph fail gates", () => {
     const results = validateRepository(REPOSITORY_ROOT);
     expect(results).toHaveLength(21);
-    expect(results.flatMap(({ issues }) => issues)).toEqual([]);
+    expect(
+      results
+        .filter(({ severity }) => severity === "fail")
+        .flatMap(({ issues }) => issues),
+    ).toEqual([]);
   });
 
   it("rejects a malformed ID and a banned self-assessment word", () => {

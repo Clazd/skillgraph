@@ -132,6 +132,9 @@ Validators run in this order and never downgrade the severity shown here.
 
 ### Binding clarifications used by the validator
 
+- Validators read `skills/*.jsonl` and `spines/*.jsonl` into one combined graph.
+  Spine IDs therefore participate in duplicate, immutability, edge, connectivity,
+  safety, language, and distribution checks from Pass 1 onward.
 - Validator 7 applies Artifact B's precise limits: `all` may contain 5 IDs and
   `any_of.of` may contain 6. It does not impose an additional combined limit
   of 5 on the union of those arrays.
@@ -146,7 +149,10 @@ Validators run in this order and never downgrade the severity shown here.
   excludes roots; exact-name and embedding duplicate checks still cover them.
 - Validator 19 reads the deterministic embedding artifact described below.
   If two or more skills exist and the artifact is absent or stale, that is a
-  failure rather than an unimplemented check.
+  failure rather than an unimplemented check. The sole pre-Pass-4 exception is
+  a spine-only graph: normalised-name and structural duplicate checks still run,
+  while vector comparison waits for the first generated skill or embedding
+  artifact.
 - Validator 21 invokes the layout generator twice in isolated temporary
   output locations and compares the exact bytes. If skills exist but the
   generator is absent, that is a failure.

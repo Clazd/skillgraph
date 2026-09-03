@@ -155,6 +155,7 @@ const SCRIPT_DIR = dirname(fileURLToPath(import.meta.url));
 export const REPOSITORY_ROOT = resolve(SCRIPT_DIR, "..");
 const DATASET_DIR = join(REPOSITORY_ROOT, "packages", "dataset");
 const SKILLS_DIR = join(DATASET_DIR, "skills");
+const SPINES_DIR = join(DATASET_DIR, "spines");
 const SCHEMA_PATH = join(DATASET_DIR, "schemas", "skill.schema.json");
 const DOMAIN_SCHEMA_PATH = join(DATASET_DIR, "schemas", "domain.schema.json");
 const DOMAINS_PATH = join(DATASET_DIR, "domains", "domains.json");
@@ -310,6 +311,7 @@ function readJson(path: string): unknown {
 function loadContext(root = REPOSITORY_ROOT): ValidationContext {
   const datasetDir = join(root, "packages", "dataset");
   const skillsDir = join(datasetDir, "skills");
+  const spinesDir = join(datasetDir, "spines");
   const domainsPath = join(datasetDir, "domains", "domains.json");
   let catalogue: DomainCatalogue | null = null;
   let catalogueError: string | null = null;
@@ -322,14 +324,23 @@ function loadContext(root = REPOSITORY_ROOT): ValidationContext {
 
   const loaded: LoadedSkill[] = [];
   const parseIssues: ParseIssue[] = [];
-  const files = existsSync(skillsDir)
-    ? readdirSync(skillsDir)
-        .filter((name) => name.endsWith(".jsonl"))
-        .sort((left, right) => left.localeCompare(right))
-    : [];
+  const files = [
+    ...(existsSync(skillsDir)
+      ? readdirSync(skillsDir)
+          .filter((name) => name.endsWith(".jsonl"))
+          .map((fileName) => ({ directory: skillsDir, fileName }))
+      : []),
+    ...(existsSync(spinesDir)
+      ? readdirSync(spinesDir)
+          .filter((name) => name.endsWith(".spine.jsonl"))
+          .map((fileName) => ({ directory: spinesDir, fileName }))
+      : []),
+  ].sort((left, right) =>
+    join(left.directory, left.fileName).localeCompare(join(right.directory, right.fileName)),
+  );
 
-  for (const fileName of files) {
-    const absolutePath = join(skillsDir, fileName);
+  for (const { directory, fileName } of files) {
+    const absolutePath = join(directory, fileName);
     const lines = readFileSync(absolutePath, "utf8").split(/\r?\n/u);
     lines.forEach((lineText, index) => {
       if (lineText.trim() === "") return;
@@ -641,7 +652,15 @@ function loadBaselineSkills(root: string): { skills: Skill[]; error: string | nu
   try {
     const listing = execFileSync(
       "git",
-      ["ls-tree", "-r", "--name-only", baseRef, "packages/dataset/skills"],
+      [
+        "ls-tree",
+        "-r",
+        "--name-only",
+        baseRef,
+        "--",
+        "packages/dataset/skills",
+        "packages/dataset/spines",
+      ],
       { cwd: root, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] },
     );
     const paths = listing
@@ -733,34 +752,56 @@ const VALIDATORS: ValidatorDefinition[] = [
         if (overallBudget !== 1000) issues.push(`domain budgets total ${overallBudget}, expected 1000`);
       }
 
-      const expectedFiles = new Set(DOMAIN_IDS.map((domain) => `${domain}.jsonl`));
-      const actualFiles = existsSync(join(context.root, "packages", "dataset", "skills"))
-        ? readdirSync(join(context.root, "packages", "dataset", "skills")).filter((file) =>
-            file.endsWith(".jsonl"),
-          )
-        : [];
-      for (const expectedFile of expectedFiles) {
-        if (!actualFiles.includes(expectedFile)) issues.push(`missing skills file: ${expectedFile}`);
-      }
-      for (const actualFile of actualFiles) {
-        if (!expectedFiles.has(actualFile)) issues.push(`unexpected skills JSONL file: ${actualFile}`);
-        const absolutePath = join(context.root, "packages", "dataset", "skills", actualFile);
-        const bytes = readFileSync(absolutePath);
-        const text = bytes.toString("utf8");
-        if (bytes.length >= 3 && bytes[0] === 0xef && bytes[1] === 0xbb && bytes[2] === 0xbf) {
-          issues.push(`${actualFile}: UTF-8 BOM is not allowed`);
+      const expectedSkillsFiles = new Set(DOMAIN_IDS.map((domain) => `${domain}.jsonl`));
+      const expectedSpineFiles = new Set(DOMAIN_IDS.map((domain) => `${domain}.spine.jsonl`));
+      const sourceDirectories = [
+        {
+          label: "skills",
+          absolutePath: join(context.root, relative(REPOSITORY_ROOT, SKILLS_DIR)),
+          expectedFiles: expectedSkillsFiles,
+        },
+        {
+          label: "spines",
+          absolutePath: join(context.root, relative(REPOSITORY_ROOT, SPINES_DIR)),
+          expectedFiles: expectedSpineFiles,
+        },
+      ];
+      for (const source of sourceDirectories) {
+        const actualFiles = existsSync(source.absolutePath)
+          ? readdirSync(source.absolutePath).filter((file) => file.endsWith(".jsonl"))
+          : [];
+        for (const expectedFile of source.expectedFiles) {
+          if (!actualFiles.includes(expectedFile)) {
+            issues.push(`missing ${source.label} file: ${expectedFile}`);
+          }
         }
-        if (text.includes("\r\n")) issues.push(`${actualFile}: must use LF, not CRLF`);
-        const ids = context.loaded
-          .filter((loaded) => loaded.file.endsWith(`/skills/${actualFile}`))
-          .map((loaded) => loaded.value.id);
-        const sorted = [...ids].sort((left, right) => left.localeCompare(right));
-        if (ids.some((id, index) => id !== sorted[index])) issues.push(`${actualFile}: skills are not sorted by id`);
+        for (const actualFile of actualFiles) {
+          if (!source.expectedFiles.has(actualFile)) {
+            issues.push(`unexpected ${source.label} JSONL file: ${actualFile}`);
+          }
+          const absolutePath = join(source.absolutePath, actualFile);
+          const bytes = readFileSync(absolutePath);
+          const text = bytes.toString("utf8");
+          if (bytes.length >= 3 && bytes[0] === 0xef && bytes[1] === 0xbb && bytes[2] === 0xbf) {
+            issues.push(`${actualFile}: UTF-8 BOM is not allowed`);
+          }
+          if (text.includes("\r\n")) issues.push(`${actualFile}: must use LF, not CRLF`);
+          const ids = context.loaded
+            .filter((loaded) => loaded.file.endsWith(`/${source.label}/${actualFile}`))
+            .map((loaded) => loaded.value.id);
+          const sorted = [...ids].sort((left, right) => left.localeCompare(right));
+          if (ids.some((id, index) => id !== sorted[index])) {
+            issues.push(`${actualFile}: skills are not sorted by id`);
+          }
+        }
       }
       for (const loaded of context.loaded) {
-        const expectedFile = `${loaded.value.domain}.jsonl`;
-        if (!loaded.file.endsWith(`/skills/${expectedFile}`)) {
-          issues.push(`${loaded.value.id}: domain ${loaded.value.domain} must be in ${expectedFile}`);
+        const expectedSkillFile = `/skills/${loaded.value.domain}.jsonl`;
+        const expectedSpineFile = `/spines/${loaded.value.domain}.spine.jsonl`;
+        if (!loaded.file.endsWith(expectedSkillFile) && !loaded.file.endsWith(expectedSpineFile)) {
+          issues.push(
+            `${loaded.value.id}: domain ${loaded.value.domain} must be in ${expectedSkillFile} or ${expectedSpineFile}`,
+          );
         }
         if (loaded.value.secondary_domains.includes(loaded.value.domain)) {
           issues.push(`${loaded.value.id}: secondary_domains repeats primary domain ${loaded.value.domain}`);
@@ -1342,6 +1383,8 @@ const VALIDATORS: ValidatorDefinition[] = [
 
       const path = join(context.root, "packages", "dataset", "generated", "embeddings.bin");
       if (!existsSync(path)) {
+        const hasGeneratedSkills = context.loaded.some((loaded) => loaded.file.includes("/skills/"));
+        if (!hasGeneratedSkills) return issues;
         return [...issues, "embeddings.bin is required when at least two active skills exist"];
       }
       let artifact: EmbeddingArtifact;
@@ -1487,6 +1530,10 @@ export function validateRepository(root = REPOSITORY_ROOT): ValidatorResult[] {
       message,
     })),
   }));
+}
+
+export function loadSkillsForValidation(root = REPOSITORY_ROOT): Skill[] {
+  return loadContext(root).skills;
 }
 
 export function validatorDefinitions(): ReadonlyArray<Pick<ValidatorDefinition, "id" | "name" | "severity">> {
