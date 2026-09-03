@@ -17,6 +17,7 @@
     "pass4": "tsx scripts/detect-duplicates.ts",
     "pass5": "tsx scripts/assign-ids.ts && tsx scripts/build-index.ts && tsx scripts/residual-budget.ts && tsx scripts/check-distribution.ts",
     "checkpoint:cp1": "tsx scripts/checkpoint-report.ts"
+    ,"pass6": "tsx scripts/propose-edges.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",
