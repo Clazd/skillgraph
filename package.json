@@ -6,7 +6,7 @@
   "packageManager": "pnpm@10.33.1",
   "scripts": {
     "dev": "pnpm --filter @skillgraph/web dev",
-    "build": "pnpm run build:graph && pnpm --filter @skillgraph/web build",
+    "build": "pnpm run build:graph && pnpm --filter @skillgraph/web build && node scripts/stage-static.mjs",
     "typecheck": "tsc --noEmit && pnpm -r --if-present run typecheck",
     "test": "vitest run",
     "test:e2e": "pnpm --filter @skillgraph/web test:e2e",
