@@ -1,0 +1,431 @@
+{
+  "count": 71,
+  "changes": [
+    {
+      "target": "art.design-visual.design-a-clear-visual-hierarchy",
+      "removed": "art.design-visual.align-elements-to-a-shared-edge",
+      "added": "art.drawing.block-in-simple-shapes-from-observation",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "art.design-visual.group-related-elements-by-spacing",
+      "removed": "art.design-visual.align-elements-to-a-shared-edge",
+      "added": "art.drawing.draw-five-distinct-line-weights",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "art.music.tune-an-instrument-to-a-reference",
+      "removed": "art.music.clap-a-four-beat-rhythm",
+      "added": "art.design-visual.align-elements-to-a-shared-edge",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "body.endurance.sustain-moderate-movement-for-twenty-minutes",
+      "removed": "body.endurance.climb-stairs-for-five-minutes",
+      "added": "body.floor.sit-upright-for-one-minute",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "body.locomotion.walk-while-carrying-a-light-object",
+      "removed": "body.locomotion.walk-down-a-gentle-slope",
+      "added": "body.floor.place-an-object-at-a-target",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "body.strength-carry.lift-a-ten-kilogram-object-safely",
+      "removed": "lang.speaking-listening.describe-a-familiar-object-clearly",
+      "added": "lang.reading.match-a-written-label-to-an-object",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "body.strength-carry.push-a-loaded-door-open",
+      "removed": "body.strength-carry.carry-a-balanced-load-in-both-hands",
+      "added": "body.floor.open-and-close-one-hand",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "body.strength-carry.rise-from-a-chair-five-times",
+      "removed": "body.strength-carry.lift-a-light-object-from-the-floor",
+      "added": "body.fine-motor.stack-five-small-objects",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "care.sleep-rest.plan-a-consistent-sleep-opportunity",
+      "removed": "lang.reading.follow-a-two-step-written-direction",
+      "added": "lang.reading.match-a-written-label-to-an-object",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "care.first-aid.support-a-minor-sprain",
+      "removed": "care.first-aid.apply-a-clean-dressing",
+      "added": "care.emergency-response.state-an-emergency-location-clearly",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "care.first-aid.treat-a-minor-burn-with-cool-water",
+      "removed": "care.first-aid.apply-a-clean-dressing",
+      "added": "care.hygiene-selfcare.clean-and-cover-a-small-graze",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "care.injury-prevention.warm-up-before-vigorous-movement",
+      "removed": "care.injury-prevention.adjust-a-work-surface-to-neutral-posture",
+      "added": "care.first-aid.apply-a-clean-dressing",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "digital.files-directories.rename-a-file-descriptively",
+      "removed": null,
+      "added": "lang.reading.follow-a-two-step-written-direction",
+      "reason": "Added an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "digital.media-handling.resize-an-image-to-stated-dimensions",
+      "removed": null,
+      "added": "lang.reading.follow-a-two-step-written-direction",
+      "reason": "Added an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "digital.digital-safety.recognise-a-suspicious-web-address",
+      "removed": "digital.digital-safety.create-a-unique-account-password",
+      "added": "digital.devices-os.connect-a-device-to-a-wireless-network",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "digital.documents-spreadsheets.insert-and-label-a-table",
+      "removed": null,
+      "added": "lang.reading.identify-the-main-sentence-in-a-paragraph",
+      "reason": "Added an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "eng.debugging.inspect-state-at-a-breakpoint",
+      "removed": "eng.programming-fundamentals.evaluate-expression",
+      "added": "eng.version-control.restore-one-file-from-an-earlier-revision",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "eng.programming-fundamentals.write-structured-data-to-a-file",
+      "removed": "eng.programming-fundamentals.evaluate-expression",
+      "added": "eng.programming-fundamentals.assign-and-update-a-variable",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "eng.version-control.combine-non-conflicting-branches",
+      "removed": "digital.documents-spreadsheets.create-a-bulleted-list",
+      "added": "digital.digital-safety.create-a-unique-account-password",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "eng.programming-fundamentals.transform-a-list-of-values",
+      "removed": "eng.programming-fundamentals.assign-and-update-a-variable",
+      "added": "eng.programming-fundamentals.evaluate-expression",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "food.heat-technique.judge-doneness-by-temperature",
+      "removed": "food.heat-technique.boil-food-without-overflowing",
+      "added": "food.kitchen-safety.store-chilled-food-promptly",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "food.heat-technique.saute-food-without-scorching",
+      "removed": "food.heat-technique.boil-food-without-overflowing",
+      "added": "food.seasoning-tasting.identify-salt-intensity-in-a-sample",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "food.heat-technique.turn-food-for-even-browning",
+      "removed": "food.heat-technique.boil-food-without-overflowing",
+      "added": "food.kitchen-safety.check-food-temperature-safely",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "food.kitchen-safety.separate-raw-and-ready-to-eat-preparation",
+      "removed": "food.kitchen-safety.check-food-temperature-safely",
+      "added": "food.heat-technique.boil-food-without-overflowing",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "home.hand-tools.use-pliers-to-grip-a-small-part",
+      "removed": "home.hand-tools.measure-a-length-twice-consistently",
+      "added": "home.repair-assembly.identify-matching-assembly-parts",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.comprehension-summary.separate-stated-facts-from-implications",
+      "removed": "lang.comprehension-summary.reconcile-details-across-three-sources",
+      "added": "lang.second-language.read-a-short-practical-notice-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.comprehension-summary.trace-references-across-a-document",
+      "removed": "lang.comprehension-summary.compare-two-accounts-of-one-event",
+      "added": "lang.second-language.describe-a-routine-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.reading.interpret-a-writer-s-qualified-claim",
+      "removed": "lang.reading.compare-information-in-text-and-a-table",
+      "added": "lang.second-language.follow-a-simple-transaction-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.write-a-short-instruction",
+      "removed": "lang.reading.follow-written-instruction",
+      "added": "lang.reading.read-a-short-notice-accurately",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.second-language.exchange-greetings-in-another-language",
+      "removed": "lang.speaking-listening.ask-clear-question",
+      "added": "lang.reading.locate-a-named-word-on-a-page",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.give-a-two-step-spoken-direction",
+      "removed": "lang.speaking-listening.ask-clear-question",
+      "added": "lang.reading.use-headings-to-locate-information",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.repeat-a-spoken-instruction-accurately",
+      "removed": "lang.speaking-listening.ask-clear-question",
+      "added": "lang.reading.match-a-written-label-to-an-object",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.state-a-need-in-one-sentence",
+      "removed": null,
+      "added": "lang.reading.follow-written-instruction",
+      "reason": "Added an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.second-language.sustain-a-twenty-minute-bilingual-conversation",
+      "removed": "lang.second-language.translate-short-text",
+      "added": "lang.second-language.read-a-short-practical-notice-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.explain-a-complex-issue-without-notes",
+      "removed": "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
+      "added": "lang.second-language.read-a-short-practical-notice-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.moderate-a-detailed-spoken-exchange",
+      "removed": "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
+      "added": "lang.speaking-listening.follow-a-five-minute-spoken-explanation",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.explain-a-process-in-sequence",
+      "removed": "lang.speaking-listening.ask-for-clarification-during-conversation",
+      "added": "lang.second-language.give-personal-details-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.follow-a-five-minute-spoken-explanation",
+      "removed": "lang.speaking-listening.retell-a-short-spoken-account",
+      "added": "lang.writing.write-a-five-sentence-account",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.paraphrase-another-person-s-statement",
+      "removed": "lang.speaking-listening.ask-for-clarification-during-conversation",
+      "added": "lang.second-language.exchange-greetings-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.speaking-listening.retell-a-short-spoken-account",
+      "removed": "lang.speaking-listening.repeat-a-spoken-instruction-accurately",
+      "added": "lang.speaking-listening.give-a-two-step-spoken-direction",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.integrate-evidence-into-an-argument",
+      "removed": "lang.writing.draft-a-two-page-explanation",
+      "added": "lang.second-language.describe-a-routine-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.revise-writing-for-clarity",
+      "removed": "lang.writing.draft-a-two-page-explanation",
+      "added": "lang.writing.write-a-concise-request",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.structure-a-multi-section-document",
+      "removed": "lang.writing.draft-a-two-page-explanation",
+      "added": "lang.second-language.follow-a-simple-transaction-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.produce-a-publication-ready-article",
+      "removed": "lang.writing.edit-for-consistency-across-sections",
+      "added": "lang.speaking-listening.moderate-a-detailed-spoken-exchange",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.rewrite-complex-material-in-plain-language",
+      "removed": "lang.writing.edit-for-consistency-across-sections",
+      "added": "lang.speaking-listening.explain-a-complex-issue-without-notes",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.write-a-comparison-of-two-options",
+      "removed": "lang.writing.write-a-concise-request",
+      "added": "lang.writing.write-a-complete-sentence",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.write-a-factual-event-summary",
+      "removed": "lang.writing.write-a-concise-request",
+      "added": "lang.second-language.give-personal-details-in-another-language",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.write-a-persuasive-paragraph",
+      "removed": "lang.writing.write-a-concise-request",
+      "added": "lang.writing.write-a-short-instruction",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "lang.writing.write-a-technical-explanation-for-non-specialists",
+      "removed": "lang.writing.revise-writing-for-clarity",
+      "added": "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "learn.memory.group-twenty-items-into-categories",
+      "removed": "learn.memory.recall-ten-items",
+      "added": "learn.notes-capture.record-a-source-beside-each-note",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "learn.memory.use-a-location-cue-to-retrieve-an-item",
+      "removed": "learn.memory.recall-a-five-step-sequence",
+      "added": "learn.notes-capture.capture-five-key-points",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "learn.source-evaluation.locate-a-source-s-publication-date",
+      "removed": "learn.study-technique.remove-two-distractions-before-study",
+      "added": "learn.notes-capture.record-a-source-beside-each-note",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "reason.arithmetic.estimate-a-calculation-before-solving",
+      "removed": "reason.arithmetic.add-three-two-digit-numbers",
+      "added": "reason.geometry-measurement.measure-an-angle-with-a-guide",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "reason.estimation-modelling.break-an-estimate-into-measurable-factors",
+      "removed": "reason.geometry-measurement.measure-an-angle-with-a-guide",
+      "added": "reason.arithmetic.add-three-two-digit-numbers",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "reason.geometry-measurement.calculate-the-area-of-a-rectangle",
+      "removed": "reason.geometry-measurement.measure-length-to-the-nearest-millimetre",
+      "added": "reason.logic-argument.list-the-premises-supporting-a-claim",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "reason.estimation-modelling.estimate-an-order-of-magnitude",
+      "removed": "reason.logic-argument.identify-a-conclusion-in-a-short-argument",
+      "added": "reason.geometry-measurement.measure-length-to-the-nearest-millimetre",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "reason.arithmetic.multiply-two-two-digit-numbers",
+      "removed": "reason.arithmetic.add-three-two-digit-numbers",
+      "added": "reason.geometry-measurement.measure-an-angle-with-a-guide",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "reason.logic-argument.formalise-a-complex-conditional-argument",
+      "removed": "lang.writing.integrate-evidence-into-an-argument",
+      "added": "lang.comprehension-summary.reconcile-details-across-three-sources",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.conversation.clarify-a-mistaken-assumption",
+      "removed": "social.conversation.join-an-ongoing-group-conversation",
+      "added": "social.conversation.answer-a-direct-social-question",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.conversation.maintain-a-conversation-for-fifteen-minutes",
+      "removed": "social.conversation.join-an-ongoing-group-conversation",
+      "added": "social.conversation.close-a-conversation-politely",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.conversation.shift-topics-with-a-clear-transition",
+      "removed": "social.conversation.join-an-ongoing-group-conversation",
+      "added": "social.conversation.signal-that-a-speaker-should-continue",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.listening-empathy.ask-before-offering-advice",
+      "removed": "social.listening-empathy.name-the-feeling-expressed-by-a-speaker",
+      "added": "social.conversation.take-turns-in-a-short-exchange",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.presenting.present-three-points-in-sequence",
+      "removed": "social.presenting.explain-one-visual-aid-clearly",
+      "added": "social.conversation.join-an-ongoing-group-conversation",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.groups-facilitation.keep-a-discussion-on-one-question",
+      "removed": "social.presenting.explain-one-visual-aid-clearly",
+      "added": "social.conversation.answer-a-direct-social-question",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.listening-empathy.name-the-feeling-expressed-by-a-speaker",
+      "removed": "social.listening-empathy.reflect-key-point",
+      "added": "social.conversation.signal-that-a-speaker-should-continue",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "social.listening-empathy.summarise-a-speaker-s-concern",
+      "removed": "social.listening-empathy.reflect-key-point",
+      "added": "social.conversation.close-a-conversation-politely",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "world.orientation-navigation.retrace-a-route-from-memory",
+      "removed": "world.orientation-navigation.identify-the-next-landmark-on-a-route",
+      "added": "world.travel.pack-from-a-weather-based-checklist",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "world.contracts-admin.keep-a-dated-record-of-a-request",
+      "removed": "world.contracts-admin.gather-required-documents-from-a-checklist",
+      "added": "world.orientation-navigation.identify-the-next-landmark-on-a-route",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "world.money-budgeting.reconcile-a-statement-against-records",
+      "removed": "world.money-budgeting.record-ten-transactions-accurately",
+      "added": "world.contracts-admin.gather-required-documents-from-a-checklist",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "world.money-budgeting.set-a-weekly-spending-limit",
+      "removed": "world.money-budgeting.record-ten-transactions-accurately",
+      "added": "world.contracts-admin.locate-a-deadline-in-a-form",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    },
+    {
+      "target": "world.time-planning.reserve-travel-time-between-commitments",
+      "removed": "world.time-planning.schedule-three-commitments",
+      "added": "world.money-budgeting.record-ten-transactions-accurately",
+      "reason": "Replaced with an adjudicated candidate to give distinct prerequisite structure."
+    }
+  ]
+}

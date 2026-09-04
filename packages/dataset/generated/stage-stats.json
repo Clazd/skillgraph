@@ -1,10 +1,10 @@
 {
   "active_skills": 1000,
-  "hard_edges": 2533,
-  "soft_edges": 3794,
-  "hard_edges_per_node": 2.533,
-  "cross_domain_hard_edges": 613,
-  "cross_domain_ratio": 0.242006,
+  "hard_edges": 2524,
+  "soft_edges": 3809,
+  "hard_edges_per_node": 2.524,
+  "cross_domain_hard_edges": 611,
+  "cross_domain_ratio": 0.242076,
   "roots": 120,
   "roots_by_domain": {
     "art": 8,

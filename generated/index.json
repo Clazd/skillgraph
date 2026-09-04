@@ -4642,7 +4642,7 @@
   },
   {
     "id": "lang.speaking-listening.describe-a-familiar-object-clearly",
-    "name": "Describe a familiar object clearly",
+    "name": "Describe an everyday object clearly",
     "domain": "lang",
     "cluster": "speaking-listening",
     "difficulty": 2
@@ -6742,7 +6742,7 @@
   },
   {
     "id": "world.orientation-navigation.plan-an-emergency-alternative-route",
-    "name": "Plan an emergency alternative route",
+    "name": "Plan a disruption alternative route",
     "domain": "world",
     "cluster": "orientation-navigation",
     "difficulty": 5

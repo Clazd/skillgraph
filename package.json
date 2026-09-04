@@ -24,6 +24,9 @@
     ,"pass9": "tsx scripts/apply-alternative-routes.ts"
     ,"pass10": "tsx scripts/cross-domain-enrich.ts"
     ,"pass11": "tsx scripts/detect-cycles.ts && tsx scripts/validate-stage-graph.ts"
+    ,"pass12": "tsx scripts/write-skill-text.ts && tsx scripts/build-index.ts && tsx scripts/residual-budget.ts && tsx scripts/build-final-embeddings.ts"
+    ,"repair:structural": "tsx scripts/repair-structural-duplicates.ts && tsx scripts/build-final-embeddings.ts"
+    ,"pass13": "tsx scripts/lint-safety-neutrality.ts && tsx scripts/build-index.ts && tsx scripts/build-final-embeddings.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",

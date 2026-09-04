@@ -676,7 +676,7 @@
       {
         "label": "core capability route",
         "all": [
-          "art.design-visual.align-elements-to-a-shared-edge",
+          "art.drawing.block-in-simple-shapes-from-observation",
           "art.design-visual.create-contrast-between-heading-and-body-text"
         ]
       }
@@ -825,7 +825,7 @@
       {
         "label": "core capability route",
         "all": [
-          "art.design-visual.align-elements-to-a-shared-edge",
+          "art.drawing.draw-five-distinct-line-weights",
           "art.design-visual.create-contrast-between-heading-and-body-text"
         ]
       }
@@ -2192,7 +2192,7 @@
       {
         "label": "core capability route",
         "all": [
-          "art.music.clap-a-four-beat-rhythm",
+          "art.design-visual.align-elements-to-a-shared-edge",
           "art.music.keep-steady-pulse"
         ]
       }
@@ -4016,7 +4016,7 @@
       {
         "label": "core capability route",
         "all": [
-          "body.endurance.climb-stairs-for-five-minutes",
+          "body.floor.sit-upright-for-one-minute",
           "body.endurance.walk-continuously-for-ten-minutes"
         ]
       }
@@ -4033,11 +4033,6 @@
         "note": "Float with support for thirty seconds helps develop sustain moderate movement for twenty minutes but is not indispensable."
       },
       {
-        "id": "body.floor.sit-upright-for-one-minute",
-        "strength": 0.61,
-        "note": "Sit upright for one minute helps develop sustain moderate movement for twenty minutes but is not indispensable."
-      },
-      {
         "id": "lang.second-language.exchange-greetings-in-another-language",
         "strength": 0.6,
         "note": "Exchange greetings in another language helps develop sustain moderate movement for twenty minutes but is not indispensable."
@@ -4046,6 +4041,11 @@
         "id": "lang.speaking-listening.give-a-two-step-spoken-direction",
         "strength": 0.6,
         "note": "Give a two-step spoken direction helps develop sustain moderate movement for twenty minutes but is not indispensable."
+      },
+      {
+        "id": "body.endurance.climb-stairs-for-five-minutes",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -5049,7 +5049,7 @@
       {
         "label": "core capability route",
         "all": [
-          "body.locomotion.walk-down-a-gentle-slope",
+          "body.floor.place-an-object-at-a-target",
           "body.locomotion.climb-one-flight-of-stairs"
         ]
       }
@@ -5343,7 +5343,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.describe-a-familiar-object-clearly",
+          "lang.reading.match-a-written-label-to-an-object",
           "body.strength-carry.pull-an-object-across-a-smooth-floor",
           "body.strength-carry.push-a-loaded-door-open",
           "body.strength-carry.rise-from-a-chair-five-times"
@@ -5362,11 +5362,6 @@
         "note": "Exit shallow water safely helps develop lift a ten-kilogram object safely but is not indispensable."
       },
       {
-        "id": "lang.reading.match-a-written-label-to-an-object",
-        "strength": 0.61,
-        "note": "Match a written label to an object helps develop lift a ten-kilogram object safely but is not indispensable."
-      },
-      {
         "id": "lang.comprehension-summary.distinguish-examples-from-conclusions",
         "strength": 0.6,
         "note": "Distinguish examples from conclusions helps develop lift a ten-kilogram object safely but is not indispensable."
@@ -5375,6 +5370,11 @@
         "id": "lang.comprehension-summary.identify-a-text-s-central-point",
         "strength": 0.6,
         "note": "Identify a text's central point helps develop lift a ten-kilogram object safely but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.describe-a-familiar-object-clearly",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -5559,17 +5559,12 @@
       {
         "label": "core capability route",
         "all": [
-          "body.strength-carry.carry-a-balanced-load-in-both-hands",
+          "body.floor.open-and-close-one-hand",
           "body.strength-carry.lift-a-light-object-from-the-floor"
         ]
       }
     ],
     "builds_on": [
-      {
-        "id": "body.floor.open-and-close-one-hand",
-        "strength": 0.62,
-        "note": "Open and close one hand helps develop push a loaded door open but is not indispensable."
-      },
       {
         "id": "body.endurance.climb-stairs-for-five-minutes",
         "strength": 0.6,
@@ -5589,6 +5584,11 @@
         "id": "lang.speaking-listening.give-a-two-step-spoken-direction",
         "strength": 0.6,
         "note": "Give a two-step spoken direction helps develop push a loaded door open but is not indispensable."
+      },
+      {
+        "id": "body.strength-carry.carry-a-balanced-load-in-both-hands",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -5598,7 +5598,7 @@
       {
         "label": "core capability route",
         "all": [
-          "body.strength-carry.lift-a-light-object-from-the-floor",
+          "body.fine-motor.stack-five-small-objects",
           "body.strength-carry.carry-a-balanced-load-in-both-hands"
         ]
       }
@@ -6103,16 +6103,9 @@
     "id": "care.emergency-response.account-for-people-after-evacuation",
     "unlock_rules": [
       {
-        "label": "structured instruction route",
+        "label": "direct safety route",
         "all": [
-          "lang.writing.revise-writing-for-clarity",
-          "care.emergency-response.guide-another-person-to-an-exit"
-        ]
-      },
-      {
-        "label": "self-directed practical route",
-        "all": [
-          "care.emergency-response.use-a-fire-blanket-on-a-training-setup"
+          "care.first-aid.respond-to-severe-bleeding"
         ]
       }
     ],
@@ -6240,16 +6233,9 @@
     "id": "care.emergency-response.coordinate-a-small-area-evacuation",
     "unlock_rules": [
       {
-        "label": "structured instruction route",
+        "label": "direct safety route",
         "all": [
-          "care.emergency-response.guide-another-person-to-an-exit",
-          "care.emergency-response.use-a-fire-blanket-on-a-training-setup"
-        ]
-      },
-      {
-        "label": "self-directed practical route",
-        "all": [
-          "lang.comprehension-summary.trace-references-across-a-document"
+          "care.hygiene-selfcare.clean-and-cover-a-small-graze"
         ]
       }
     ],
@@ -6383,16 +6369,9 @@
     "id": "care.emergency-response.guide-another-person-to-an-exit",
     "unlock_rules": [
       {
-        "label": "structured instruction route",
+        "label": "direct safety route",
         "all": [
-          "lang.speaking-listening.paraphrase-another-person-s-statement",
-          "care.emergency-response.choose-a-safe-assembly-point"
-        ]
-      },
-      {
-        "label": "self-directed practical route",
-        "all": [
-          "care.emergency-response.give-responders-a-concise-situation-report"
+          "care.hygiene-selfcare.wash-hands-20s"
         ]
       }
     ],
@@ -6484,16 +6463,9 @@
     "id": "care.emergency-response.use-a-fire-blanket-on-a-training-setup",
     "unlock_rules": [
       {
-        "label": "structured instruction route",
+        "label": "direct safety route",
         "all": [
-          "care.emergency-response.choose-a-safe-assembly-point",
-          "care.emergency-response.give-responders-a-concise-situation-report"
-        ]
-      },
-      {
-        "label": "self-directed practical route",
-        "all": [
-          "lang.comprehension-summary.condense-a-page-into-five-points"
+          "care.injury-prevention.fit-protective-equipment"
         ]
       }
     ],
@@ -6990,7 +6962,7 @@
       {
         "label": "core capability route",
         "all": [
-          "care.first-aid.apply-a-clean-dressing",
+          "care.emergency-response.state-an-emergency-location-clearly",
           "care.first-aid.check-responsiveness-and-breathing"
         ]
       }
@@ -7000,11 +6972,6 @@
         "id": "care.emergency-response.move-away-from-an-immediate-danger",
         "strength": 0.6,
         "note": "Move away from an immediate danger helps develop support a minor sprain but is not indispensable."
-      },
-      {
-        "id": "care.emergency-response.state-an-emergency-location-clearly",
-        "strength": 0.6,
-        "note": "State an emergency location clearly helps develop support a minor sprain but is not indispensable."
       },
       {
         "id": "lang.second-language.ask-for-a-location-in-another-language",
@@ -7020,6 +6987,11 @@
         "id": "lang.speaking-listening.give-a-two-step-spoken-direction",
         "strength": 0.6,
         "note": "Give a two-step spoken direction helps develop support a minor sprain but is not indispensable."
+      },
+      {
+        "id": "care.first-aid.apply-a-clean-dressing",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -7029,7 +7001,7 @@
       {
         "label": "core capability route",
         "all": [
-          "care.first-aid.apply-a-clean-dressing",
+          "care.hygiene-selfcare.clean-and-cover-a-small-graze",
           "care.first-aid.check-responsiveness-and-breathing"
         ]
       }
@@ -7921,7 +7893,7 @@
       {
         "label": "core capability route",
         "all": [
-          "care.injury-prevention.adjust-a-work-surface-to-neutral-posture",
+          "care.first-aid.apply-a-clean-dressing",
           "care.injury-prevention.clear-a-walking-path-of-trip-hazards"
         ]
       }
@@ -8331,7 +8303,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.reading.follow-a-two-step-written-direction"
+          "lang.reading.match-a-written-label-to-an-object"
         ]
       }
     ],
@@ -8350,6 +8322,11 @@
         "id": "lang.reading.locate-a-named-word-on-a-page",
         "strength": 0.6,
         "note": "Locate a named word on a page helps develop plan a consistent sleep opportunity but is not indispensable."
+      },
+      {
+        "id": "lang.reading.follow-a-two-step-written-direction",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -9648,7 +9625,7 @@
       {
         "label": "core capability route",
         "all": [
-          "digital.digital-safety.create-a-unique-account-password",
+          "digital.devices-os.connect-a-device-to-a-wireless-network",
           "digital.digital-safety.enable-an-additional-sign-in-factor"
         ]
       }
@@ -10300,7 +10277,8 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.reading.match-a-written-label-to-an-object"
+          "lang.reading.match-a-written-label-to-an-object",
+          "lang.reading.identify-the-main-sentence-in-a-paragraph"
         ]
       }
     ],
@@ -10314,11 +10292,6 @@
         "id": "lang.reading.follow-written-instruction",
         "strength": 0.6,
         "note": "Follow a written instruction helps develop insert and label a table but is not indispensable."
-      },
-      {
-        "id": "lang.reading.identify-the-main-sentence-in-a-paragraph",
-        "strength": 0.6,
-        "note": "Identify the main sentence in a paragraph helps develop insert and label a table but is not indispensable."
       }
     ]
   },
@@ -10998,16 +10971,12 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.reading.follow-written-instruction"
+          "lang.reading.follow-written-instruction",
+          "lang.reading.follow-a-two-step-written-direction"
         ]
       }
     ],
     "builds_on": [
-      {
-        "id": "lang.reading.follow-a-two-step-written-direction",
-        "strength": 0.6,
-        "note": "Follow a two-step written direction helps develop rename a file descriptively but is not indispensable."
-      },
       {
         "id": "lang.reading.identify-the-main-sentence-in-a-paragraph",
         "strength": 0.6,
@@ -11345,16 +11314,12 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.reading.identify-the-main-sentence-in-a-paragraph"
+          "lang.reading.identify-the-main-sentence-in-a-paragraph",
+          "lang.reading.follow-a-two-step-written-direction"
         ]
       }
     ],
     "builds_on": [
-      {
-        "id": "lang.reading.follow-a-two-step-written-direction",
-        "strength": 0.6,
-        "note": "Follow a two-step written direction helps develop resize an image to stated dimensions but is not indispensable."
-      },
       {
         "id": "lang.reading.follow-written-instruction",
         "strength": 0.6,
@@ -12792,7 +12757,7 @@
       {
         "label": "core capability route",
         "all": [
-          "eng.programming-fundamentals.evaluate-expression",
+          "eng.version-control.restore-one-file-from-an-earlier-revision",
           "eng.programming-fundamentals.repeat-an-operation-with-a-loop"
         ]
       }
@@ -13752,7 +13717,7 @@
       {
         "label": "core capability route",
         "all": [
-          "eng.programming-fundamentals.assign-and-update-a-variable",
+          "eng.programming-fundamentals.evaluate-expression",
           "eng.programming-fundamentals.use-a-conditional-to-select-behaviour"
         ]
       }
@@ -13774,14 +13739,14 @@
         "note": "Open a web address directly helps develop transform a list of values but is not indispensable."
       },
       {
-        "id": "eng.programming-fundamentals.evaluate-expression",
-        "strength": 0.6,
-        "note": "Evaluate a program expression helps develop transform a list of values but is not indispensable."
-      },
-      {
         "id": "eng.programming-fundamentals.repeat-an-operation-with-a-loop",
         "strength": 0.6,
         "note": "Repeat an operation with a loop helps develop transform a list of values but is not indispensable."
+      },
+      {
+        "id": "eng.programming-fundamentals.assign-and-update-a-variable",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -13865,7 +13830,7 @@
       {
         "label": "core capability route",
         "all": [
-          "eng.programming-fundamentals.evaluate-expression",
+          "eng.programming-fundamentals.assign-and-update-a-variable",
           "eng.programming-fundamentals.repeat-an-operation-with-a-loop"
         ]
       }
@@ -13892,9 +13857,9 @@
         "note": "Restore one file from an earlier revision helps develop write structured data to a file but is not indispensable."
       },
       {
-        "id": "eng.programming-fundamentals.assign-and-update-a-variable",
-        "strength": 0.6,
-        "note": "Assign and update a variable helps develop write structured data to a file but is not indispensable."
+        "id": "eng.programming-fundamentals.evaluate-expression",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -14824,7 +14789,7 @@
       {
         "label": "core capability route",
         "all": [
-          "digital.documents-spreadsheets.create-a-bulleted-list",
+          "digital.digital-safety.create-a-unique-account-password",
           "eng.version-control.record-coherent-change"
         ]
       }
@@ -16570,7 +16535,7 @@
       {
         "label": "core capability route",
         "all": [
-          "food.heat-technique.boil-food-without-overflowing",
+          "food.kitchen-safety.store-chilled-food-promptly",
           "food.heat-technique.bring-water-to-a-controlled-simmer"
         ]
       }
@@ -16737,7 +16702,7 @@
       {
         "label": "core capability route",
         "all": [
-          "food.heat-technique.boil-food-without-overflowing",
+          "food.seasoning-tasting.identify-salt-intensity-in-a-sample",
           "food.heat-technique.bring-water-to-a-controlled-simmer"
         ]
       }
@@ -16856,17 +16821,12 @@
       {
         "label": "core capability route",
         "all": [
-          "food.heat-technique.boil-food-without-overflowing",
+          "food.kitchen-safety.check-food-temperature-safely",
           "food.heat-technique.bring-water-to-a-controlled-simmer"
         ]
       }
     ],
     "builds_on": [
-      {
-        "id": "food.kitchen-safety.check-food-temperature-safely",
-        "strength": 0.63,
-        "note": "Check food temperature safely helps develop turn food for even browning but is not indispensable."
-      },
       {
         "id": "food.kitchen-safety.store-chilled-food-promptly",
         "strength": 0.63,
@@ -16886,6 +16846,11 @@
         "id": "lang.speaking-listening.give-a-two-step-spoken-direction",
         "strength": 0.6,
         "note": "Give a two-step spoken direction helps develop turn food for even browning but is not indispensable."
+      },
+      {
+        "id": "food.heat-technique.boil-food-without-overflowing",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -17397,17 +17362,12 @@
       {
         "label": "core capability route",
         "all": [
-          "food.kitchen-safety.check-food-temperature-safely",
+          "food.heat-technique.boil-food-without-overflowing",
           "food.kitchen-safety.prevent-cross-contamination"
         ]
       }
     ],
     "builds_on": [
-      {
-        "id": "food.heat-technique.boil-food-without-overflowing",
-        "strength": 0.6,
-        "note": "Boil food without overflowing helps develop separate raw and ready-to-eat preparation but is not indispensable."
-      },
       {
         "id": "food.heat-technique.bring-water-to-a-controlled-simmer",
         "strength": 0.6,
@@ -17427,6 +17387,11 @@
         "id": "lang.speaking-listening.give-a-two-step-spoken-direction",
         "strength": 0.6,
         "note": "Give a two-step spoken direction helps develop separate raw and ready-to-eat preparation but is not indispensable."
+      },
+      {
+        "id": "food.kitchen-safety.check-food-temperature-safely",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -20159,7 +20124,7 @@
       {
         "label": "core capability route",
         "all": [
-          "home.hand-tools.measure-a-length-twice-consistently",
+          "home.repair-assembly.identify-matching-assembly-parts",
           "home.hand-tools.select-the-right-screwdriver-tip"
         ]
       }
@@ -21359,7 +21324,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.comprehension-summary.reconcile-details-across-three-sources",
+          "lang.second-language.read-a-short-practical-notice-in-another-language",
           "lang.comprehension-summary.summarise-a-thirty-minute-discussion"
         ]
       },
@@ -21380,6 +21345,11 @@
         "id": "lang.reading.extract-three-details",
         "strength": 0.6,
         "note": "Extract three details from a page helps develop separate stated facts from implications but is not indispensable."
+      },
+      {
+        "id": "lang.comprehension-summary.reconcile-details-across-three-sources",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -21492,7 +21462,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.comprehension-summary.compare-two-accounts-of-one-event",
+          "lang.second-language.describe-a-routine-in-another-language",
           "lang.comprehension-summary.condense-a-page-into-five-points"
         ]
       },
@@ -21514,6 +21484,11 @@
         "id": "lang.reading.detect-a-contradiction-within-a-document",
         "strength": 0.64,
         "note": "Detect a contradiction within a document helps develop trace references across a document but is not indispensable."
+      },
+      {
+        "id": "lang.comprehension-summary.compare-two-accounts-of-one-event",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -21785,7 +21760,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.reading.compare-information-in-text-and-a-table",
+          "lang.second-language.follow-a-simple-transaction-in-another-language",
           "lang.reading.detect-a-contradiction-within-a-document"
         ]
       },
@@ -21807,6 +21782,11 @@
         "id": "lang.comprehension-summary.compare-two-accounts-of-one-event",
         "strength": 0.6,
         "note": "Compare two accounts of one event helps develop interpret a writer's qualified claim but is not indispensable."
+      },
+      {
+        "id": "lang.reading.compare-information-in-text-and-a-table",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -21994,7 +21974,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.ask-clear-question"
+          "lang.reading.locate-a-named-word-on-a-page"
         ]
       }
     ],
@@ -22008,6 +21988,11 @@
         "id": "lang.reading.follow-written-instruction",
         "strength": 0.6,
         "note": "Follow a written instruction helps develop exchange greetings in another language but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.ask-clear-question",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22168,7 +22153,6 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.second-language.translate-short-text",
           "lang.second-language.write-a-concise-message-in-another-language"
         ]
       }
@@ -22183,6 +22167,11 @@
         "id": "lang.speaking-listening.sustain-a-structured-interview",
         "strength": 0.62,
         "note": "Sustain a structured interview helps develop sustain a twenty-minute bilingual conversation but is not indispensable."
+      },
+      {
+        "id": "lang.second-language.translate-short-text",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22374,7 +22363,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
+          "lang.second-language.read-a-short-practical-notice-in-another-language",
           "lang.speaking-listening.interpret-implied-meaning-in-conversation"
         ]
       },
@@ -22395,6 +22384,11 @@
         "id": "lang.comprehension-summary.summarise-a-thirty-minute-discussion",
         "strength": 0.6,
         "note": "Summarise a thirty-minute discussion helps develop explain a complex issue without notes but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22404,7 +22398,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.ask-for-clarification-during-conversation",
+          "lang.second-language.give-personal-details-in-another-language",
           "lang.speaking-listening.describe-a-familiar-object-clearly",
           "lang.speaking-listening.retell-a-short-spoken-account"
         ]
@@ -22420,6 +22414,11 @@
         "id": "lang.comprehension-summary.identify-a-text-s-central-point",
         "strength": 0.6,
         "note": "Identify a text's central point helps develop explain a process in sequence but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.ask-for-clarification-during-conversation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22429,7 +22428,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.retell-a-short-spoken-account",
+          "lang.writing.write-a-five-sentence-account",
           "lang.speaking-listening.ask-for-clarification-during-conversation",
           "lang.speaking-listening.describe-a-familiar-object-clearly"
         ]
@@ -22445,6 +22444,11 @@
         "id": "lang.reading.follow-a-short-written-procedure",
         "strength": 0.63,
         "note": "Follow a short written procedure helps develop follow a five-minute spoken explanation but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.retell-a-short-spoken-account",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22454,7 +22458,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.ask-clear-question"
+          "lang.reading.use-headings-to-locate-information"
         ]
       }
     ],
@@ -22468,6 +22472,11 @@
         "id": "lang.reading.follow-written-instruction",
         "strength": 0.6,
         "note": "Follow a written instruction helps develop give a two-step spoken direction but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.ask-clear-question",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22520,7 +22529,6 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
           "lang.speaking-listening.interpret-implied-meaning-in-conversation"
         ]
       },
@@ -22541,6 +22549,11 @@
         "id": "lang.comprehension-summary.summarise-a-short-spoken-account",
         "strength": 0.61,
         "note": "Summarise a short spoken account helps develop moderate a detailed spoken exchange but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22550,7 +22563,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.ask-for-clarification-during-conversation",
+          "lang.second-language.exchange-greetings-in-another-language",
           "lang.speaking-listening.describe-a-familiar-object-clearly",
           "lang.speaking-listening.retell-a-short-spoken-account"
         ]
@@ -22563,9 +22576,9 @@
         "note": "Give personal details in another language helps develop paraphrase another person's statement but is not indispensable."
       },
       {
-        "id": "lang.second-language.exchange-greetings-in-another-language",
-        "strength": 0.62,
-        "note": "Exchange greetings in another language helps develop paraphrase another person's statement but is not indispensable."
+        "id": "lang.speaking-listening.ask-for-clarification-during-conversation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22575,7 +22588,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.ask-clear-question"
+          "lang.reading.match-a-written-label-to-an-object"
         ]
       }
     ],
@@ -22589,6 +22602,11 @@
         "id": "lang.reading.read-a-short-notice-accurately",
         "strength": 0.64,
         "note": "Read a short notice accurately helps develop repeat a spoken instruction accurately but is not indispensable."
+      },
+      {
+        "id": "lang.speaking-listening.ask-clear-question",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22598,7 +22616,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.repeat-a-spoken-instruction-accurately",
+          "lang.speaking-listening.give-a-two-step-spoken-direction",
           "lang.speaking-listening.state-a-need-in-one-sentence"
         ]
       }
@@ -22610,9 +22628,9 @@
         "note": "Write a short instruction helps develop retell a short spoken account but is not indispensable."
       },
       {
-        "id": "lang.speaking-listening.give-a-two-step-spoken-direction",
-        "strength": 0.63,
-        "note": "Give a two-step spoken direction helps develop retell a short spoken account but is not indispensable."
+        "id": "lang.speaking-listening.repeat-a-spoken-instruction-accurately",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22622,7 +22640,8 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.speaking-listening.ask-clear-question"
+          "lang.speaking-listening.ask-clear-question",
+          "lang.reading.follow-written-instruction"
         ]
       }
     ],
@@ -22837,7 +22856,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.writing.draft-a-two-page-explanation",
+          "lang.second-language.describe-a-routine-in-another-language",
           "lang.writing.write-a-comparison-of-two-options"
         ]
       },
@@ -22859,6 +22878,11 @@
         "id": "lang.comprehension-summary.condense-a-page-into-five-points",
         "strength": 0.63,
         "note": "Condense a page into five points helps develop integrate evidence into an argument but is not indispensable."
+      },
+      {
+        "id": "lang.writing.draft-a-two-page-explanation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22892,7 +22916,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.writing.edit-for-consistency-across-sections",
+          "lang.speaking-listening.moderate-a-detailed-spoken-exchange",
           "lang.writing.write-a-coherent-long-form-essay"
         ]
       },
@@ -22913,6 +22937,11 @@
         "id": "lang.comprehension-summary.separate-stated-facts-from-implications",
         "strength": 0.6,
         "note": "Separate stated facts from implications helps develop produce a publication-ready article but is not indispensable."
+      },
+      {
+        "id": "lang.writing.edit-for-consistency-across-sections",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22922,7 +22951,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.writing.draft-a-two-page-explanation",
+          "lang.writing.write-a-concise-request",
           "lang.writing.write-a-comparison-of-two-options"
         ]
       },
@@ -22944,6 +22973,11 @@
         "id": "lang.speaking-listening.adjust-speaking-pace-for-a-listener",
         "strength": 0.63,
         "note": "Adjust speaking pace for a listener helps develop revise writing for clarity but is not indispensable."
+      },
+      {
+        "id": "lang.writing.draft-a-two-page-explanation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22953,7 +22987,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.writing.edit-for-consistency-across-sections",
+          "lang.speaking-listening.explain-a-complex-issue-without-notes",
           "lang.writing.write-a-coherent-long-form-essay"
         ]
       },
@@ -22971,9 +23005,9 @@
         "note": "Write a concise message in another language helps develop rewrite complex material in plain language but is not indispensable."
       },
       {
-        "id": "lang.speaking-listening.explain-a-complex-issue-without-notes",
-        "strength": 0.63,
-        "note": "Explain a complex issue without notes helps develop rewrite complex material in plain language but is not indispensable."
+        "id": "lang.writing.edit-for-consistency-across-sections",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -22983,7 +23017,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.writing.draft-a-two-page-explanation",
+          "lang.second-language.follow-a-simple-transaction-in-another-language",
           "lang.writing.write-a-comparison-of-two-options"
         ]
       },
@@ -23005,6 +23039,11 @@
         "id": "lang.reading.follow-cross-references-in-a-document",
         "strength": 0.64,
         "note": "Follow cross-references in a document helps develop structure a multi-section document but is not indispensable."
+      },
+      {
+        "id": "lang.writing.draft-a-two-page-explanation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -23092,7 +23131,6 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.writing.write-a-concise-request",
           "lang.writing.write-a-five-sentence-account",
           "lang.writing.organise-a-paragraph-around-one-point",
           "lang.writing.use-punctuation-to-separate-ideas"
@@ -23106,9 +23144,9 @@
         "note": "Write a clear question helps develop write a comparison of two options but is not indispensable."
       },
       {
-        "id": "lang.writing.write-a-complete-sentence",
-        "strength": 0.63,
-        "note": "Write a complete sentence helps develop write a comparison of two options but is not indispensable."
+        "id": "lang.writing.write-a-concise-request",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -23165,7 +23203,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.writing.write-a-concise-request",
+          "lang.second-language.give-personal-details-in-another-language",
           "lang.writing.write-a-five-sentence-account",
           "lang.writing.organise-a-paragraph-around-one-point",
           "lang.writing.use-punctuation-to-separate-ideas"
@@ -23182,6 +23220,11 @@
         "id": "lang.writing.write-a-complete-sentence",
         "strength": 0.63,
         "note": "Write a complete sentence helps develop write a factual event summary but is not indispensable."
+      },
+      {
+        "id": "lang.writing.write-a-concise-request",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -23215,7 +23258,7 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.writing.write-a-concise-request",
+          "lang.writing.write-a-short-instruction",
           "lang.writing.write-a-five-sentence-account",
           "lang.writing.organise-a-paragraph-around-one-point",
           "lang.writing.use-punctuation-to-separate-ideas"
@@ -23232,6 +23275,11 @@
         "id": "lang.writing.write-a-complete-sentence",
         "strength": 0.63,
         "note": "Write a complete sentence helps develop write a persuasive paragraph but is not indispensable."
+      },
+      {
+        "id": "lang.writing.write-a-concise-request",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -23241,20 +23289,20 @@
       {
         "label": "core capability route",
         "all": [
-          "lang.reading.follow-written-instruction"
+          "lang.reading.read-a-short-notice-accurately"
         ]
       }
     ],
     "builds_on": [
       {
-        "id": "lang.reading.read-a-short-notice-accurately",
-        "strength": 0.64,
-        "note": "Read a short notice accurately helps develop write a short instruction but is not indispensable."
-      },
-      {
         "id": "lang.reading.follow-a-two-step-written-direction",
         "strength": 0.6,
         "note": "Follow a two-step written direction helps develop write a short instruction but is not indispensable."
+      },
+      {
+        "id": "lang.reading.follow-written-instruction",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -23264,7 +23312,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.writing.revise-writing-for-clarity",
+          "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
           "lang.writing.edit-structured-report"
         ]
       },
@@ -23283,9 +23331,9 @@
         "note": "Read an unfamiliar technical instruction helps develop write a technical explanation for non-specialists but is not indispensable."
       },
       {
-        "id": "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
-        "strength": 0.63,
-        "note": "Deliver a clear two-minute explanation helps develop write a technical explanation for non-specialists but is not indispensable."
+        "id": "lang.writing.revise-writing-for-clarity",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -23594,7 +23642,7 @@
       {
         "label": "core capability route",
         "all": [
-          "learn.memory.recall-ten-items",
+          "learn.notes-capture.record-a-source-beside-each-note",
           "learn.memory.recall-a-five-step-sequence"
         ]
       }
@@ -23621,9 +23669,9 @@
         "note": "Capture five key points helps develop group twenty items into categories but is not indispensable."
       },
       {
-        "id": "learn.notes-capture.record-a-source-beside-each-note",
-        "strength": 0.6,
-        "note": "Record a source beside each note helps develop group twenty items into categories but is not indispensable."
+        "id": "learn.memory.recall-ten-items",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -23705,7 +23753,7 @@
       {
         "label": "core capability route",
         "all": [
-          "learn.memory.recall-a-five-step-sequence",
+          "learn.notes-capture.capture-five-key-points",
           "learn.memory.recall-ten-items"
         ]
       }
@@ -23727,14 +23775,14 @@
         "note": "Exchange greetings in another language helps develop use a location cue to retrieve an item but is not indispensable."
       },
       {
-        "id": "learn.notes-capture.capture-five-key-points",
-        "strength": 0.6,
-        "note": "Capture five key points helps develop use a location cue to retrieve an item but is not indispensable."
-      },
-      {
         "id": "learn.notes-capture.record-a-source-beside-each-note",
         "strength": 0.6,
         "note": "Record a source beside each note helps develop use a location cue to retrieve an item but is not indispensable."
+      },
+      {
+        "id": "learn.memory.recall-a-five-step-sequence",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -24300,17 +24348,12 @@
       {
         "label": "core capability route",
         "all": [
-          "learn.study-technique.remove-two-distractions-before-study",
+          "learn.notes-capture.record-a-source-beside-each-note",
           "learn.study-technique.set-a-question-for-a-study-session"
         ]
       }
     ],
     "builds_on": [
-      {
-        "id": "learn.notes-capture.record-a-source-beside-each-note",
-        "strength": 0.63,
-        "note": "Record a source beside each note helps develop locate a source's publication date but is not indispensable."
-      },
       {
         "id": "lang.reading.locate-a-named-word-on-a-page",
         "strength": 0.62,
@@ -24330,6 +24373,11 @@
         "id": "learn.memory.recall-a-five-step-sequence",
         "strength": 0.6,
         "note": "Recall a five-step sequence helps develop locate a source's publication date but is not indispensable."
+      },
+      {
+        "id": "learn.study-technique.remove-two-distractions-before-study",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -25939,7 +25987,7 @@
       {
         "label": "core capability route",
         "all": [
-          "reason.arithmetic.add-three-two-digit-numbers",
+          "reason.geometry-measurement.measure-an-angle-with-a-guide",
           "reason.arithmetic.calculate-unit-rate"
         ]
       }
@@ -25966,9 +26014,9 @@
         "note": "Subtract with regrouping helps develop estimate a calculation before solving but is not indispensable."
       },
       {
-        "id": "reason.geometry-measurement.measure-an-angle-with-a-guide",
-        "strength": 0.6,
-        "note": "Measure an angle with a guide helps develop estimate a calculation before solving but is not indispensable."
+        "id": "reason.arithmetic.add-three-two-digit-numbers",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -25978,7 +26026,7 @@
       {
         "label": "core capability route",
         "all": [
-          "reason.arithmetic.add-three-two-digit-numbers",
+          "reason.geometry-measurement.measure-an-angle-with-a-guide",
           "reason.arithmetic.subtract-with-regrouping"
         ]
       }
@@ -26005,9 +26053,9 @@
         "note": "Calculate a unit rate helps develop multiply two two-digit numbers but is not indispensable."
       },
       {
-        "id": "reason.geometry-measurement.measure-an-angle-with-a-guide",
-        "strength": 0.6,
-        "note": "Measure an angle with a guide helps develop multiply two two-digit numbers but is not indispensable."
+        "id": "reason.arithmetic.add-three-two-digit-numbers",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -26091,7 +26139,7 @@
       {
         "label": "core capability route",
         "all": [
-          "reason.geometry-measurement.measure-an-angle-with-a-guide",
+          "reason.arithmetic.add-three-two-digit-numbers",
           "reason.geometry-measurement.measure-length-to-the-nearest-millimetre"
         ]
       }
@@ -26113,14 +26161,14 @@
         "note": "Give a two-step spoken direction helps develop break an estimate into measurable factors but is not indispensable."
       },
       {
-        "id": "reason.arithmetic.add-three-two-digit-numbers",
-        "strength": 0.6,
-        "note": "Add three two-digit numbers helps develop break an estimate into measurable factors but is not indispensable."
-      },
-      {
         "id": "reason.arithmetic.calculate-unit-rate",
         "strength": 0.6,
         "note": "Calculate a unit rate helps develop break an estimate into measurable factors but is not indispensable."
+      },
+      {
+        "id": "reason.geometry-measurement.measure-an-angle-with-a-guide",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -26354,7 +26402,7 @@
       {
         "label": "core capability route",
         "all": [
-          "reason.logic-argument.identify-a-conclusion-in-a-short-argument",
+          "reason.geometry-measurement.measure-length-to-the-nearest-millimetre",
           "reason.logic-argument.list-the-premises-supporting-a-claim"
         ]
       }
@@ -26642,7 +26690,7 @@
       {
         "label": "core capability route",
         "all": [
-          "reason.geometry-measurement.measure-length-to-the-nearest-millimetre",
+          "reason.logic-argument.list-the-premises-supporting-a-claim",
           "reason.geometry-measurement.measure-an-angle-with-a-guide"
         ]
       }
@@ -26652,11 +26700,6 @@
         "id": "reason.arithmetic.calculate-unit-rate",
         "strength": 0.64,
         "note": "Calculate a unit rate helps develop calculate the area of a rectangle but is not indispensable."
-      },
-      {
-        "id": "reason.logic-argument.list-the-premises-supporting-a-claim",
-        "strength": 0.63,
-        "note": "List the premises supporting a claim helps develop calculate the area of a rectangle but is not indispensable."
       },
       {
         "id": "lang.reading.identify-the-main-sentence-in-a-paragraph",
@@ -26672,6 +26715,11 @@
         "id": "lang.second-language.exchange-greetings-in-another-language",
         "strength": 0.6,
         "note": "Exchange greetings in another language helps develop calculate the area of a rectangle but is not indispensable."
+      },
+      {
+        "id": "reason.geometry-measurement.measure-length-to-the-nearest-millimetre",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -27251,7 +27299,7 @@
       {
         "label": "structured instruction route",
         "all": [
-          "lang.writing.integrate-evidence-into-an-argument",
+          "lang.comprehension-summary.reconcile-details-across-three-sources",
           "reason.logic-argument.map-multi-step-argument"
         ]
       },
@@ -27275,11 +27323,6 @@
         "note": "Construct a valid two-step argument helps develop formalise a complex conditional argument but is not indispensable."
       },
       {
-        "id": "lang.comprehension-summary.reconcile-details-across-three-sources",
-        "strength": 0.6,
-        "note": "Reconcile details across three sources helps develop formalise a complex conditional argument but is not indispensable."
-      },
-      {
         "id": "lang.comprehension-summary.summarise-a-thirty-minute-discussion",
         "strength": 0.6,
         "note": "Summarise a thirty-minute discussion helps develop formalise a complex conditional argument but is not indispensable."
@@ -27288,6 +27331,11 @@
         "id": "reason.algebra-symbolic.analyse-an-exponential-relationship",
         "strength": 0.6,
         "note": "Analyse an exponential relationship helps develop formalise a complex conditional argument but is not indispensable."
+      },
+      {
+        "id": "lang.writing.integrate-evidence-into-an-argument",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -28716,7 +28764,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.conversation.join-an-ongoing-group-conversation",
+          "social.conversation.answer-a-direct-social-question",
           "social.conversation.repair-misunderstanding"
         ]
       }
@@ -28970,7 +29018,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.conversation.join-an-ongoing-group-conversation",
+          "social.conversation.close-a-conversation-politely",
           "social.conversation.repair-misunderstanding"
         ]
       }
@@ -28980,11 +29028,6 @@
         "id": "lang.second-language.ask-for-a-location-in-another-language",
         "strength": 0.63,
         "note": "Ask for a location in another language helps develop maintain a conversation for fifteen minutes but is not indispensable."
-      },
-      {
-        "id": "social.conversation.close-a-conversation-politely",
-        "strength": 0.62,
-        "note": "Close a conversation politely helps develop maintain a conversation for fifteen minutes but is not indispensable."
       },
       {
         "id": "lang.second-language.exchange-greetings-in-another-language",
@@ -29000,6 +29043,11 @@
         "id": "social.listening-empathy.name-the-feeling-expressed-by-a-speaker",
         "strength": 0.6,
         "note": "Name the feeling expressed by a speaker helps develop maintain a conversation for fifteen minutes but is not indispensable."
+      },
+      {
+        "id": "social.conversation.join-an-ongoing-group-conversation",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -29062,7 +29110,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.conversation.join-an-ongoing-group-conversation",
+          "social.conversation.signal-that-a-speaker-should-continue",
           "social.conversation.repair-misunderstanding"
         ]
       }
@@ -30016,7 +30064,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.presenting.explain-one-visual-aid-clearly",
+          "social.conversation.answer-a-direct-social-question",
           "social.listening-empathy.name-the-feeling-expressed-by-a-speaker"
         ]
       }
@@ -30043,9 +30091,9 @@
         "note": "Ask an open question helps develop keep a discussion on one question but is not indispensable."
       },
       {
-        "id": "social.conversation.answer-a-direct-social-question",
-        "strength": 0.62,
-        "note": "Answer a direct social question helps develop keep a discussion on one question but is not indispensable."
+        "id": "social.presenting.explain-one-visual-aid-clearly",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -30325,7 +30373,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.listening-empathy.name-the-feeling-expressed-by-a-speaker",
+          "social.conversation.take-turns-in-a-short-exchange",
           "social.listening-empathy.summarise-a-speaker-s-concern"
         ]
       }
@@ -30574,7 +30622,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.listening-empathy.reflect-key-point"
+          "social.conversation.signal-that-a-speaker-should-continue"
         ]
       }
     ],
@@ -30583,11 +30631,6 @@
         "id": "lang.reading.identify-the-main-sentence-in-a-paragraph",
         "strength": 0.63,
         "note": "Identify the main sentence in a paragraph helps develop name the feeling expressed by a speaker but is not indispensable."
-      },
-      {
-        "id": "social.conversation.signal-that-a-speaker-should-continue",
-        "strength": 0.63,
-        "note": "Signal that a speaker should continue helps develop name the feeling expressed by a speaker but is not indispensable."
       },
       {
         "id": "lang.reading.follow-a-two-step-written-direction",
@@ -30603,6 +30646,11 @@
         "id": "social.conversation.answer-a-direct-social-question",
         "strength": 0.6,
         "note": "Answer a direct social question helps develop name the feeling expressed by a speaker but is not indispensable."
+      },
+      {
+        "id": "social.listening-empathy.reflect-key-point",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -30708,7 +30756,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.listening-empathy.reflect-key-point"
+          "social.conversation.close-a-conversation-politely"
         ]
       }
     ],
@@ -31223,7 +31271,7 @@
       {
         "label": "core capability route",
         "all": [
-          "social.presenting.explain-one-visual-aid-clearly",
+          "social.conversation.join-an-ongoing-group-conversation",
           "social.presenting.introduce-a-topic-in-thirty-seconds"
         ]
       }
@@ -31245,14 +31293,14 @@
         "note": "Exchange greetings in another language helps develop present three points in sequence but is not indispensable."
       },
       {
-        "id": "social.conversation.join-an-ongoing-group-conversation",
-        "strength": 0.6,
-        "note": "Join an ongoing group conversation helps develop present three points in sequence but is not indispensable."
-      },
-      {
         "id": "social.conversation.repair-misunderstanding",
         "strength": 0.6,
         "note": "Repair a misunderstanding helps develop present three points in sequence but is not indispensable."
+      },
+      {
+        "id": "social.presenting.explain-one-visual-aid-clearly",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -31708,7 +31756,7 @@
       {
         "label": "core capability route",
         "all": [
-          "world.contracts-admin.gather-required-documents-from-a-checklist",
+          "world.orientation-navigation.identify-the-next-landmark-on-a-route",
           "world.contracts-admin.locate-a-deadline-in-a-form"
         ]
       }
@@ -32366,7 +32414,7 @@
       {
         "label": "core capability route",
         "all": [
-          "world.money-budgeting.record-ten-transactions-accurately",
+          "world.contracts-admin.gather-required-documents-from-a-checklist",
           "world.money-budgeting.separate-fixed-and-variable-costs"
         ]
       }
@@ -32388,14 +32436,14 @@
         "note": "Adjust a device setting helps develop reconcile a statement against records but is not indispensable."
       },
       {
-        "id": "world.contracts-admin.gather-required-documents-from-a-checklist",
-        "strength": 0.6,
-        "note": "Gather required documents from a checklist helps develop reconcile a statement against records but is not indispensable."
-      },
-      {
         "id": "world.contracts-admin.locate-a-deadline-in-a-form",
         "strength": 0.6,
         "note": "Locate a deadline in a form helps develop reconcile a statement against records but is not indispensable."
+      },
+      {
+        "id": "world.money-budgeting.record-ten-transactions-accurately",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -32454,7 +32502,7 @@
       {
         "label": "core capability route",
         "all": [
-          "world.money-budgeting.record-ten-transactions-accurately",
+          "world.contracts-admin.locate-a-deadline-in-a-form",
           "world.money-budgeting.separate-fixed-and-variable-costs"
         ]
       }
@@ -32481,9 +32529,9 @@
         "note": "Gather required documents from a checklist helps develop set a weekly spending limit but is not indispensable."
       },
       {
-        "id": "world.contracts-admin.locate-a-deadline-in-a-form",
-        "strength": 0.6,
-        "note": "Locate a deadline in a form helps develop set a weekly spending limit but is not indispensable."
+        "id": "world.money-budgeting.record-ten-transactions-accurately",
+        "strength": 0.45,
+        "note": "This earlier capability remains useful but is not required by the revised route."
       }
     ]
   },
@@ -32887,16 +32935,9 @@
     "id": "world.orientation-navigation.plan-an-emergency-alternative-route",
     "unlock_rules": [
       {
-        "label": "structured instruction route",
+        "label": "direct safety route",
         "all": [
-          "world.orientation-navigation.plan-an-accessible-route-around-barriers",
-          "digital.digital-safety.respond-to-a-suspected-account-compromise"
-        ]
-      },
-      {
-        "label": "self-directed practical route",
-        "all": [
-          "world.orientation-navigation.navigate-where-location-signals-are-unavailable"
+          "world.money-budgeting.compare-three-offers"
         ]
       }
     ],
@@ -32975,7 +33016,7 @@
       {
         "label": "core capability route",
         "all": [
-          "world.orientation-navigation.identify-the-next-landmark-on-a-route",
+          "world.travel.pack-from-a-weather-based-checklist",
           "world.orientation-navigation.orient-a-map-to-the-surroundings"
         ]
       }
@@ -33907,7 +33948,7 @@
       {
         "label": "core capability route",
         "all": [
-          "world.time-planning.schedule-three-commitments",
+          "world.money-budgeting.record-ten-transactions-accurately",
           "world.time-planning.place-five-tasks-in-dependency-order"
         ]
       }

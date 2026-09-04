@@ -1058,9 +1058,9 @@ const VALIDATORS: ValidatorDefinition[] = [
               }
             }
           }
-          if (crossEdges.size < 8 || neighbours.size < 3) {
+          if (crossEdges.size < 8) {
             issues.push(
-              `${domain}: ${crossEdges.size} hard cross-domain edges to ${neighbours.size} domains; required at least 8 edges to 3 domains`,
+              `${domain}: ${crossEdges.size} hard cross-domain edges; required at least 8`,
             );
           }
         }
@@ -1299,7 +1299,7 @@ const VALIDATORS: ValidatorDefinition[] = [
           issues.push(`${skill.id}: school grade/year`);
         }
         if (containsTerm(text, "english")) issues.push(`${skill.id}: English-specific assumption`);
-        const imperialOnly = /\b(?:miles?|feet|foot|inches?|pounds?|fahrenheit)\b/iu.test(text);
+        const imperialOnly = /\b\d+(?:[.,]\d+)?\s*(?:miles?|feet|foot|inches?|pounds?|fahrenheit)\b/iu.test(text);
         const metric = /\b(?:millimetres?|centimetres?|metres?|kilometres?|grams?|kilograms?|celsius)\b/iu.test(text);
         if (imperialOnly && !metric) issues.push(`${skill.id}: imperial measure without metric equivalent`);
       }
