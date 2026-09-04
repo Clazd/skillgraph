@@ -28,6 +28,7 @@
     ,"repair:structural": "tsx scripts/repair-structural-duplicates.ts && tsx scripts/build-final-embeddings.ts"
     ,"pass13": "tsx scripts/lint-safety-neutrality.ts && tsx scripts/build-index.ts && tsx scripts/build-final-embeddings.ts"
     ,"pass14": "tsx scripts/redteam.ts"
+    ,"pass15": "python scripts/compute-layout.py --seed 42"
   },
   "devDependencies": {
     "@types/node": "26.4.1",
