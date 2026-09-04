@@ -1,0 +1,1521 @@
+{
+  "seed": {
+    "nodes": 91357,
+    "edges": 42821
+  },
+  "node_sample_size": 100,
+  "node_valid": 100,
+  "node_validity": 1,
+  "edge_sample_size": 150,
+  "edge_valid": 138,
+  "edge_precision": 0.92,
+  "gate": {
+    "node_required": 0.95,
+    "edge_required": 0.9,
+    "passed": true
+  },
+  "node_results": [
+    {
+      "id": "food.meal-planning.use-perishable-food-before-it-spoils",
+      "name": "Use perishable food before it spoils",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.comprehension-summary.separate-stated-facts-from-implications",
+      "name": "Separate stated facts from implications",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.speaking-listening.adjust-speaking-pace-for-a-listener",
+      "name": "Adjust speaking pace for a listener",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.meal-planning.plan-five-meals-within-a-fixed-budget",
+      "name": "Plan five meals within a fixed budget",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.kitchen-safety.reheat-food-evenly",
+      "name": "Reheat food evenly",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "home.hand-tools.clamp-a-workpiece-securely",
+      "name": "Clamp a workpiece securely",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "home.hand-tools.drill-a-straight-pilot-hole",
+      "name": "Drill a straight pilot hole",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.data-structures-algorithms.detect-repeated-values-in-linear-time",
+      "name": "Detect repeated values in linear time",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.water-and-wheels.control-a-bicycle-on-varied-surfaces",
+      "name": "Control a bicycle on varied surfaces",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.reading.read-an-unfamiliar-technical-instruction",
+      "name": "Read an unfamiliar technical instruction",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "learn.source-evaluation.identify-the-author-of-a-source",
+      "name": "Identify the author of a source",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.injury-prevention.clear-a-walking-path-of-trip-hazards",
+      "name": "Clear a walking path of trip hazards",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.writing.write-a-complete-sentence",
+      "name": "Write a complete sentence",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "reason.probability-statistics.build-bayesian-model",
+      "name": "Build a Bayesian model",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.web-frontend.manage-focus-after-an-interface-change",
+      "name": "Manage focus after an interface change",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.emergency-response.move-away-from-an-immediate-danger",
+      "name": "Move away from an immediate danger",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.sleep-rest.plan-recovery-between-demanding-days",
+      "name": "Plan recovery between demanding days",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.data-structures-algorithms.sort-records-by-multiple-keys",
+      "name": "Sort records by multiple keys",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.money-budgeting.set-a-weekly-spending-limit",
+      "name": "Set a weekly spending limit",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.heat-technique.coordinate-five-components",
+      "name": "Coordinate five cooked components",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.second-language.follow-a-simple-transaction-in-another-language",
+      "name": "Follow a simple transaction in another language",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.balance-coordination.balance-one-leg-20s",
+      "name": "Balance on one leg for 20 seconds",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.locomotion.walk-down-a-gentle-slope",
+      "name": "Walk down a gentle slope",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "learn.notes-capture.separate-quotations-from-paraphrases",
+      "name": "Separate quotations from paraphrases",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "home.cleaning-laundry.sort-laundry-load",
+      "name": "Sort a laundry load",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.web-frontend.persist-interface-state-locally",
+      "name": "Persist interface state locally",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.debugging.diagnose-a-timing-dependent-failure",
+      "name": "Diagnose a timing-dependent failure",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.data-structures-algorithms.analyse-time-complexity-of-nested-loops",
+      "name": "Analyse time complexity of nested loops",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.floor.place-an-object-at-a-target",
+      "name": "Place an object at a target",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.orientation-navigation.orient-a-map-to-the-surroundings",
+      "name": "Orient a map to the surroundings",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.seasoning-tasting.correct-complex-balance",
+      "name": "Correct a complex flavour balance",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.water-and-wheels.control-bicycle-15m",
+      "name": "Control a bicycle for 15 minutes",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.writing.write-a-technical-explanation-for-non-specialists",
+      "name": "Write a technical explanation for non-specialists",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.sleep-rest.plan-a-consistent-sleep-opportunity",
+      "name": "Plan a consistent sleep opportunity",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.floor.bring-both-hands-together",
+      "name": "Bring both hands together",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "learn.deliberate-practice.design-a-drill-for-a-recurring-error",
+      "name": "Design a drill for a recurring error",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.travel.check-entry-and-transit-requirements",
+      "name": "Check entry and transit requirements",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.endurance.jog-continuously-for-ten-minutes",
+      "name": "Jog continuously for ten minutes",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "home.cleaning-laundry.remove-a-fresh-water-based-stain",
+      "name": "Remove a fresh water-based stain",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "art.music.repeat-a-short-melody-by-ear",
+      "name": "Repeat a short melody by ear",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.version-control.rewrite-a-local-change-into-clear-commits",
+      "name": "Rewrite a local change into clear commits",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.travel.adapt-a-journey-after-cancellation",
+      "name": "Adapt a journey after cancellation",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.money-budgeting.evaluate-a-loan-using-effective-cost",
+      "name": "Evaluate a loan using effective cost",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.floor.rise-to-standing",
+      "name": "Rise to standing",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "digital.devices-os.restore-a-distributed-digital-archive",
+      "name": "Restore a distributed digital archive",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "art.drawing.draw-five-distinct-line-weights",
+      "name": "Draw five distinct line weights",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "learn.memory.build-spaced-retrieval-plan",
+      "name": "Build a spaced retrieval plan",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "reason.estimation-modelling.model-capacity-constraints",
+      "name": "Model capacity constraints",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.data-handling.design-a-versioned-data-contract",
+      "name": "Design a versioned data contract",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.knife-prep.maintain-a-consistent-cutting-rhythm",
+      "name": "Maintain a consistent cutting rhythm",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "home.repair-assembly.repair-a-small-surface-crack",
+      "name": "Repair a small surface crack",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.hygiene-selfcare.choose-clothing-for-weather-conditions",
+      "name": "Choose clothing for weather conditions",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "learn.source-evaluation.evaluate-the-method-behind-a-claim",
+      "name": "Evaluate the method behind a claim",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.fine-motor.rotate-small-object",
+      "name": "Rotate a small object",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.heat-technique.recover-a-sauce-that-begins-to-split",
+      "name": "Recover a sauce that begins to split",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.speaking-listening.ask-for-clarification-during-conversation",
+      "name": "Ask for clarification during conversation",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.second-language.give-personal-details-in-another-language",
+      "name": "Give personal details in another language",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.locomotion.stop-safely-while-walking",
+      "name": "Stop safely while walking",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "art.music.maintain-an-independent-part-in-a-duet",
+      "name": "Maintain an independent part in a duet",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "digital.digital-safety.enable-an-additional-sign-in-factor",
+      "name": "Enable an additional sign-in factor",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.injury-prevention.set-up-lighting-for-a-manual-task",
+      "name": "Set up lighting for a manual task",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.data-structures-algorithms.optimise-a-slow-collection-operation",
+      "name": "Optimise a slow collection operation",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.orientation-navigation.navigate-a-multi-day-journey-from-maps",
+      "name": "Navigate a multi-day journey from maps",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.emergency-response.alert-nearby-people-to-danger",
+      "name": "Alert nearby people to danger",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.contracts-admin.prepare-evidence-for-an-administrative-appeal",
+      "name": "Prepare evidence for an administrative appeal",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.hygiene-selfcare.plan-self-care-for-a-multiday-journey",
+      "name": "Plan self-care for a multiday journey",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.reading.extract-three-details",
+      "name": "Extract three details from a page",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "home.electrical-plumbing-basics.test-whether-a-circuit-is-de-energised",
+      "name": "Test whether a circuit is de-energised",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.money-budgeting.build-a-one-month-cash-flow-plan",
+      "name": "Build a one-month cash-flow plan",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "digital.media-handling.balance-speech-and-music-levels",
+      "name": "Balance speech and music levels",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.fine-motor.manipulate-two-small-parts-together",
+      "name": "Manipulate two small parts together",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.balance-coordination.throw-to-a-moving-partner",
+      "name": "Throw to a moving partner",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "social.feedback-teaching.correct-one-error-without-discouraging-practice",
+      "name": "Correct one error without discouraging practice",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.knife-prep.separate-edible-parts-from-trim",
+      "name": "Separate edible parts from trim",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.balance-coordination.step-to-a-repeated-beat",
+      "name": "Step to a repeated beat",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "digital.browsing-search.archive-a-web-source-with-its-date",
+      "name": "Archive a web source with its date",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "social.listening-empathy.clarify-an-ambiguous-emotional-statement",
+      "name": "Clarify an ambiguous emotional statement",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.baking.knead-dough-to-a-smooth-texture",
+      "name": "Knead dough to a smooth texture",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "art.performance.perform-rehearsed-piece",
+      "name": "Perform a rehearsed piece",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "social.listening-empathy.ask-before-offering-advice",
+      "name": "Ask before offering advice",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.strength-carry.move-a-bulky-object-with-a-partner",
+      "name": "Move a bulky object with a partner",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "art.performance.hold-a-character-objective-through-a-scene",
+      "name": "Hold a character objective through a scene",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "care.risk-assessment.identify-immediate-hazard",
+      "name": "Identify an immediate hazard",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "lang.comprehension-summary.summarise-a-short-spoken-account",
+      "name": "Summarise a short spoken account",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "name": "Adapt a sequence to a partner",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "reason.geometry-measurement.set-out-right-angle",
+      "name": "Set out a right angle",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.debugging.inspect-state-at-a-breakpoint",
+      "name": "Inspect state at a breakpoint",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "social.conversation.clarify-a-mistaken-assumption",
+      "name": "Clarify a mistaken assumption",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.meal-planning.plan-three-day-menu",
+      "name": "Plan a three-day menu",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.locomotion.walk-while-carrying-a-light-object",
+      "name": "Walk while carrying a light object",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "home.textiles-sewing.adjust-a-pattern-for-length",
+      "name": "Adjust a pattern for length",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "social.conversation.navigate-competing-conversational-goals",
+      "name": "Navigate competing conversational goals",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "reason.algebra-symbolic.analyse-an-exponential-relationship",
+      "name": "Analyse an exponential relationship",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "world.orientation-navigation.navigate-an-unfamiliar-building",
+      "name": "Navigate an unfamiliar building",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "body.fine-motor.stack-five-small-objects",
+      "name": "Stack five small objects",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "eng.systems-networking.automate-a-repeatable-service-deployment",
+      "name": "Automate a repeatable service deployment",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "reason.estimation-modelling.compare-competing-models",
+      "name": "Compare competing models",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "social.presenting.explain-one-visual-aid-clearly",
+      "name": "Explain one visual aid clearly",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "food.baking.bake-a-simple-loaf-consistently",
+      "name": "Bake a simple loaf consistently",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    },
+    {
+      "id": "learn.synthesis.construct-new-framework",
+      "name": "Construct a new explanatory framework",
+      "valid": true,
+      "reason": "Observable, retained, atomic enough, and independently self-assessable at the stated threshold."
+    }
+  ],
+  "edge_results": [
+    {
+      "from": "social.feedback-teaching.explain-the-reason-for-a-correction",
+      "to": "social.feedback-teaching.observe-practice-using-clear-criteria",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.baking.bake-a-simple-loaf-consistently",
+      "to": "food.baking.create-a-stable-whipped-mixture",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.second-language.describe-a-routine-in-another-language",
+      "to": "reason.arithmetic.check-a-multistep-calculation-by-another-method",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "lang.reading.read-a-twenty-page-text-for-detail",
+      "to": "home.textiles-sewing.take-body-measurements-for-a-garment",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "learn.deliberate-practice.design-feedback-loop",
+      "to": "learn.deliberate-practice.run-longitudinal-practice-study",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.comprehension-summary.extract-an-argument-s-supporting-reasons",
+      "to": "care.first-aid.monitor-a-casualty-until-help-arrives",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "lang.reading.read-a-twenty-page-text-for-detail",
+      "to": "home.cleaning-laundry.choose-a-cleaning-method-for-an-unfamiliar-surface",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "body.endurance.cycle-continuously-for-fifteen-minutes",
+      "to": "body.endurance.jog-continuously-for-ten-minutes",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "art.craft-making.cut-a-clean-edge-in-sheet-material",
+      "to": "art.craft-making.fold-material-along-a-scored-line",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "learn.synthesis.combine-four-sources",
+      "to": "learn.synthesis.build-a-concept-map-from-five-sources",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.comprehension-summary.distinguish-examples-from-conclusions",
+      "to": "food.heat-technique.control-two-pans-at-once",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "reason.logic-argument.distinguish-a-reason-from-an-example",
+      "to": "eng.debugging.separate-symptoms-from-root-cause",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "lang.reading.match-a-written-label-to-an-object",
+      "to": "lang.reading.infer-a-word-s-meaning-from-context",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.speaking-listening.ask-clear-question",
+      "to": "lang.second-language.ask-for-a-location-in-another-language",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.match-a-written-label-to-an-object",
+      "to": "world.time-planning.place-five-tasks-in-dependency-order",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "lang.reading.detect-a-contradiction-within-a-document",
+      "to": "food.baking.create-a-stable-whipped-mixture",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "lang.reading.identify-who-did-what-in-a-narrative",
+      "to": "reason.logic-argument.identify-a-contradiction-between-claims",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "care.hygiene-selfcare.wash-the-body-independently",
+      "to": "care.hygiene-selfcare.complete-a-morning-self-care-sequence",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "world.orientation-navigation.estimate-walking-distance-from-map-scale",
+      "to": "world.orientation-navigation.follow-a-route-using-cardinal-directions",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "home.cleaning-laundry.remove-a-fresh-water-based-stain",
+      "to": "home.cleaning-laundry.hand-wash-a-delicate-item",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.files-directories.create-folder-structure",
+      "to": "digital.files-directories.create-a-compressed-archive",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.identify-who-did-what-in-a-narrative",
+      "to": "reason.arithmetic.calculate-a-proportional-share",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "body.balance-coordination.change-rhythm-without-losing-the-pattern",
+      "to": "body.balance-coordination.adapt-a-sequence-to-a-partner",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.estimation-modelling.check-a-model-against-one-observation",
+      "to": "eng.security.model-threats-for-a-small-service",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "body.water-and-wheels.exit-shallow-water-safely",
+      "to": "body.water-and-wheels.mount-and-dismount-a-bicycle",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.geometry-measurement.measure-an-angle-with-a-guide",
+      "to": "reason.algebra-symbolic.simplify-a-symbolic-expression",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "social.conflict-negotiation.negotiate-across-unequal-priorities",
+      "to": "world.contracts-admin.negotiate-a-clear-service-amendment",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "art.drawing.compose-three-objects-within-a-frame",
+      "to": "art.drawing.draw-reflective-material-from-observation",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.documents-spreadsheets.sort-a-data-table-by-two-fields",
+      "to": "digital.documents-spreadsheets.calculate-a-conditional-total",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.files-directories.design-a-long-term-archive-structure",
+      "to": "world.money-budgeting.model-three-long-term-savings-scenarios",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "care.first-aid.support-a-minor-sprain",
+      "to": "care.first-aid.manage-a-nosebleed-safely",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.web-frontend.manage-focus-after-an-interface-change",
+      "to": "eng.web-frontend.optimise-images-for-responsive-delivery",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.probability-statistics.choose-a-representative-summary-statistic",
+      "to": "eng.data-structures-algorithms.choose-an-algorithm-under-memory-limits",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "lang.writing.write-a-complete-sentence",
+      "to": "lang.writing.organise-a-paragraph-around-one-point",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.writing.structure-a-multi-section-document",
+      "to": "lang.writing.write-a-technical-explanation-for-non-specialists",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.version-control.restore-one-file-from-an-earlier-revision",
+      "to": "eng.debugging.reproduce-a-reported-software-defect",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.locate-evidence-for-a-stated-claim",
+      "to": "lang.reading.detect-a-contradiction-within-a-document",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.speaking-listening.ask-for-clarification-during-conversation",
+      "to": "body.endurance.jog-continuously-for-ten-minutes",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "eng.debugging.inspect-state-at-a-breakpoint",
+      "to": "eng.debugging.bisect-a-behavioural-regression",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "care.emergency-response.call-emergency-help",
+      "to": "care.emergency-response.choose-a-safe-assembly-point",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.writing.structure-a-multi-section-document",
+      "to": "lang.writing.edit-for-consistency-across-sections",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.knife-prep.stabilise-food-before-cutting",
+      "to": "food.hosting.set-a-table-for-a-shared-meal",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.writing.write-a-five-sentence-account",
+      "to": "lang.writing.write-a-factual-event-summary",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.comprehension-summary.separate-stated-facts-from-implications",
+      "to": "body.endurance.plan-and-pace-an-all-day-endurance-effort",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "social.conversation.navigate-competing-conversational-goals",
+      "to": "social.conversation.sustain-rapport-across-repeated-meetings",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "world.money-budgeting.separate-fixed-and-variable-costs",
+      "to": "world.money-budgeting.calculate-the-total-cost-of-instalments",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.identify-the-main-sentence-in-a-paragraph",
+      "to": "digital.devices-os.install-an-operating-system-update",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "food.meal-planning.plan-three-day-menu",
+      "to": "food.meal-planning.plan-five-meals-within-a-fixed-budget",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.extract-three-details",
+      "to": "reason.algebra-symbolic.plot-a-linear-relationship-from-a-formula",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "digital.browsing-search.distinguish-an-advertisement-from-a-result",
+      "to": "digital.browsing-search.archive-a-web-source-with-its-date",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "home.cleaning-laundry.dry-clothing-to-prevent-distortion",
+      "to": "home.cleaning-laundry.clean-a-room-in-an-efficient-sequence",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.systems-networking.design-graceful-shutdown-behaviour",
+      "to": "eng.systems-networking.trace-latency-across-service-boundaries",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.comprehension-summary.summarise-five-paragraph-text",
+      "to": "lang.comprehension-summary.trace-references-across-a-document",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "art.drawing.draw-five-distinct-line-weights",
+      "to": "art.drawing.draw-overlapping-forms-clearly",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.speaking-listening.give-a-two-step-spoken-direction",
+      "to": "food.knife-prep.slice-soft-food-evenly",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "learn.source-evaluation.cross-check-a-claim-with-independent-sources",
+      "to": "learn.deliberate-practice.increase-task-difficulty-after-stable-success",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.match-a-written-label-to-an-object",
+      "to": "learn.memory.recall-a-five-step-sequence",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "lang.reading.match-a-written-label-to-an-object",
+      "to": "digital.digital-safety.enable-an-additional-sign-in-factor",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "care.first-aid.use-an-automated-defibrillator-trainer",
+      "to": "care.first-aid.immobilise-a-suspected-limb-injury",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.files-directories.find-a-file-by-name-and-date",
+      "to": "digital.files-directories.compare-two-file-versions",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.knife-prep.mince-an-ingredient-consistently",
+      "to": "food.knife-prep.portion-a-large-ingredient-safely",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "home.gardening.sow-seeds-at-a-stated-depth",
+      "to": "home.electrical-plumbing-basics.locate-a-utility-shutoff",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.programming-fundamentals.design-a-small-module-boundary",
+      "to": "eng.programming-fundamentals.write-deterministic-unit-tests",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "world.project-work.manage-interdependent-project",
+      "to": "world.project-work.record-and-resolve-project-risks",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "body.strength-carry.carry-five-kilograms-for-twenty-metres",
+      "to": "body.strength-carry.carry-an-uneven-load-safely",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.comprehension-summary.summarise-five-paragraph-text",
+      "to": "learn.synthesis.combine-four-sources",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "lang.writing.write-a-complete-sentence",
+      "to": "home.repair-assembly.replace-a-worn-handle",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "art.drawing.measure-proportions-by-sight",
+      "to": "art.drawing.draw-a-figure-in-a-timed-pose",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.logic-argument.revise-an-argument-after-a-valid-objection",
+      "to": "reason.logic-argument.analyse-a-circular-argument",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "body.endurance.pace-a-one-hour-continuous-effort",
+      "to": "body.endurance.plan-and-pace-an-all-day-endurance-effort",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.second-language.exchange-greetings-in-another-language",
+      "to": "home.vehicle-basics.check-tyre-pressure-against-a-label",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "lang.speaking-listening.repeat-a-spoken-instruction-accurately",
+      "to": "lang.comprehension-summary.identify-a-text-s-central-point",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.baking.judge-dough-fermentation-by-volume",
+      "to": "food.baking.create-a-stable-whipped-mixture",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.files-directories.organise-a-shared-folder-for-retrieval",
+      "to": "world.project-work.estimate-effort-for-a-small-project",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "eng.security.apply-least-privilege-to-a-service-account",
+      "to": "eng.security.rotate-a-compromised-secret",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "art.video-motion.edit-one-minute-sequence",
+      "to": "art.video-motion.synchronise-sound-to-visible-action",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.baking.mix-a-batter-without-overworking-it",
+      "to": "food.baking.judge-dough-fermentation-by-volume",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.logic-argument.list-the-premises-supporting-a-claim",
+      "to": "reason.logic-argument.find-an-unstated-assumption",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.media-handling.add-accurate-captions-to-a-short-video",
+      "to": "art.music.compose-a-complete-short-piece",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "eng.version-control.record-coherent-change",
+      "to": "eng.systems-networking.diagnose-network-request",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.writing.write-a-persuasive-paragraph",
+      "to": "lang.writing.structure-a-multi-section-document",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "art.drawing.block-in-simple-shapes-from-observation",
+      "to": "art.design-visual.design-a-clear-visual-hierarchy",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.kitchen-safety.separate-raw-and-ready-to-eat-preparation",
+      "to": "food.kitchen-safety.reheat-food-evenly",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.seasoning-tasting.adjust-seasoning-in-small-increments",
+      "to": "food.seasoning-tasting.use-aroma-to-compare-freshness",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "social.presenting.explain-one-visual-aid-clearly",
+      "to": "social.presenting.speak-audibly-to-a-small-group",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.speaking-listening.ask-for-clarification-during-conversation",
+      "to": "lang.speaking-listening.adjust-speaking-pace-for-a-listener",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.browsing-search.verify-web-source",
+      "to": "world.contracts-admin.identify-an-obligation-in-an-agreement",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "eng.programming-fundamentals.define-a-function-with-two-parameters",
+      "to": "eng.programming-fundamentals.model-a-domain-value-with-a-type",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.baking.bake-a-simple-loaf-consistently",
+      "to": "food.baking.adjust-baking-time-for-portion-size",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "world.contracts-admin.gather-required-documents-from-a-checklist",
+      "to": "world.money-budgeting.reconcile-a-statement-against-records",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.version-control.rewrite-a-local-change-into-clear-commits",
+      "to": "eng.version-control.review-a-proposed-change-systematically",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.speaking-listening.describe-a-familiar-object-clearly",
+      "to": "lang.speaking-listening.adjust-speaking-pace-for-a-listener",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.knife-prep.cut-uniform-pieces",
+      "to": "food.knife-prep.portion-a-large-ingredient-safely",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "home.hand-tools.mark-a-straight-cutting-line",
+      "to": "home.hand-tools.drive-a-nail-without-bending-it",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.web-frontend.optimise-images-for-responsive-delivery",
+      "to": "eng.web-frontend.diagnose-a-layout-across-viewport-sizes",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.comprehension-summary.separate-stated-facts-from-implications",
+      "to": "lang.comprehension-summary.synthesize-a-long-technical-document",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.documents-spreadsheets.summarise-data-with-a-pivot-table",
+      "to": "digital.documents-spreadsheets.document-a-workbook-s-assumptions",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "art.music.transpose-a-simple-melody",
+      "to": "art.music.perform-a-twenty-minute-programme",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.infer-a-word-s-meaning-from-context",
+      "to": "digital.digital-safety.remove-hidden-location-data-from-a-photo",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "eng.web-frontend.handle-loading-and-error-states",
+      "to": "eng.web-frontend.optimise-images-for-responsive-delivery",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.read-a-twenty-page-text-for-detail",
+      "to": "lang.reading.read-an-unfamiliar-technical-instruction",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.detect-a-contradiction-within-a-document",
+      "to": "reason.probability-statistics.detect-a-misleading-graph-scale",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "lang.second-language.read-a-short-practical-notice-in-another-language",
+      "to": "lang.speaking-listening.explain-a-complex-issue-without-notes",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.read-an-unfamiliar-technical-instruction",
+      "to": "reason.estimation-modelling.compare-competing-models",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "art.music.transpose-a-simple-melody",
+      "to": "art.music.improvise-over-a-repeating-harmonic-pattern",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "home.electrical-plumbing-basics.replace-a-low-voltage-fitting",
+      "to": "home.electrical-plumbing-basics.seal-a-small-threaded-plumbing-joint",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.files-directories.move-files-between-folders",
+      "to": "digital.files-directories.create-a-compressed-archive",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "learn.deliberate-practice.choose-one-measurable-practice-variable",
+      "to": "learn.synthesis.organise-evidence-by-competing-explanations",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.web-frontend.style-a-responsive-content-column",
+      "to": "eng.web-frontend.manage-focus-after-an-interface-change",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.comprehension-summary.trace-references-across-a-document",
+      "to": "lang.comprehension-summary.produce-an-executive-summary",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.estimation-modelling.estimate-an-order-of-magnitude",
+      "to": "reason.estimation-modelling.perform-a-sensitivity-check",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "home.electrical-plumbing-basics.test-whether-a-circuit-is-de-energised",
+      "to": "home.electrical-plumbing-basics.replace-a-low-voltage-fitting",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.digital-safety.recognise-a-suspicious-web-address",
+      "to": "digital.digital-safety.share-a-file-with-limited-access",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "social.presenting.present-three-points-in-sequence",
+      "to": "learn.notes-capture.summarise-a-page-in-three-notes",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "social.feedback-teaching.coach-skill-practice",
+      "to": "social.groups-facilitation.lead-high-stakes-deliberation",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.documents-spreadsheets.write-a-formula-using-cell-references",
+      "to": "digital.documents-spreadsheets.summarise-data-with-a-pivot-table",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.estimation-modelling.estimate-an-order-of-magnitude",
+      "to": "reason.estimation-modelling.check-a-model-against-one-observation",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.files-directories.create-a-compressed-archive",
+      "to": "digital.files-directories.compare-two-file-versions",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.data-handling.stream-records-larger-than-memory",
+      "to": "eng.data-handling.preserve-provenance-through-a-transformation",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.logic-argument.revise-an-argument-after-a-valid-objection",
+      "to": "reason.logic-argument.evaluate-a-long-chain-of-reasoning",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.writing.write-a-comparison-of-two-options",
+      "to": "lang.writing.adapt-tone-for-a-named-audience",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.programming-fundamentals.refactor-duplicated-logic",
+      "to": "eng.programming-fundamentals.design-a-reusable-application-library",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "art.design-visual.create-a-reusable-visual-component",
+      "to": "art.design-visual.adapt-a-layout-to-two-screen-sizes",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.probability-statistics.calculate-a-median-and-range",
+      "to": "reason.probability-statistics.detect-a-misleading-graph-scale",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "home.electrical-plumbing-basics.replace-a-tap-washer",
+      "to": "home.electrical-plumbing-basics.diagnose-a-continuously-running-toilet",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.programming-fundamentals.write-structured-data-to-a-file",
+      "to": "eng.programming-fundamentals.design-a-small-module-boundary",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "reason.arithmetic.estimate-a-calculation-before-solving",
+      "to": "reason.arithmetic.convert-between-metric-units",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "body.strength-carry.push-a-loaded-door-open",
+      "to": "body.strength-carry.carry-five-kilograms-for-twenty-metres",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "art.craft-making.repair-a-damaged-handmade-object",
+      "to": "art.craft-making.develop-a-prototype-through-three-iterations",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.media-handling.remove-background-noise-from-speech",
+      "to": "digital.media-handling.add-accurate-captions-to-a-short-video",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "care.first-aid.immobilise-a-suspected-limb-injury",
+      "to": "care.first-aid.prioritise-care-for-two-casualties",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.match-a-written-label-to-an-object",
+      "to": "body.strength-carry.lift-a-ten-kilogram-object-safely",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "art.photography.compose-clear-subject",
+      "to": "art.photography.balance-foreground-and-background",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.hosting.coordinate-seating-and-serving-for-six",
+      "to": "food.hosting.adapt-service-for-stated-dietary-needs",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.speaking-listening.give-a-two-step-spoken-direction",
+      "to": "digital.documents-spreadsheets.filter-rows-using-two-conditions",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "home.repair-assembly.tighten-a-loose-joint",
+      "to": "home.repair-assembly.align-two-parts-before-fastening",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.speaking-listening.paraphrase-another-person-s-statement",
+      "to": "lang.speaking-listening.deliver-a-clear-two-minute-explanation",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "world.money-budgeting.build-a-one-month-cash-flow-plan",
+      "to": "world.money-budgeting.evaluate-a-loan-using-effective-cost",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.files-directories.compare-two-file-versions",
+      "to": "art.design-visual.adapt-a-layout-to-two-screen-sizes",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    },
+    {
+      "from": "world.orientation-navigation.retrace-a-route-from-memory",
+      "to": "world.orientation-navigation.navigate-an-unfamiliar-building",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "social.listening-empathy.maintain-boundaries-during-emotional-support",
+      "to": "social.listening-empathy.sustain-supportive-listening-over-repeated-conversations",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.writing.edit-for-consistency-across-sections",
+      "to": "care.first-aid.prioritise-care-for-two-casualties",
+      "valid": false,
+      "reason": "Literacy may help here, but a person can perform the target through demonstration or spoken guidance."
+    },
+    {
+      "from": "learn.notes-capture.link-related-notes-across-two-topics",
+      "to": "learn.notes-capture.convert-rough-notes-into-a-structured-outline",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "learn.study-technique.set-a-question-for-a-study-session",
+      "to": "learn.source-evaluation.identify-the-author-of-a-source",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.follow-cross-references-in-a-document",
+      "to": "lang.reading.read-an-unfamiliar-technical-instruction",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.debugging.bisect-a-behavioural-regression",
+      "to": "eng.debugging.diagnose-a-timing-dependent-failure",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "lang.reading.identify-who-did-what-in-a-narrative",
+      "to": "lang.reading.detect-a-contradiction-within-a-document",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "eng.programming-fundamentals.handle-asynchronous-completion",
+      "to": "eng.programming-fundamentals.implement-validation-at-an-input-boundary",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "food.baking.knead-dough-to-a-smooth-texture",
+      "to": "food.baking.bake-a-simple-loaf-consistently",
+      "valid": true,
+      "reason": "The prerequisite is a lower-threshold component in the same capability family."
+    },
+    {
+      "from": "digital.documents-spreadsheets.apply-a-consistent-heading-structure",
+      "to": "art.craft-making.apply-an-even-surface-finish",
+      "valid": true,
+      "reason": "The prerequisite is a concrete capability supplied through an approved cross-domain hub."
+    }
+  ]
+}
