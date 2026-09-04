@@ -5,12 +5,16 @@
   "type": "module",
   "packageManager": "pnpm@10.33.1",
   "scripts": {
-    "typecheck": "tsc --noEmit",
+    "dev": "pnpm --filter @skillgraph/web dev",
+    "build": "pnpm run build:graph && pnpm --filter @skillgraph/web build",
+    "typecheck": "tsc --noEmit && pnpm -r --if-present run typecheck",
     "test": "vitest run",
+    "test:e2e": "pnpm --filter @skillgraph/web test:e2e",
     "validate:skills": "tsx scripts/validate-skills.ts",
     "validate:stage": "tsx scripts/validate-stage-graph.ts",
     "validate": "pnpm run typecheck && pnpm run test && pnpm run validate:skills && pnpm run validate:stage",
     "build:index": "tsx scripts/build-index.ts",
+    "build:graph": "tsx scripts/build-graph.ts",
     "residual-budget": "tsx scripts/residual-budget.ts",
     "check-distribution": "tsx scripts/check-distribution.ts",
     "pass2": "tsx scripts/generate-pass2.ts"
@@ -29,6 +33,7 @@
     ,"pass13": "tsx scripts/lint-safety-neutrality.ts && tsx scripts/build-index.ts && tsx scripts/build-final-embeddings.ts"
     ,"pass14": "tsx scripts/redteam.ts"
     ,"pass15": "python scripts/compute-layout.py --seed 42"
+    ,"pass16": "tsx scripts/build-graph.ts"
   },
   "devDependencies": {
     "@types/node": "26.4.1",

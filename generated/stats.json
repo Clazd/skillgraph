@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "generated_at": "1970-01-01T00:00:00.000Z",
+  "active_skills": 1000,
+  "domain_counts": {
+    "body": 110,
+    "eng": 110,
+    "lang": 90,
+    "social": 90,
+    "art": 90,
+    "food": 80,
+    "reason": 80,
+    "digital": 80,
+    "world": 80,
+    "care": 70,
+    "home": 70,
+    "learn": 50
+  },
+  "difficulty_counts": {
+    "0": 60,
+    "1": 120,
+    "2": 200,
+    "3": 230,
+    "4": 200,
+    "5": 130,
+    "6": 50,
+    "7": 10
+  },
+  "hard_edges": 2524,
+  "soft_edges": 3809,
+  "edges_per_node": 6.333,
+  "hard_edges_per_node": 2.524,
+  "cross_domain_hard_edges": 611,
+  "cross_domain_ratio": 0.242076,
+  "roots": 120,
+  "roots_by_domain": {
+    "art": 8,
+    "body": 48,
+    "care": 8,
+    "digital": 6,
+    "eng": 5,
+    "food": 5,
+    "home": 7,
+    "lang": 9,
+    "learn": 4,
+    "reason": 5,
+    "social": 9,
+    "world": 6
+  },
+  "connected_components": 1,
+  "longest_root_to_node_chain": 7,
+  "gzip_bytes": 59318
+}

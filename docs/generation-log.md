@@ -143,3 +143,5 @@
 | 12 | 61 | world text | 15 | 40 | 25 |
 | 12 | 62 | world text | 15 | 25 | 10 |
 | 12 | 63 | world text | 10 | 10 | 0 |
+| 15 | 1 | deterministic layout | 1000 | 1000 | 0 |
+| 16 | 1 | release graph | 1000 | 1000 | 0 |
